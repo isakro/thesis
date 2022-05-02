@@ -1,0 +1,10 @@
+@perreault2019[23--29] sees the quality of archaeological material as determined by four dimensions: the scope, sampling interval, resolution and dimensionality of the data. Here, scope refers to the total extent of space and time encompassed by the dataset under consideration. The sampling interval is the distance of time and space between individual data points. The resolution refers to how much space and time is averaged within each of the analytical units; that is, the extent of the spatial and temporal ranges collapsed within each data point. And finally the dimensionality of the data is the number of attributes that have been measured for each data point.
+
+Drawing on the standard Bayesian formulation for the calibration procedure of individual ^14^C-dates [e.g. ], the probability density associated with the calendar age can then be given as
+
+\begin{equation} 
+  p(x_{i} \mid \theta_{i}) = p(\theta_{i} \mid x_{i} )p(x_{i} )
+  (\#eq:bayes)
+\end{equation} 
+
+where for any site $i$ the unknown calendar date is denoted $\theta$ and $x$ denotes the elevation of the contemporaneous sea-level, relative to its present level.
