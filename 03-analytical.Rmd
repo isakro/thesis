@@ -1,12 +1,31 @@
 # Research design and analytical framework
 
-## The quality of the archaeological record
+## What is the goal of archaeology?
 
-## Model-based archaeology
+Should the goal of archaeological research. This question might first appear hopelessly abstract and irrelevant  [@arponen2019, 2]. While arguments against this has been made, there does not appear to be any good alternatives to see the main goal of research as truth, where truth is defined by what is the case. The concept of truth, and whether it can or should instead be conceived of as for example what we believe, what is the best for us, or a pointless concept altogether, all inevitably appear to lead. That nothing is true is perhaps difficult to disprove, but is entirely untenable  Dismantling of the entire scientific enterprise and. To say that truth has to be the ultimate goal does not  
 
-## The hunter-gatherer model
+## Merits of a model-based archaeology
+
+## Hunter-fisher-gatherers
+
+Hunter-gatherers or foragers are useful but fuzzy and not unproblematic synonyms that are typically, but not exclusively, used to denote societies that have a subsistence-base that is for the most part not based on agricultural produce.  
+
+Some expectations can be made on the bassi
+
+## Temporal slicing and modifiable temporal units
+
+In his review of the Norwegian Mesolithic, @bjerck2008 divides the Mesolithic into a series of 500-year time intervals denoted chronozones. His point is that typologies established before the advent of radiocarbon dating has, where various phenomena of material culture are. With radiocarbon dating, however, there was no longer a archaeological necessity for observations on typology and technology to be entirely conflated with chronology, and it was in a sense now possible for variation in material culture to occur also on the spatial scale. The point of @bjerck2008 is to instead refer his review to the calendar scale in the form of 500-year intervals, as this is neutral with respects to cultural and environmental variation across space.
+
+A related avenue for critically engaging with the periodisation of the Norwegian Mesolithic was initially suggested by @bjerck2008, based on dividing the period into 500-year time-slices termed 'chronozones'. These were defined irrespective of typological developments and were instead to roughly coincide with major environmental developments. The purpose of introducing this concept was to counteract the analytical complacency and uncritical reproduction of established cultural history that a cemented and undynamic typology can bring about. While this is certainly an important point, chronozones do not represent the best solution to this issue in my mind. First, a chronological framework independent of cultural developments is already available in form of the calendar scale, and simply describing developments within 500-year time intervals would seem to provide an adequate solution that does not necessitate the introduction of the complicating concept of chronozones. Secondly, chronozones have a vague connection to environmental developments that obviously do not occur within discrete units of 500 years. Furthermore, the relevance of these developments for human populations is at best unresolved. The benefit of typology is that it is entirely and clearly determined by developments in material culture, which we as archaeologists assume reflect meaningful cultural developments more generally. The benefit of the calendar scale is that it is entirely determined by, irrespective of what has otherwise transpired. Coupling these two dimensions would thus allows us to. The relevance of chronozones is unclear, and the use of the concept instead introduces vague  . While there might be issues with a typological framework, it is at least clear what it aims to represent. 
+
+As @bevan2021 point out, archaeological periodisation will always be arbitrary in the same way that spatial delineation of cultural and societal phenomena will. The approach taken here has therefore attempted to develop longitudinal time-series that are construed as independently of typo-chronological frameworks as possible. The chronological reference frame that was presented in the last chapter is rather used a narrative backdrop than for informing the analytical treatment of the data. This is made possible by leaning on the absolute dates provided by radiocarbon and shoreline dating in the treatment of the sites. However, a couple of qualifications are necessary here. In outlining a procedure for shoreline dating I have   However, not extensively employing typological dating is likely to have led to some loss in chronological precision, as the temporal resolution provided by means of shoreline dating can sometimes be of a precision below that of typology, dependent on the precise.
+
 
 ## Palaeodemographic modelling
+Palaeodemography or the study of temporal and spatial variation in the size and structure of past populations is a fundamental problem for archaeology [e.g. @shennan2001; @french2021]. This follows from the fact that demography is a determining factor in processes such as genetic diversification, social network structure and scaling, technological innovation and accumulation, as well as.
 
+One Known as the forager paradox. [@french2021, 4]
+One of the implications of these findings is that the interpretation of archaeological proxies for population size is not as straightforward as one might immediately think. This in turn, needs to be kept in mind both when devising and comparing multiple population proxies, and in the construction of the narrative that builds on any numerical results.
 
+Demographic modelling in early Holocene Fennoscandia has taken on a few different. In most recent years this is the SPD approach [@solheim2018; @solheim2020; @nielsen20; @jorgensen2020]. The SPD approach is based on summing the probability distribution associated with ^14^C-dates. However, there are a series of methodological and conceptual issues with this procedure, some of which have been dealt with and others which are integrated into the methodology and needs to be accounted for when interpreting any results.  
 

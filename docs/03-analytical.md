@@ -1,12 +1,9 @@
 # Research design and analytical framework
 
-## The quality of the archaeological record
+## Temporal resolution and time perspectivism
 
-## Model-based archaeology
+## Merits of a model-based archaeology
 
-## The hunter-gatherer model
+## Hunter-fisher-gatherers
 
-## Paleodemographic modelling
-
-
-
+## Palaeodemographic modelling
