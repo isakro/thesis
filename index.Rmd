@@ -5,6 +5,15 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
+output:
+  bookdown::pdf_book:
+    includes:
+    in_header: preamble.tex
+latex_engine: xelatex
+citation_package: default
+pandoc_args: ["--csl", "templates/saa.csl"]
+bookdown::epub_book:
+  stylesheet: style.css
 # biblio-style: apalike
 # csl: "../templates/saa.csl"
 link-citations: yes

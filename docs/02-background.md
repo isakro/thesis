@@ -1,8 +1,66 @@
 # Background
+This chapter presents the context of the study
+
+
+## Environmental setting
+
+The environmental setting for the Mesolithic in Scandinavia is first and foremost defined by the end of the Weichselian and the retreat of the Fennoscandian Ice Sheet [see @skar2018; @skar2022:106--109]. Most pronounced of the resulting environmental impacts is the melting of the ice sheet itself, corresponding eustatic sea-level change and isostatic rebound, as well as the developments of the Baltic Sea which transitioned between being open and closed off from. These developments form a  backdrop to which human societies developed. 
+
+The global climate reconstructions based on oxygen isotopes from the Greenland ice cores  gradual heating interspersed with cold events c. 10 300 cal BP, c. 9200 cal BP and 8200 cal BP. However, how these events played out locally and what consequences this development had for local ecosystems and human populations appears to vary quite dramatically across Northern Europe and thus cannot be assumed a priori to have been of relevance or concern for the societies dealt with in this thesis. 
+
+### Climactic oscilations
+
+
+Regional increase in temperature and perticipation rates from the early Preboreal, followed by mild winters and humid conditions in the Boreal with the Holocene Thermal Maximum locally dated to c. 6400--2400 BCE.  
+
+At the transition to the Boreal, the vegetation in the region goes from arctic vegetation characterised by to  
+
+### Sea-level change
+Depending on scale of, sea-level change can impact not only the habitational suitability of any individual location, but can have far-reaching effects that impact shoreline morphology, drainage systems [e.g. @gross2018; @astrup2018]. While such does require a response from human populations inhabiting impacted areas, it is by no means given that these have negative consequences for the . In fact, areas impacted by sea-level change can be attractive for hunting, fishing and gathering precisely because of these. The study of human response to sea-level change should therefore not assume that this would be the result of. How sea-level change impacts any given area will thus depend on a wide range of factors pertaining to the amplitude of shoreline displacement, the topographic setting, and the nature of societal systems which respond to these changes.
 
 ## The Norwegian Mesolithic
 
-## Geographical and temporal scope
+The definition of a Norwegian Mesolithic 
 
-## Coast-inland relations
+## Chronological framework
 
+The traditional typo-chronological framework for the Mesolithic in south-eastern Norway can in large part be ascribed @mikkelsen1975, and later adjustments by. Before Mikkelsen the Mesolithic was divided into a Fosna and a Nøstvet-phase, the latter of which was also believed to be concurrent with the.  
+The traditional chronological framework for the Mesolithic of south-eastern Norway has followed along the general lines of that presented by @glørstad2010[23, see table]. Recently this has been. The degree to which the chronological shifts are. While they form a natural frame for the narrative structure of this text, these should not been seen as the impact of strict periodisation is to some extent counteracted by treating. This will be treated in more detail in the next chapter 
+
+In a comprehensive reassessment that also includes the of the last decades, @reitan2022 has recently suggested a new chronological framework [also @reitan2016]. 
+
+
+
+### The Early Mesolithic (9300--8300 BCE)
+
+The first human presence in Norway is recorded from around 9300 BCE, which marks the start of the Early Mesolithic. Discussions have pertained to whether people first migrated into the area of present day Norway from a route along the coast of Western Sweden, from the north-east along the North Norwegian coast, or across the Norwegian trench to south-western Norway from Doggerbank. Most recent evidence suggest that a crossing from Doggerbank would not have been feasible due to the distances involved [@glorstad2016]. The present consensus is therefore that the earliest human dispersal into present day Norway is likely to have originated on the coast of western Sweden around 9500-9300 BCE, rapidly extending along most the Norwegian coastline, while a north-eastern migration reached Kola and northern Norway some time before 9000 BCE [@manninen2021]. These two routes are associated with the genetically defined 'western' hunter gatherers that migrated from the south, and 'eastern' hunter-gatherers from the north [@gunther2018], each identifiable also in terms of distinct material culture and technological traits [@manninen2021].
+
+These two are reflected both genetically and in terms of material culture
+
+Based on both genetic and archaeological data, the first migrations of people is argued to follow two routes.
+
+The first human migrations from continental Europe is by many argued to show a clear affinity with European hunter-gatherers, also leading to the suggestion that these societies should be termed Ahrensburgian also in Norway, or coastal Ahrensburgian, to underscore this European connection. While this terminology has been met with variable degrees of enthusiasm, the connection to continental Europe is nonetheless clear. This is evident both in terms of lithic technology and the genetic    
+
+Coupled to this discussion is also what motivated the initial human dispersion into these territories. 
+
+The blade technology of the Early Mesolithic is based on single- and dual-platform one-sided cores, typically by means of direct percussion [@solheim2020].  
+Did the coastal areas represent an unprecedented opportunity in an extended Garden of Eden, or an obstacle to be overcome for adven
+
+
+### The Middle Mesolithic (8300--5600 BCE)
+
+In the Middle Mesolithic blades are produced from conical and sub-conical cores with a single platform using pressure and indirect percussion [@damlien2016; @solheim2020].
+
+### The Late Mesolithic (5600--3900 BCE)
+
+Blade production in the Late Mesolithic is characterised by the introduction of handle cores [@eigeland2015]. As pointed out by @solheim2020[4], this involves a shift from cores that will result in blades of gradually diminishing size as the core is exhausted in the EM and MM, to cores that result in blades of a uniform and comparatively small size (i.e. microblades). 
+
+## Coastal hunter-gatherers
+As representing adaptation to diverse environments, marine habitats are deemed an essential component in the evolution of modern humans and determining for the spread of the species across the globe. In Palaeolithic archaeology the coast has traditionally been seen as a hostile environment for early hominins. Marine habitats and resource-use has also been characterised as a central for the evolution and 
+
+A note should be made on the fact that in the literature the terms *coastal adaptation* and *coastal resource use* are sometimes taken to imply different and quite specific things [see e.g. @faulkner2021; @marean2014; @will2019]. Coastal resource use is in this understanding seen as something that is conducted sporadically or occasionally, and will have limited transformative feedback effects on the life-ways of the societies in question. Conversely, coastal adaptation involves a degree of coastal engagement and commitment that has an altering effect on these societies. I do not use the terms in this manner here. The conceptual distinction is certainly an important one, especially as marine exploitation is believed to potentially, but not necessarily [e.g. @erlandson2001], lead to technological ratcheting and increased societal complexity. However, these quite specific connotations of the terms stand in danger of leading to misunderstandings for readers that have another understanding of adaptation, which need not be defined by some threshold in the intensity of coastal engagement. One response to the specifics of a given marine habitat might for example be movement and extended use of terrestrial resources, which would fall within a more inclusive definition of adaptation to a given coastal environment. While the above division might have merit in some analytical settings, the dependence on marine resources is arguably better understood along a continuum that I believe this might unnecessarily dichotomise. 
+
+
+
+
+Inland
