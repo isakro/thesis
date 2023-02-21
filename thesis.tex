@@ -1,0 +1,197 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  oneside]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{xcolor}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Computational exploration of the coastal Mesolithic in south-eastern Norway},
+  pdfauthor={Isak Roalkvam},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Computational exploration of the coastal Mesolithic in south-eastern Norway}
+\author{Isak Roalkvam}
+\date{2023-02-17}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{introduction}{%
+\chapter{Introduction}\label{introduction}}
+
+Placeholder
+
+\hypertarget{aims-and-research-questions}{%
+\section{Aims and research questions}\label{aims-and-research-questions}}
+
+\hypertarget{study-area}{%
+\section{Study area}\label{study-area}}
+
+\hypertarget{the-quality-of-the-archaeological-data}{%
+\section{The quality of the archaeological data}\label{the-quality-of-the-archaeological-data}}
+
+\hypertarget{model-based-archaeology}{%
+\section{Model-based archaeology}\label{model-based-archaeology}}
+
+\hypertarget{the-hunter-gatherer-model-and-the-coastal-mesolithic-of-south-eastern-norway}{%
+\section{The hunter-gatherer model and the coastal Mesolithic of south-eastern Norway}\label{the-hunter-gatherer-model-and-the-coastal-mesolithic-of-south-eastern-norway}}
+
+\hypertarget{open-research-and-reproducibility}{%
+\section{Open research and reproducibility}\label{open-research-and-reproducibility}}
+
+\hypertarget{overview-of-papers}{%
+\section{Overview of papers}\label{overview-of-papers}}
+
+\hypertarget{paper-1-a-simulation-based-assessment-of-the-relation-between-stone-age-sites-and-relative-sea-level-change-along-the-norwegian-skagerrak-coast}{%
+\subsection{\texorpdfstring{Paper 1: \emph{A simulation-based assessment of the relation between Stone Age sites and relative sea-level change along the Norwegian Skagerrak coast}}{Paper 1: A simulation-based assessment of the relation between Stone Age sites and relative sea-level change along the Norwegian Skagerrak coast}}\label{paper-1-a-simulation-based-assessment-of-the-relation-between-stone-age-sites-and-relative-sea-level-change-along-the-norwegian-skagerrak-coast}}
+
+\hypertarget{paper-2-shoredate-an-r-package-for-shoreline-dating-stone-age-sites-on-the-coast-of-south-eastern-norway}{%
+\subsection{\texorpdfstring{Paper 2: \emph{shoredate: An R package for shoreline dating Stone Age sites on the coast of south-eastern Norway}}{Paper 2: shoredate: An R package for shoreline dating Stone Age sites on the coast of south-eastern Norway}}\label{paper-2-shoredate-an-r-package-for-shoreline-dating-stone-age-sites-on-the-coast-of-south-eastern-norway}}
+
+\hypertarget{paper-3-exploring-the-composition-of-lithic-assemblages-in-mesolithic-south-eastern-norway}{%
+\subsection{\texorpdfstring{Paper 3: \emph{Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway}}{Paper 3: Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway}}\label{paper-3-exploring-the-composition-of-lithic-assemblages-in-mesolithic-south-eastern-norway}}
+
+\hypertarget{paper-4-comparing-summed-probability-distributions-of-shoreline--and-radiocarbon-dates-on-the-norwegian-skagerrak-coast}{%
+\subsection{\texorpdfstring{Paper 4: \emph{Comparing summed probability distributions of shoreline- and radiocarbon dates on the Norwegian Skagerrak coast}}{Paper 4: Comparing summed probability distributions of shoreline- and radiocarbon dates on the Norwegian Skagerrak coast}}\label{paper-4-comparing-summed-probability-distributions-of-shoreline--and-radiocarbon-dates-on-the-norwegian-skagerrak-coast}}
+
+\hypertarget{background}{%
+\chapter{Background}\label{background}}
+
+Placeholder
+
+\hypertarget{environmental-setting}{%
+\section{Environmental setting}\label{environmental-setting}}
+
+\hypertarget{climactic-oscilations}{%
+\subsection{Climactic oscilations}\label{climactic-oscilations}}
+
+\hypertarget{sea-level-change}{%
+\subsection{Sea-level change}\label{sea-level-change}}
+
+\hypertarget{the-norwegian-mesolithic}{%
+\section{The Norwegian Mesolithic}\label{the-norwegian-mesolithic}}
+
+\hypertarget{chronological-frameworks}{%
+\subsection{Chronological frameworks}\label{chronological-frameworks}}
+
+\hypertarget{the-early-mesolithic-93008300-bce}{%
+\subsection{The Early Mesolithic (9300--8300 BCE)}\label{the-early-mesolithic-93008300-bce}}
+
+\hypertarget{the-middle-mesolithic-83005600-bce}{%
+\subsection{The Middle Mesolithic (8300--5600 BCE)}\label{the-middle-mesolithic-83005600-bce}}
+
+\hypertarget{the-late-mesolithic-56003900-bce}{%
+\subsection{The Late Mesolithic (5600--3900 BCE)}\label{the-late-mesolithic-56003900-bce}}
+
+\hypertarget{coastal-hunter-gatherers}{%
+\section{Coastal hunter-gatherers}\label{coastal-hunter-gatherers}}
+
+\hypertarget{research-design-and-analytical-framework}{%
+\chapter{Research design and analytical framework}\label{research-design-and-analytical-framework}}
+
+Placeholder
+
+\hypertarget{what-is-the-goal-of-archaeology}{%
+\section{What is the goal of archaeology?}\label{what-is-the-goal-of-archaeology}}
+
+\hypertarget{merits-of-a-model-based-archaeology}{%
+\section{Merits of a model-based archaeology}\label{merits-of-a-model-based-archaeology}}
+
+\hypertarget{chronology-archaeological-cultures-and-modifiable-analytical-units}{%
+\section{Chronology, archaeological cultures and modifiable analytical units}\label{chronology-archaeological-cultures-and-modifiable-analytical-units}}
+
+\hypertarget{hunter-fisher-gatherers}{%
+\section{Hunter-fisher-gatherers}\label{hunter-fisher-gatherers}}
+
+\hypertarget{palaeodemographic-modelling}{%
+\section{Palaeodemographic modelling}\label{palaeodemographic-modelling}}
+
+\hypertarget{conclusions-and-future-directions}{%
+\chapter{Conclusions and future directions}\label{conclusions-and-future-directions}}
+
+\hypertarget{references}{%
+\chapter*{References}\label{references}}
+\addcontentsline{toc}{chapter}{References}
+
+\end{document}
