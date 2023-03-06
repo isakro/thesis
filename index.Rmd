@@ -8,8 +8,8 @@ bibliography: [book.bib]
 output:
   bookdown::pdf_book:
     includes:
-    in_header: preamble.tex
-latex_engine: xelatex
+      in_header: preamble.tex
+    latex_engine: xelatex
 citation_package: default
 pandoc_args: ["--csl", "templates/saa.csl"]
 bookdown::epub_book:

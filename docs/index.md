@@ -1,15 +1,15 @@
 --- 
 title: "Computational exploration of the coastal Mesolithic in south-eastern Norway"
 author: "Isak Roalkvam"
-date: "2023-02-17"
+date: "2023-03-06"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 output:
   bookdown::pdf_book:
     includes:
-    in_header: preamble.tex
-latex_engine: xelatex
+      in_header: preamble.tex
+    latex_engine: xelatex
 citation_package: default
 pandoc_args: ["--csl", "templates/saa.csl"]
 bookdown::epub_book:
