@@ -1,3 +1,5 @@
+# Modelling the Norwegian Mesolithic
+
 ## Modelling the relationship between Mesolithic sites and the prehistoric shoreline
 
 In the first paper of this thesis I have proposed a method for shoreline dating Mesolithic sites on the Norwegian Skagerrak coast, based on an empirically derived model of the relationship between the sites and the prehistoric shoreline [@roalkvam2023a]. This was based on simulating the distance between sites and the shoreline using 67 ^14^C-dated sites and local reconstructions of shoreline displacement. The study found the sites to typically be located on or close to the shoreline up until some time just after 4000 BCE, when a few sites are located further from the shoreline. At around 2500 BCE there is a clear break, and the sites are from this point on situated further from and at variable distances from the shoreline. Building on these findings, the likely elevation of sites dating to earlier than 2500 BCE were, in aggregate, found to be reasonably approximated by the gamma function given in Figure. This is the model that forms the foundation of the proposed method for shoreline dating presented in the paper. 
