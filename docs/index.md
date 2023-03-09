@@ -1,7 +1,7 @@
 --- 
-title: "Computational exploration of the coastal Mesolithic in south-eastern Norway"
+title: "Computational modelling of the coastal Mesolithic in south-eastern Norway"
 author: "Isak Roalkvam"
-date: "2023-03-07"
+date: "2023-03-09"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
