@@ -1,9 +1,16 @@
 # Papers {-}
 ## Paper 1 {-}
-A simulation-based assessment of the relation between Stone Age sites and relative sea-level change along the Norwegian Skagerrak coast
+_A simulation-based assessment of the relation between Stone Age sites and relative sea-level change along the Norwegian Skagerrak coast_
 \includepdf[pages={-}]{papers/paper1.pdf}
 \includepdf[pages={-}]{papers/paper1_corrigendum.pdf}
 
 ## Paper 3 {-}
-Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway
+_Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway_
 \includepdf[pages={-}]{papers/paper3.pdf}
+
+# Appendix {-}
+## Appendix, Paper 1
+
+## Appendix, Paper 2
+
+## Appendix, Paper 3
