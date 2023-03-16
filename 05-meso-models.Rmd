@@ -1,13 +1,21 @@
 # Modelling the Norwegian Mesolithic
 
-The last chapter laid out the foundation for a model-based archaeology. This chapter will explore how casting 
+The last chapter laid out the foundation for what can constitute components of a model-based archaeology. This chapter will explore how casting the papers of the thesis in this light can help elucidate assumptions and further lines of inquiry associated with the arguments made in the papers. Each paper is first presented using an evidential argument schema, following @toulmin1958 [see @chapman2016]. Subsequently, a suggested causal model for the main components of each paper is presented in the form of directed acyclic graphs [e.g. @morgan2015].
+
+## Evidential argument schema
+
+In the presentation of the papers below, these schemas will not be complete, but draw on what I view as the most central components of the arguments. Further nuances and caveats can be found in prose in the papers themselves, while the data and code published with each paper also offer further sources that can be scrutinised for additional underlying assumptions and potential inconsistencies. 
+
+## Directed acyclic graphs
 
 
 ## Modelling the relationship between Mesolithic sites and the prehistoric shoreline
 
-In the first paper of this thesis I have proposed a method for shoreline dating Mesolithic sites on the Norwegian Skagerrak coast, based on an empirically derived model of the relationship between the sites and the prehistoric shoreline [@roalkvam2023a]. This was based on simulating the distance between sites and the shoreline using 67 ^14^C-dated sites and local reconstructions of shoreline displacement. The study found the sites to typically be located on or close to the shoreline up until some time just after 4000 BCE, when a few sites are located further from the shoreline. At around 2500 BCE there is a clear break, and the sites are from this point on situated further from and at variable distances from the shoreline. Building on these findings, the likely elevation of sites dating to earlier than 2500 BCE were, in aggregate, found to be reasonably approximated by the gamma function given in Figure. This is the model that forms the foundation of the proposed method for shoreline dating presented in the paper. Figure 
+In the first paper of this thesis I have proposed a method for shoreline dating Mesolithic sites on the Norwegian Skagerrak coast, based on an empirically derived model of the relationship between the sites and the prehistoric shoreline [@roalkvam2023]. This was based on simulating the distance between sites and the shoreline using 67 ^14^C-dated sites and local reconstructions of shoreline displacement. The study found the sites to typically be located on or close to the shoreline up until some time just after 4000 BCE, when a few sites are located further from the shoreline. At around 2500 BCE there is a clear break, and the sites are from this point on situated further from and at variable distances from the shoreline. Building on these findings, the likely elevation of sites dating to earlier than 2500 BCE were, in aggregate, found to be reasonably approximated by the gamma function given in Figure. This is the model that forms the foundation of the proposed method for shoreline dating that is released as an R package with Paper 2.
 
-```{r t1, echo = FALSE, fig.align="center",  fig.cap="Evidential arguments underlying Paper 1 presented as a Toulmin-like argument schema inspired by Chapman and Wylie (2016)."}
+
+
+```{r t1, echo = FALSE, fig.align="center",  fig.cap="Central evidential arguments underlying Paper 1 presented as a Toulmin-like argument schema inspired by Chapman and Wylie (2016)."}
 knitr::include_graphics("figures/toulmin_p1.png")
 ```
 
