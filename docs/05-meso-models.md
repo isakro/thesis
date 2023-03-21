@@ -8,6 +8,14 @@ In the presentation of the papers below, these schemas will not be complete, but
 
 ## Directed acyclic graphs
 
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{figures/dag_ex} 
+
+}
+
+\caption{Example of a simple causal model presented as a directed acyclic graph.}(\#fig:dag)
+\end{figure}
 
 ## Modelling the relationship between Mesolithic sites and the prehistoric shoreline
 

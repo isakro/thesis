@@ -8,6 +8,18 @@ In the presentation of the papers below, these schemas will not be complete, but
 
 ## Directed acyclic graphs
 
+```{r dag,  echo = FALSE, out.width = "100%", fig.align = "center", fig.cap = "Example of a simple causal model presented as a directed acyclic graph."}
+# dag {
+# A [adjusted,pos="-1.203,-0.733"]
+# B [adjusted,pos="-1.148,-0.646"]
+# C [adjusted,pos="-1.093,-0.729"]
+# A -> B
+# A -> C
+# B -> C
+# }
+
+knitr::include_graphics("figures/dag_ex.png")
+```
 
 ## Modelling the relationship between Mesolithic sites and the prehistoric shoreline
 
