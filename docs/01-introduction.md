@@ -47,7 +47,7 @@ Finally, methods and approaches developed for the coastal sites are not necessar
 
 }
 
-\caption{The location of the study area in south-eastern Norway is indicated by the black frame. See the next chapter for a more detailed map and walkthrough.}(\#fig:map)
+\caption{The location of the study area in south-eastern Norway is indicated by the black frame south of Oslo. See the next chapter for a more detailed map and presentation of the study area.}(\#fig:map)
 \end{figure}
 
 ## Model-based archaeology
