@@ -60,9 +60,11 @@ Another challenge in determining what empirical trends are of interest and how t
 
 ## Open research and reproducibility
 
-In making the case for open sharing practices in archaeological research, @marwick2017[426] compares the principle of artefact provenancing with dissemination of raw data and methods that underlie a study. Without knowing the origin and find-context of an artefact, it's archaeological value is practically none. Comparatively, by openly sharing data and programming code that underlies a study, other researchers can assess the procedures that have led to the results. Apart from facilitating an evaluation of its reliability, this allows others to extend on the analysis and the employed data, to learn and reconstruct how methods are implemented, and to attempt to repeat all or parts of the analysis themselves. Open research is thus beneficial to archaeology as a cumulative research endeavour as it will both increase the frequency of model rejection and adjustment, by allowing others to explore their foundations and inner workings, and because it will increase the pace of method sharing, evaluation and adjustment.  
+In making the case for open sharing practices in archaeological research, @marwick2017[426] compares the principle of artefact provenancing with dissemination of raw data and methods that underlie a study. Without knowing the origin and find-context of an artefact, it's archaeological value is practically none. Comparatively, by openly sharing data and programming code that underlies a study, other researchers can assess the procedures that have led to the results. Apart from facilitating an evaluation of its reliability, this allows others to extend on the analysis and the employed data, to learn and reconstruct how methods are implemented, and to attempt to repeat all or parts of the analysis themselves. Open research is thus beneficial to archaeology as a cumulative research endeavour as it will both increase the frequency of rejection and adjustment of proposed explanations, allow others to explore the foundations and inner workings of these explanations, and because it will increase the pace of method sharing, evaluation and adjustment. 
 
-This thesis has been written in its entirety using the R programming language [@rcoreteam2021]. Unlike for example mouse-driven computational analyses, this means that an unambiguous record of the entire analytical pipeline is recorded in the form of programming scripts, moving from the initial loading and cleaning of raw data, through to analysis, visualisation and final reporting of results. Given the large amount of analytical choices that have to made in the course of any analysis, this can never be adequately presented in prose. Furthermore, what a researcher believes they have done need not correspond with what they have actually done. The high-resolution analytical record that is the programming script makes this entirely transparent. All data, programming code, figures and text used in this thesis is freely available in version-controlled online repositories on GitHub (https://github.com/isakro) and on persistent archiving services where the repository is provided a digital object identifier (DOI). A complete overview with links to the various online archives associated with the individual papers and this synopsis is provided in Table \@ref(tab:op). 
+Furthermore, making scholarly publications free for anyone to read has been argued by many to lead to a democratisation of the discipline, as this will allow non-professionals, prospective students, non-academic collaborators and others without institutional access or the means to pay for access to the publications [e.g. @lake2012; @marwick2017a]. 
+
+To this end, this thesis has been written in its entirety using the R programming language [@rcoreteam2021]. Unlike for example mouse-driven computational analyses, this means that an unambiguous record of the entire analytical pipeline is recorded in the form of programming scripts, moving from the initial loading and cleaning of raw data, through to analysis, visualisation and final reporting of results. Given the large amount of analytical choices that have to made in the course of any analysis, this can never be adequately presented in prose. Furthermore, what a researcher believes they have done need not correspond with what they have actually done. The high-resolution analytical record that is the programming script makes this entirely transparent. All data, programming code, figures and text used in this thesis is freely available in version-controlled online repositories on GitHub (https://github.com/isakro) and on persistent archiving services where the repositories are provided a digital object identifier (DOI). These have been organised using  Furthermore, Paper 3, which unlike the other papers is not published open access with the publisher, has been uploaded as a post-print to allow for free access. A complete overview with links to the various online archives associated with the individual papers and this synopsis is provided in Table \@ref(tab:op). 
 
 ```{r op, echo = FALSE, out.width = "500px"}
 dat <- data.frame(titles = c(
@@ -71,17 +73,18 @@ dat <- data.frame(titles = c(
         "Paper 2",
         "Paper 3",
         "Paper 4"),
-         preprint = c("NA",
-                      "osf.io/cqaps",
+         pre-print = c("NA",
                       "osf.io/3x7ju",
-                      "",
+                      "NA",
+                      "osf.io/cqaps",
                       ""),
          repositorygit = c("github.com/isakro/thesis",
-                           "github.com/isakro/exploring-assemblages-se-norway",
                            "github.com/isakro/assessing.sealevel.dating",
                            "github.com/isakro/shoredate",
+                           "github.com/isakro/exploring-assemblages-se-norway",
                            ""),
-         repositorydoi = c("osf.io/h3jfd",
+         repositorydoi = c("10.17605/OSF.IO/H3JFD",
+                           "osf.io/h3jfd",
                            "osf.io/7f9su",
                            "",
                            "osf.io/ehjfc", 
@@ -90,7 +93,7 @@ dat <- data.frame(titles = c(
 knitr::kable(
   dat, booktabs = TRUE,  linesep = c(""), escape = FALSE,
   caption = "Overview of repositories and preprints.",
-  col.names = c("Text", "Preprint", "GitHub repository", "OSF repository")
+  col.names = c("Text", "Preprint", "GitHub repository", "OSF repository DOI")
 )
 ```
 
@@ -99,7 +102,7 @@ knitr::kable(
 The first paper of the thesis offers an approach for integrating the various sources of uncertainty associated with reconstructing the relationship between ^14^C-dated archaeological phenomena and past sea-level change. This is used to quantify the distance between Stone Age sites and the prehistoric shoreline within the study area. That coastal sites would have been located on or close to the prehistoric shoreline is a fundamental premise in Norwegian Stone Age archaeology. In combination with reconstructions of past shoreline displacement, this is frequently used to date the sites based on their altitude relative to the present day sea-level---a method known as shoreline dating. The findings of the paper largely reflect the development proposed in the literature, with a predominantly shorebound coastal settlement in the Mesolithic, followed by a few sites being located some distance from the shoreline at the transition to the Early Neolithic (c. 3900 BCE) and a more decisive shift with the Late Neolithic (c. 2400 BCE). The result of this analysis is used to propose a formalised method for shoreline dating sites older than the Late Neolithic. This takes into account uncertainty as related to the displacement of the shoreline and the likely distance between sites and the shoreline when they were occupied. 
 
 ### Paper 2: *shoredate: An R package for shoreline dating Stone Age sites on the coast of south-eastern Norway*
-Based on the findings from the first paper, the second paper of the thesis is a presentation of the R package *shoredate*, which provides tools for performing and handling shoreline dates along the Norwegian Skagerrak coast. This is freely available for anyone to install from the Comprehensive R Archive Network (CRAN): https://cran.r-project.org/package=shoredate. The paper itself gives a brief presentation of the package, but the publication of software with the *Journal of Open Source Software* also involves a useful review process of the software itself. Having published the package and released it as open source software on CRAN means that the method for shoreline dating is now available for researchers and student to employ, and that underlying code is available for anyone to explore, evaluate, criticise or extend upon. 
+Based on the findings from the first paper, the second paper of the thesis is a presentation of the R package *shoredate*, which provides tools for performing and handling shoreline dates along the Norwegian Skagerrak coast. The package has been written in compliance with @wickhamnd and is freely available for anyone to install from the Comprehensive R Archive Network (CRAN): https://cran.r-project.org/package=shoredate. The paper itself gives a brief presentation of the package, but the publication of software with the *Journal of Open Source Software* also involves a useful and open review process of the software itself. Having published the package and released it as open source software on CRAN means that the method for shoreline dating is now available for researchers and student to employ, and that underlying code is available for anyone to explore, evaluate, criticise or extend upon. 
 
 ### Paper 3: *Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway*
 The second part of the thesis is aimed more squarely on elucidating past cultural history, as opposed to the more instrumental focus of the first part on establishing tools for . The third paper of the thesis is an exploratory study aimed at identifying variability in the contents of a set of lithic assemblages. The main goals of the paper is to evaluate the typo-technological framework currently in use in Norwegian Mesolithic research, and to assess the temporal development for variables that have been linked to variation in land-use and mobility patterns. It is demonstrated that elements of the so-called Whole Assemblage Behavioural Indicators [WABI, e.g. @clark2017] align with previous research into developments of mobility patterns in Mesolithic Norway, suggesting that the WABI could be a relevant framework also in this context. This is specifically reflected in a negative relationship between density of lithics, and the proportion of secondarily worked lithics in the assemblages over time, which is taken to reflect a transition from a more curated towards a expedient technological organisation with the transition from the Early Mesolithic (c. 8200 BCE). This is in turn argued to follow from a shift in land-use patterns and a overall reduction in mobility.
