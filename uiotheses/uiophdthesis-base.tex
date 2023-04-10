@@ -1,0 +1,52 @@
+\documentclass[UKenglish]{uiophdthesis}   %% ... or norsk, nynorsk, USenglish
+\usepackage[utf8]{inputenc}               %% ... or latin1
+\usepackage[T1]{url}\urlstyle{sf}
+\usepackage{babel, csquotes, graphicx, textcomp, varioref}
+\usepackage[backend=biber,style=numeric-comp]{biblatex}
+\usepackage[hidelinks, hypertexnames=false]{hyperref}
+
+\title{The title of my thesis}        %% ... or whatever
+\author{My Name}                      %% ... or whoever 
+
+\addbibresource{mybib.bib}            %% ... or whatever
+
+\begin{document}
+\frontmatter{}
+\maketitle{}
+
+\begin{abstract}
+  Here come 3--6 sentences describing your thesis.
+\end{abstract}
+
+\begin{xabstract}[Sammendrag]               %% ... or Abstract or ...
+  Here comes the abstract in a different language.
+  Note that a Norwegian abstract is mandatory!
+\end{xabstract}
+
+\tableofcontents{}                          %%
+\listoffigures{}                            %% (omit if none)
+\listoftables{}                             %% (omit if none)
+
+\begin{preface}
+  Here comes your preface, including acknowledgments and thanks.
+\end{preface}
+
+\mainmatter{}
+\part*{Introduction}                  %% ... Innledning or Innleiing
+\chapter{Background}                  %% ... or Bakgrunn
+\section{Xxx's work}                  %% ... or whatever
+
+\uiopaper{My first paper}             %% ... or ??
+\chapter{Planning the project}        %% ... or ??
+Some text ...
+
+\uiopaper{My second paper}            %% ... or ??
+\uioincludepdf{mypaper2.pdf}          %% ... or ??
+
+\part{Conclusion}                     %% ... or ?? (if any)
+\chapter{Results}                     %% ... or ??
+Some text ...
+
+\backmatter{}
+\printbibliography{}
+\end{document}

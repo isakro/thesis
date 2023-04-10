@@ -1,9 +1,10 @@
 --- 
 title: "Computational modelling of the coastal Mesolithic in south-eastern Norway"
 author: "Isak Roalkvam"
-date: "2023-04-04"
+date: "2023-04-09"
 site: bookdown::bookdown_site
 documentclass: book
+papersize: a4
 bibliography: [book.bib]
 output:
   bookdown::pdf_book:
@@ -12,7 +13,7 @@ output:
       in_header: preamble.tex
     latex_engine: xelatex
 citation_package: default
-pandoc_args: ["--csl", "templates/saa.csl"]
+pandoc_args: ["--csl", "templates/uiophdthesis.csl"]
 bookdown::epub_book:
   stylesheet: style.css
 # biblio-style: apalike

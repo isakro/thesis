@@ -1,0 +1,47 @@
+\documentclass[UKenglish]{uiobachelorthesis}  %% ... or norsk or nynorsk or USenglish
+\usepackage[utf8]{inputenc}                   %% ... or latin1
+\usepackage[T1]{url}\urlstyle{sf}
+\usepackage{babel, csquotes, graphicx, textcomp, uiomasterfp, varioref}
+\usepackage[backend=biber,style=numeric-comp]{biblatex}
+\usepackage[hidelinks]{hyperref}
+
+\title{The title of my thesis}        %% ... or whatever
+\subtitle{Any short subtitle}         %% ... if any
+\author{My Name}                      %% ... or whoever 
+
+\addbibresource{mybib.bib}            %% ... or whatever
+
+\begin{document}
+\uiomasterfp[dept={Department of Physics},  %% ... or your department
+  program={Physics},                        %% ... or your study program
+  supervisor={The Name},                    %% ... or omit
+  % or supervisors={A Name\and B Name},     %% if more than one
+  bachelor, compact]                        %% 
+
+\maketitle
+
+\begin{abstract}
+  Here come 2--4 sentences describing your thesis.
+\end{abstract}
+\begin{xabstract}[Sammendrag]               %% ... or Abstract or ...
+  Here comes the abstract in a different language.
+\end{xabstract}
+
+\tableofcontents{}                          %%
+%% \listoffigures{}                         %% (omit if none)
+%% \listoftables{}                          %% (omit if none)
+
+\begin{preface}
+  Here comes your preface, including acknowledgments and thanks.
+\end{preface}
+
+\section{Introduction}                  %% ... Innledning or Innleiing
+\subsection{Background}                 %% ... or Bakgrunn
+
+\section{The experiments}               %% ... or ??
+\subsection{The equipment}              %% ... or ??
+
+\section{Conclusion}                    %% ... or ??
+
+\printbibliography{}
+\end{document}
