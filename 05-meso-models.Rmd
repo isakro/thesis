@@ -51,7 +51,7 @@ A related point that is not included in the schema that is worth commenting on i
 
 Warrant 2 pertains to the geological reconstructions of shoreline displacement and the interpolation between these to the sites. This is a necessary premise for it to be possible to evaluate the correspondence between site-use and the sea.   
 
-```{r t1, echo = FALSE, fig.align="center",  fig.cap="Central evidential arguments underlying Paper 1 and 2, presented as a argument schema drawing on Toulmin (1958) and Chapman and Wylie (2016)."}
+```{r t1, echo = FALSE, out.width="95%", fig.align="center",  fig.cap="Central evidential arguments underlying Paper 1 and 2, presented as a argument schema drawing on Toulmin (1958) and Chapman and Wylie (2016)."}
 knitr::include_graphics("figures/toulmin_p1.png")
 ```
 

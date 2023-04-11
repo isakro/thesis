@@ -54,7 +54,7 @@ Warrant 2 pertains to the geological reconstructions of shoreline displacement a
 
 \begin{figure}
 
-{\centering \includegraphics[width=13.33in]{figures/toulmin_p1} 
+{\centering \includegraphics[width=0.95\linewidth]{figures/toulmin_p1} 
 
 }
 
