@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.7.10)  15 APR 2023 09:58
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.7.10)  19 APR 2023 17:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1642,90 +1642,112 @@ Chapter 2.
 Missing character: There is no ∘ in font [lmroman10-regular]:mapping=tex-text;!
 [10
 
-] [11] [12]
+]
+Underfull \hbox (badness 4765) in paragraph at lines 294--294
+[]\TU/lmr/m/n/10 Table 2.1: [][]Approximate duration and general conditions of 
+vegeta-
+ []
+
+[11] [12]
 File: figures/overview.png Graphic file (type bmp)
 <figures/overview.png>
-[13] [14] [15] [16] [17] [18] [19]
+[13] [14] [15] [16] [17] [18] [19] [20] [21]
 Chapter 3.
-[20
+[22
 
 ]
-Underfull \hbox (badness 3229) in paragraph at lines 409--409
+Underfull \hbox (badness 3229) in paragraph at lines 435--435
 []\TU/lmr/bx/n/14.4 Chronology, archaeological cultures and
  []
 
-[21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+[23] [24] [25] [26] [27] [28] [29] [30] [31] [32]
 Chapter 4.
-[31
+[33
 
-] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
+]
+File: figures/jarman.png Graphic file (type bmp)
+<figures/jarman.png>
+[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
+[50]
 Chapter 5.
 File: figures/argument_ex.png Graphic file (type bmp)
 <figures/argument_ex.png>
-[47
+[51
 
-] [48]
+] [52]
 File: figures/dag_ex.png Graphic file (type bmp)
 <figures/dag_ex.png>
 
-Overfull \hbox (12.37909pt too wide) in paragraph at lines 660--660
+Overfull \hbox (12.37909pt too wide) in paragraph at lines 695--695
 []\TU/lmr/bx/n/14.4 Modelling the relationship between Mesolithic
  []
 
-[49] [50]
+[53] [54]
 File: figures/toulmin_p1.png Graphic file (type bmp)
 <figures/toulmin_p1.png>
 File: figures/dagitty_p1.png Graphic file (type bmp)
 <figures/dagitty_p1.png>
-[51] [52] [53] [54] [55] [56] [57]
+[55] [56] [57] [58] [59] [60] [61]
 Chapter 6.
-[58
+[62
 
-] [59]
+]
+Underfull \hbox (badness 2856) in paragraph at lines 814--816
+[]\TU/lmr/m/n/10 Bang-Andersen, Sveinung. 2003. “Southwest Norway at the Pleis-
+
+ []
+
+
+Underfull \hbox (badness 5607) in paragraph at lines 814--816
+\TU/lmr/m/n/10 tocene/Holocene Transition: Landscape Development, Colonization,
+
+ []
+
+[63] [64]
 Missing character: There is no ∼ in font [lmroman10-regular]:mapping=tex-text;!
-[60] [61] [62] [63] [64] [65] [66] [67] [68]
-Underfull \hbox (badness 1348) in paragraph at lines 1286--1288
+[65] [66] [67] [68] [69] [70] [71] [72] [73] [74]
+Underfull \hbox (badness 1348) in paragraph at lines 1408--1410
 []\TU/lmr/m/n/10 Rasmussen, S. O., B. M. Vinther, H. B. Clausen, and K. K. Ande
 r-
  []
 
-[69] [70] [71] [72]
+[75] [76] [77] [78]
 Missing character: There is no ⁴ in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1463--1465
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1605
 []\TU/lmr/m/n/10 Wieckowska-Lüth, Magdalena, Wiebke Kirleis, and Walter Doerfle
 r.
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 1463--1465
+Underfull \hbox (badness 1675) in paragraph at lines 1603--1605
 \TU/lmr/m/n/10 2017. “Holocene History of Landscape Development in the Catch-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 1463--1465
+Underfull \hbox (badness 2302) in paragraph at lines 1603--1605
 \TU/lmr/m/n/10 ment of Lake Skogstjern, Southeastern Norway, Based on a High-
  []
 
-[73]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1489.
-[74]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1489.
+[80]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1632.
+[81]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1632.
 (./thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1489.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1489.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1632.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1632.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1489.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1632.
  ) 
 Here is how much of TeX's memory you used:
- 34344 strings out of 493007
- 621606 string characters out of 6136719
- 1221990 words of memory out of 5000000
- 37913 multiletter control sequences out of 15000+600000
+ 34350 strings out of 493007
+ 621708 string characters out of 6136719
+ 1221271 words of memory out of 5000000
+ 37918 multiletter control sequences out of 15000+600000
  536723 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,9n,117p,10401b,741s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (77 pages).
+Output written on thesis.pdf (84 pages).
