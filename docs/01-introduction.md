@@ -70,16 +70,16 @@ To this end, this thesis has been written in its entirety using the R programmin
 
 \begin{table}
 
-\caption{(\#tab:op)Overview of repositories and preprints.}
+\caption{(\#tab:op)Overview of repositories and preprints. GitHub repositories are available at 'https://github.com/isakro/' + the name of the repository.}
 \centering
 \begin{tabular}[t]{llll}
 \toprule
 Text & Preprint & GitHub repository & OSF repository DOI\\
 \midrule
-Synopsis & NA & github.com/isakro/thesis & 10.17605/OSF.IO/H3JFD\\
-Paper 1 & osf.io/3x7ju & github.com/isakro/assessing.sealevel.dating & osf.io/h3jfd\\
-Paper 2 & NA & github.com/isakro/shoredate & osf.io/7f9su\\
-Paper 3 & osf.io/cqaps & github.com/isakro/exploring-assemblages-se-norway & \\
+Synopsis & NA & thesis & 10.17605/OSF.IO/H3JFD\\
+Paper 1 & osf.io/3x7ju & assessing.sealevel.dating & osf.io/h3jfd\\
+Paper 2 & NA & shoredate & osf.io/7f9su\\
+Paper 3 & osf.io/cqaps & exploring-assemblages-se-norway & \\
 Paper 4 &  &  & osf.io/ehjfc\\
 \bottomrule
 \end{tabular}

@@ -8,7 +8,7 @@ library(kableExtra)
 
 One way to conceive of scientific inquiry is as a form of strategy by which we try to confront theoretical constructs with empirical observation, aimed at aligning our beliefs as reliably as possible with what is true [@godfrey-smith2003, 161]. A lot remains to be unpacked from this sentence. However, for now it is enough to note that the empirical side of this equation is a critical point for archaeology, as the fragmented and uncertain nature of the archaeological record means that there will always be a multitude of possible explanations that could account for any observed empirical pattern. Reducing this number of candidate explanations is first and foremost dependent on data, which in the case of archaeology are scarce. 
 
-Establishing true explanations of a past social reality is at best exceedingly difficult, perhaps impossible, and must be the result of cumulative and recursive efforts from entire research communities over time -- it is not achieved by individual researchers. Accepting this social and cumulative nature of archaeological inquiry means that one can adopt a strategy to try to make one's research as open and amenable to scrutiny, extension, criticism and alternative approaches as possible. While easier said than done, an attempt at adopting such a strategy is done here. 
+Furthermore, establishing true explanations of a past social reality is at best exceedingly difficult, perhaps impossible, and must be the result of cumulative and recursive efforts from entire research communities over time. Accepting this social and cumulative nature of archaeological inquiry means that one can adopt a strategy to try to make one's research as open and amenable to scrutiny, extension, criticism and alternative approaches as possible. While easier said than done, an attempt at adopting such a strategy is done here. 
 
 To accommodate the above points, this thesis aims to stringently explore and contrast empirical trends that have been deemed of importance for understanding past hunter-fisher-gatherer societies, drawing on the extensive material from the coastal Mesolithic of south-eastern Norway. Based on this, the project aims to culminate with the generation and presentation of some hypotheses concerning possible casual drivers behind the observed patterns. Exploration and stringency are explicitly voiced here for a couple of reasons. Exploration concerns an aspiration to approach the material with a degree of secession from previous hypotheses concerning the societal developments in the period, and to instead have observed empirical trends dictate the hypotheses presented. This can facilitate a freer investigation, transformation and combination of empirical patterns, as it reduces the risk of forcing the treatment of empirical patterns, consciously or not, towards a single explanation or end-goal. However, a complete break with previous beliefs is clearly neither possible nor desirable. For one these will in part have dictated how the material under study has been retrieved and recorded, how I will approach it, and is necessary for it to be possible to contextualise and make sense of any observed patterns. Stringency, and with it transparency of the analytical choices made, will make it easier for both me and others to follow the logic of the arguments presented, and make it easier to identify when and in what ways prior beliefs might have led an interpretation astray.   
 
@@ -16,7 +16,7 @@ As in many other areas of the world, the last few decades have seen a dramatic i
 
 Quantification offers standardisation and simplification, and by extension scalability and comparability. As with all disciplines concerned with the complexity of social life, whether past or present, archaeology also benefits from multiple perspectives that move between the nuance of particularities and the general trends illuminated by aggregated analysis. I would argue that the latter is at present still underdeveloped in Norwegian archaeology. With renewed and ongoing enthusiasm for such approaches, it is important that this is combined with a continually critical view of the answers these approaches can provide, and those which they cannot.
 
-One of the great disciplinary benefits of archaeology, as compared to other disciplines concerned with the study of human societies, is by many argued to follow from the time depth it offers [e.g. @gamble2014]. Furthermore, while there are instances where the archaeological record allows what could be called glimpses into an ethnographic past of individual lives, the vast majority of the material we have access to is hampered by a degree of temporal uncertainty and lumping of events that necessitates a perspective that is developed to meet the nature and quality of the archaeological record on its own terms [@bailey2007; @perreault2019]. Both fully utilising the archaeological material and playing to the strengths of the discipline is thus dependent on knowledge of the quality of the material available to us, while also being dependent on developing methodologies fit for handling the material, given the empirical resolution it holds.
+One of the great disciplinary benefits of archaeology, as compared to other disciplines concerned with the study of human societies, is by many argued to follow from the time depth it offers [e.g. @gamble2014]. Furthermore, while there are instances where the archaeological record allows what could be called glimpses into an ethnographic past of individual lives, the vast majority of the material we have access to is hampered by a degree of temporal uncertainty and lumping of events that necessitates a perspective that is developed to meet the nature and quality of the archaeological record on its own terms [@bailey2007; @perreault2019]. Both fully utilising the archaeological material and playing to the strengths of the discipline is thus dependent on knowledge of the quality of the material available to us, while also being dependent on developing methodologies fit for handling the material, given its quantity the empirical resolution it holds.
 
 ## Aims and research questions
 
@@ -78,10 +78,10 @@ dat <- data.frame(titles = c(
                       "NA",
                       "osf.io/cqaps",
                       ""),
-         repositorygit = c("github.com/isakro/thesis",
-                           "github.com/isakro/assessing.sealevel.dating",
-                           "github.com/isakro/shoredate",
-                           "github.com/isakro/exploring-assemblages-se-norway",
+         repositorygit = c("thesis",
+                           "assessing.sealevel.dating",
+                           "shoredate",
+                           "exploring-assemblages-se-norway",
                            ""),
          repositorydoi = c("10.17605/OSF.IO/H3JFD",
                            "osf.io/h3jfd",
@@ -91,7 +91,7 @@ dat <- data.frame(titles = c(
 
 knitr::kable(
   dat, booktabs = TRUE,  linesep = c(""), escape = FALSE,
-  caption = "Overview of repositories and preprints.",
+  caption = "Overview of repositories and preprints. GitHub repositories are available at 'https://github.com/isakro/' + the name of the repository.",
   col.names = c("Text", "Preprint", "GitHub repository", "OSF repository DOI")
 )
 ```
