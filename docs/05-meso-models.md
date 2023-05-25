@@ -28,22 +28,19 @@ In the presentation of the papers below, these schemas will not be complete, but
 
 The second part of the presentation of each paper involves constructing a causal graph that explicate what I believe are the main proximal causal drivers behind the patterns that were observed in each study. This is in part related to the evidential strength of the claims being made because, as was shown in the last chapter, a more holistic explanation and grasp on   
 
-No extensive presentation of causal graphs is given here, and as they are only presented as suggestions that can potentially structure future studies, their full potential is far from being utilised here [see e.g. @morgan2015; @mcelreath2020]. It is nonetheless necessary to establish some terminology. DAGs is a specific kind of causal graph, where the term \'directed\' refers to the rule that causal effects cannot be bi-directional -- that is, causes points to effects. \'Acylic\' refers to the rule that no directed path can form a closed loop. Causal graphs involving cycles and feedback-loops can be accommodated, but @morgan2015[80] recommend focusing on establishing empirically tractable directed graphs in most settings. To illustrate the concept, some possible configurations of DAGs is given in Figure \@ref(fig:dag). 
+No extensive presentation of causal graphs is given here, and as they are only presented as suggestions that can potentially structure future studies, their full potential is far from being utilised here [see e.g. @morgan2015; @mcelreath2020]. It is nonetheless necessary to establish some terminology. DAGs is a specific kind of causal graph, where the term \'directed\' refers to the rule that causal effects cannot be bi-directional -- that is, causes points to effects. \'Acylic\' refers to the rule that no directed path can form a closed loop. Causal graphs involving cycles and feedback-loops can be accommodated, but @morgan2015[80] recommend focusing on establishing empirically tractable directed graphs in most settings. To illustrate the concept, some basic relationships in a DAG is given in Figure \@ref(fig:dag). 
 
-The direction of the arrows (edges) in the model illustrates what variables (nodes) have an effect on other variables. An arrow going directly between two variables means that there is a direct effect. A is therefore said to have a direct effect on both B and D in Figure \@ref(fig:dag). C also has a direct effect on A, but as A impacts both, A is a confounding variable. That is to say, part of the impact of B on C may simply be the result of A affecting both. Finally, the effect of a variable that goes through one or more other variables is said to be mediated by the intervening variables. Part of the effect of A on C is indirect as it follows from its effect on, which in turn impacts C directly. 
+The direction of the arrows (edges) in the model illustrates what variables (nodes) have an effect on other variables. An arrow going directly between two variables means that there is a direct effect. A is therefore said to have a direct effect on B in Figure \@ref(fig:dag)A. In Figure \@ref(fig:dag)B, the effect of A on C goes through B and is therefore said to be indirect, mediated by B. In Figure \@ref(fig:dag)C B has a direct effect on A, but as A impacts both, A is a confounding variable. That is to say, part of the impact of B on C may simply be the result of A affecting both. 
 
 DAGs are an effective tool for clarifying research questions, for explicating relevant concepts, and to identify assumptions. Furthermore, provided the variables can be sensibly operationalised, DAGs offer a precise statement of how the interrelation between variables should be modelled statistically so as to correctly estimate causal influences while removing effects that confound these estimates.  
 
-
-If there is a direct effect between A and B, but variable Z also impact each of these, Z is said to be confounder. An arrow from variable A to B that go through one or more other variables indicate that the effect of A on B is mediated by the intermediate variables. A central element of this model is that the effect of the other variables on the distance between site and shoreline are all mediatated through the exposure of the site to the surroundings and accessibility to and from the site.
-
 \begin{figure}
 
-{\centering \includegraphics[width=1\linewidth]{figures/dag_ex} 
+{\centering \includegraphics[width=1\linewidth]{figures/dagitty} 
 
 }
 
-\caption{Example of a simple causal model presented as a directed acyclic graph.}(\#fig:dag)
+\caption{Examples of central causal relationships represented in directed acyclic graphs. A) Direct effect. B) Indirect effect. C) Confounded effect.}(\#fig:dag)
 \end{figure}
 
 ## Modelling the relationship between Mesolithic sites and the prehistoric shoreline

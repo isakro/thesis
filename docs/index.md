@@ -1,7 +1,7 @@
 --- 
 title: "Computational modelling of the coastal Mesolithic in south-eastern Norway"
 author: "Isak Roalkvam"
-date: "2023-05-02"
+date: "2023-05-24"
 site: bookdown::bookdown_site
 documentclass: book
 papersize: a4
@@ -22,5 +22,5 @@ classoption: oneside
 # nocite: | 
 #   @mangerud1974, @sørensen2005
 
-# word_document2
+# word_document2 pdf_book
 ---
