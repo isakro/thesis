@@ -1,17 +1,38 @@
 # Papers {-}
+\newpage
 ## Paper 1 {-}
 **A simulation-based assessment of the relation between Stone Age sites and relative sea-level change along the Norwegian Skagerrak coast**
 \includepdf[pages={-}]{papers/paper1.pdf}
 \includepdf[pages={-}]{papers/paper1_corrigendum.pdf}
+
+## Paper 2 {-}
+**shoredate: An R package for shoreline dating coastal Stone Age sites**
+\includepdf[pages={-}]{papers/paper2.pdf}
 
 ## Paper 3 {-}
 **Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway**
 \includepdf[pages={-}]{papers/paper3.pdf}
 
 # Appendix {-}
-## Supplementary material, Paper 1
+\newpage
+
+## Supplementary material, Paper 1 {-}
 \includepdf[pages={-}]{appendix/supplementary_paper1.pdf}
 
-## Supplementary material, Paper 2
+## Supplementary material, Paper 2 {-}
+The supplementary material for Paper 2 is PDF versions of HTML documents providing documentation for the R-package *shoredate*. These can be viewed in their original interactive form on either the GitHub page for the package at https://github.com/isakro/shoredate, on the website of the package at https://isakro.github.io/shoredate/ or through the landing page for the package on CRAN: https://cran.r-project.org/package=shoredate.
 
-## Supplementary material, Paper 3
+### Introduction to shoredate (README.rmd) {-}
+\includepdf[pages={-}]{appendix/supplementary_paper2_1.pdf}
+
+### Introductory vignette (shoredate.rmd) {-}
+\includepdf[pages={-}]{appendix/supplementary_paper2_2.pdf}
+
+### Second vignette (extending-shoredate.rmd) {-}
+\includepdf[pages={-}]{appendix/supplementary_paper2_3.pdf}
+
+### Reference manual (shoredate.pdf) {-}
+\includepdf[pages={-}]{appendix/supplementary_paper2_4.pdf}
+
+## Supplementary material, Paper 3 {-}
+\includepdf[pages={-}]{appendix/supplementary_paper3.pdf}
