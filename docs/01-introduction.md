@@ -70,11 +70,11 @@ In making the case for open sharing practices in archaeological research, @marwi
 
 Furthermore, making scholarly publications free for anyone to read has been argued by many to lead to a democratisation of the discipline. This will allow non-professionals, prospective students, non-academic collaborators and others without institutional access or the means to pay for access to read the publications [e.g. @lake2012; @marwick2017a; @marwick2020]. The aim of this thesis is thus to make all text, programming code, figures and underlying data freely accessible for anyone.
 
-To this end, this thesis has been written in its entirety using the R programming language [@rcoreteam2021]. Unlike for example mouse-driven computational analyses, this means that an unambiguous record of the entire analytical pipeline is recorded in the form of programming scripts, moving from the initial loading and cleaning of raw data, through to analysis, visualisation and final reporting of results. Given the large amount of analytical choices that have to made in the course of any analysis, this can never be adequately presented in prose. Furthermore, what a researcher believes they have done need not correspond with what they have actually done. The high-resolution analytical record that is the programming script makes this entirely transparent. All data, programming code, figures and text used in this thesis is freely available in version-controlled online repositories on GitHub (https://github.com/isakro) and on persistent archiving services where the repositories are provided a digital object identifier (DOI). These have been organised following the framework of @marwick2017 [@marwick2018], and by use of the related R package *rrtools*. Furthermore, Paper 3, which unlike the other papers is not published open access with the publisher, has been uploaded as a post-print to allow for free access. A complete overview with links to the various online archives associated with the individual papers and this synopsis is provided in Table \@ref(tab:op). 
+To this end, this thesis has been written in its entirety using the R programming language [@rcoreteam2021]. Unlike for example mouse-driven computational analyses, this means that an unambiguous record of the entire analytical pipeline is recorded in the form of programming scripts, moving from the initial loading and cleaning of raw data, through to analysis, visualisation and final reporting of results. Given the large amount of analytical choices that have to made in the course of any analysis, this can never be adequately presented in prose. Furthermore, what a researcher believes they have done need not correspond with what they have actually done. The high-resolution analytical record that is the programming script makes this entirely transparent. All data, programming code, figures and text used in this thesis is freely available in version-controlled online repositories on GitHub (https://github.com/isakro) and on persistent archiving services where the repositories are provided a digital object identifier (DOI). The repositories for the papers have been organised following the framework of @marwick2017 [@marwick2018] by use of the related R package *rrtools* [@marwick2019], while this synopsis has been written and organised with the R package *bookdown* [@xie2016]. Furthermore, Paper 3, which unlike the other papers is not published open access with the publisher, has been uploaded as a post-print to allow for free access. A complete overview with links to the various online archives associated with the individual papers and this synopsis is provided in Table \@ref(tab:op). 
 
 \begin{table}
 
-\caption{(\#tab:op)Overview of repositories and preprints. GitHub repositories are available by adding the name of the repository after https://github.com/isakro/}
+\caption{(\#tab:op)Overview of repositories and preprints. GitHub repositories can be accessed by adding the name of the repository after https://github.com/isakro/ in a web browser.}
 \centering
 \begin{tabular}[t]{llll}
 \toprule
@@ -84,7 +84,7 @@ Synopsis & NA & thesis & 10.17605/OSF.IO/H3JFD\\
 Paper 1 & osf.io/3x7ju & assessing.sealevel.dating & osf.io/h3jfd\\
 Paper 2 & NA & shoredate & osf.io/7f9su\\
 Paper 3 & osf.io/cqaps & exploring-assemblages-se-norway & \\
-Paper 4 &  &  & osf.io/ehjfc\\
+Paper 4 &  & se.norway.shoredate.14c & osf.io/ehjfc\\
 \bottomrule
 \end{tabular}
 \end{table}
