@@ -1,1 +1,5 @@
 # Conclusions and future directions
+
+While quantification and modelling induce simplification, comparability and analytical feasibility, it will necessarily hide variation and idiosyncrasies that could prove to be both important and interesting. However, as simplification will pertain to any attempts at describing or explaining the past, and as the material now produced in archaeology is getting, simplification and abstraction is both necessary t begin to get a handle 
+
+This paper has shown some of the advantages these approaches can have. Through the four papers of the thesis, focus has been directed towards 
