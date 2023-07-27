@@ -82,7 +82,7 @@ Warrant 5 states that for the modelling efforts to hold, the precise details for
 Furthermore, the distances measured was the vertical distance between the elevation of the shoreline and the lowest point on the site polygons, the distance between the horizontally closest points on the site and the shoreline, as well as the topographic distance (that is, the distance when accounting for the slope of the terrain) between the sites and the horizontally closest point on the shoreline. Especially the last measure entails some simplifications. Measuring the topographic distance to the horizontally closest points means that this does not necessarily identify the topographically closest points, which is a more computationally expensive operation. Furthermore, identifying the topographically shortest path between these points is also dependent on the choice of leas cost path algorithm. However, I still believe that the distances considered means that the assumptions and inferential leaps that this warrant requires will have a limited impact on the findings.      
 
 
-```{r t1, echo = FALSE, out.width="105%", fig.align="center",  fig.cap="Central evidential arguments underlying Paper 1 and 2, presented as a argument schema drawing on Toulmin (1958) and Chapman and Wylie (2016)."}
+```{r t1, echo = FALSE, out.width="105%", fig.align="center",  fig.cap="Argument schema for Paper 1 and 2."}
 knitr::include_graphics("figures/toulmin_p1.png")
 ```
 
@@ -130,7 +130,7 @@ As it stands the most readily implemented explanatory variables of the model is 
 
 The third paper of this thesis [@roalkvam2022] was aimed at exploring methods and approaches for handling lithic assemblages associated with the large number of excavated Mesolithic sites in the region, which can range in size from a few hundred to several thousands artefacts. The 55 sites chosen for analysis were excavated as part of four large excavation projects undertaken by the Museum of Cultural History within the last two decades, and were located within a constrained geographical area. As this means that the excavations were carried out using similar excavation methods and that the classification of the artefact inventories followed similar guidelines, the choice of sample was aimed at reducing the amount of variation in the assemblages that could follow simply from investigatory and classificatory differences. The analysis focused on two analytical avenues. The first of these was using correspondence analysis to evaluate the chronological development in the occurrence of artefact categories over time, which in large part appears to coincide with previous suggestions in the literature. The second line of investigation aimed at exploring methods for tracking variation in mobility patterns based on the composition of lithic inventories. It is the second part of the analysis that is focused on here, and which is presented in the argument schema in Figure \@ref(fig:t3).
 
-```{r t3, echo = FALSE, out.width="105%", fig.align="center",  fig.cap="Central evidential arguments underlying Paper 3, presented as a argument schema drawing on Toulmin (1958) and Chapman and Wylie (2016)."}
+```{r t3, echo = FALSE, out.width="105%", fig.align="center",  fig.cap="Argument schema for Paper 3."}
 knitr::include_graphics("figures/toulmin_p3.png")
 ```
 

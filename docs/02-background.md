@@ -63,7 +63,7 @@ The development of relative sea-level change within the study area is given by s
 
 }
 
-\caption{Relative sea-level change in the study area in south-eastern Norway (see Figures 1.1 and 2.3 for an overview of its location). A) Shoreline displacement curves for Horten, Porsgrunn, Tvedestrand and Arendal. B) Location of the isobases corresponding to the displacement curves. The isobases represent contours along which the relative sea-level change has followed the same trajectory.}(\#fig:study-rsl)
+\caption{Relative sea-level change in the study area in south-eastern Norway (see Figures 1.1 and 2.3 for an overview of its location). A) Shoreline displacement curves for Horten, Porsgrunn, Tvedestrand and Arendal. B) Location of the isobases corresponding to the displacement curves. The isobases represent contours along which the relative sea-level change has followed the same trajectory (see also Roalkvam 2023a, 2023b).}(\#fig:study-rsl)
 \end{figure}
 
 ### Flora
@@ -73,17 +73,6 @@ The increases in temperatures led to a transition from Arctic to Boreal vegetati
 There is also some regional climatic variation in the present-day coastal areas of south-eastern Norway. The inner, more sheltered parts of the Oslo fjord has a more continental climate, characterised by cold winters and warm summers in which most of the precipitation falls. Towards the distal coastal areas the climate is more oceanic in character, with comparatively warmer winters with more precipitation and somewhat colder summers than in the inner coastal areas -- differences that also impact vegetation [@hafsten1956, 16--29].
 
 A note should also be made here that anthropogenic influence on vegetation cover in the Mesolithic is evident from palynological indicators of fire management at some sites [e.g. @selsing2016; @wieckowska-luth2018], and is possibly also related to the spread of hazel through foraging of hazel nuts. However, human-induced changes to vegetation is most pronounced towards the end of the Neolithic with the wide adoption of agriculture [e.g. @hjelle2018; @wieckowska-luth2018; @høeg2018, 199].
-
-<!-- options(knitr.kable.NA = '') -->
-<!-- Period <- c('Preboreal', 'Boreal', 'Atlantic', 'Subboreal', 'Subatlantic') -->
-<!-- Duration <- c('9500--8200 BCE', '8200--7000 BCE', '7000--3800 BCE', '3800--750 BCE', '750 BCE--Present') -->
-<!-- Conditions <- c("Warm and dry", "Warm and dry", "Warm and wet", "Colder and dry", "Cold and wet") -->
-
-<!-- df <- data.frame(Period, Duration, Conditions) -->
-
-<!-- knitr::kable(df, booktabs = TRUE, -->
-<!--       caption = "Approximate duration and general conditions of vegetational/climatic phases (based on Sørensen 2005, Mangerud et al. 1974)", -->
-<!--       align = 'l') -->
 
 ### Palaeoceonography
 
