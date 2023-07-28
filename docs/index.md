@@ -1,7 +1,9 @@
 --- 
 title: "Computational modelling of the coastal Mesolithic in south-eastern Norway"
-author: "Isak Roalkvam"
-date: "2023-07-27"
+subtitle: "Isak Roalkvam"
+author: 
+- "Institute of Archaeology, Conservation and History"
+- "University of Oslo"
 site: bookdown::bookdown_site
 documentclass: book
 papersize: a4
@@ -19,6 +21,11 @@ bookdown::epub_book:
   pandoc_args: ["--csl", "saa.csl"]
 link-citations: yes
 classoption: oneside
+header-includes:
+  - \usepackage{titling}
+  - \pretitle{\begin{center}
+  - \posttitle{\end{center}}
+    \includegraphics[width=4in,height=4in]{figures/uio_logo_eng.jpg}\LARGE\\}
 # nocite: | 
 #   @mangerud1974, @sørensen2005
 

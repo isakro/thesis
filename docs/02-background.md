@@ -1,6 +1,6 @@
 # The Mesolithic in south-eastern Norway {#chapter2}
 
-This chapter presents the context of the study, beginning with the overarching environmental developments relevant to the Mesolithic of south-eastern Norway, before general archaeological understandings and discussions of the period is presented. Focus is on the developments in the coastal areas of south-eastern Norway, but insights from studies undertaken in Norway and Sweden more widely will be drawn on at times. The location of the study area is given in Figure \@ref(fig:overview) (see the introduction for a map displaying the location of the study region within Northern Europe).
+This chapter presents the context of the study, beginning with the overarching environmental developments relevant to the Mesolithic of south-eastern Norway, before general archaeological understandings and discussions of the period is presented. Focus is on the developments in the coastal areas of south-eastern Norway, but insights from studies undertaken in Norway and Fennoscandia more widely will be drawn on at times. The location of the study area is given in Figure \@ref(fig:overview) (see the introduction for a map displaying the location of the study region within Northern Europe).
 
 \begin{figure}
 
