@@ -15,3 +15,51 @@
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=cyan}
+
+\usepackage{titling}
+\usepackage{graphicx}
+\usepackage{tikz}
+
+\pretitle{%
+  \begin{center}
+  \LARGE
+  \vskip 2em
+}
+\posttitle{%
+  \end{center}
+  \vskip 2em
+}
+
+\preauthor{%
+  \begin{center}
+  \large
+  \lineskip 0.5em
+  \begin{tabular}[t]{c}
+}
+\postauthor{%
+  \end{tabular}
+  \end{center}
+}
+
+\predate{%
+  \begin{center}
+  \large
+}
+\postdate{%
+  \end{center}
+}
+
+\renewcommand{\maketitlehooka}{%
+  \begin{titlingpage}
+}
+
+\renewcommand{\maketitlehookd}{%
+  \null\vfill
+  \begin{center}
+  \begin{tikzpicture}[remember picture,overlay]
+    \node at (current page.center) {\includegraphics[width=4in,height=4in]{figures/uio_logo_eng.jpg}};
+  \end{tikzpicture}
+  \end{center}
+  \vfill
+  \end{titlingpage}
+}
