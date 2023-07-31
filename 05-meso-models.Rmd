@@ -148,6 +148,8 @@ Central to causal graphs is that as the presence of arrows merely point to a pos
 
 Central here, however, is that while the distance to the shoreline has a relatively straightforward relationship between empirical measurement and the underlying theoretical construct, the same can not be said for the relationship between the components of the WABI and the more abstract theoretical concept of technological expediency. While there are some theoretical questions pertaining for example to precisely how the shoreline and site limits are defined, far more controversy and uncertainty exists in the definition of the expedient--curated technological continuum and what empirical effect this has on the indicator variables. While the difference beween causality and. The question then becomes on Given that the variables are taken to be effect indicators. Given that the indicators influences the latent variable [@bollen2015]. 
 
+An important assumption here, and one which will require further substantiation, is that there is no direct effect between choice of raw material and technological expediency. The assumption is thus that raw material only impacts the indicator variables for technological expediency without directly impacting the fundamental technological strategy itself.
+
 ```{r d3, echo = FALSE, fig.align="center", out.width="100%", fig.cap="Suggested causal model for the drivers behind the relationship between mobility patterns and the composition of lithic inventories."}
 knitr::include_graphics("figures/dag_paper3.png")
 ```
