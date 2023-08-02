@@ -2,7 +2,8 @@
 \usepackage{pdfpages}
 \usepackage{rotating}
 \usepackage{fancyhdr}
-\usepackage[utf8]{inputenc}     
+\usepackage[utf8]{inputenc}
+\pagenumbering{gobble}
 % \usepackage[T1]{url}\urlstyle{sf}
 \usepackage{csquotes, graphicx, textcomp, varioref}
 \usepackage[backend=biber,style=numeric-comp]{biblatex}
@@ -33,19 +34,25 @@
 \preauthor{%
   \begin{center}
   \large
-  \lineskip 0.5em
-  \begin{tabular}[t]{c}
+  \vskip 2em
 }
 \postauthor{%
-  \end{tabular}
   \end{center}
 }
 
-\predate{%
+\newcommand{\phdthesis}{%
   \begin{center}
   \large
+  Thesis submitted for the degree of Ph.D
+  \end{center}
 }
-\postdate{%
+
+\newcommand{\affiliation}{%
+  \begin{center}
+  \large
+  Institute of Archaeology, Conservation and History \\
+  Faculty of Humanities \\
+  University of Oslo
   \end{center}
 }
 
@@ -53,11 +60,35 @@
   \begin{titlingpage}
 }
 
+
+\renewcommand{\maketitlehookb}{%
+  \vfill
+  \phdthesis
+  \vskip 2em % Adjust the space after the thesis description as needed
+  \affiliation
+  \vskip 2em % Adjust the space after the thesis description as needed
+}
+
+% \renewcommand{\maketitlehookc}{%
+%   \vfill
+%   \affiliation
+%   \vskip 2em % Adjust the space after the institute name as needed
+% }
+
+\predate{%
+  \begin{center}
+  \vspace{13em}
+  \Large
+}
+\postdate{%
+  \end{center}
+}
+
 \renewcommand{\maketitlehookd}{%
   \null\vfill
   \begin{center}
   \begin{tikzpicture}[remember picture,overlay]
-    \node at ([yshift=1in]current page.south) {\includegraphics[width=4in,height=4in]{figures/uio_logo_eng.jpg}};
+    \node at ([yshift=1.5in]current page.south) {\includegraphics[width=2in,height=2in]{figures/uio_logo_eng.jpg}};
   \end{tikzpicture}
   \end{center}
   \vfill

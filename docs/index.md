@@ -1,10 +1,7 @@
 --- 
 title: "Computational modelling of the coastal Mesolithic in south-eastern Norway"
-subtitle: "Isak Roalkvam"
-author: 
-- "Institute of Archaeology, Conservation and History"
-- ""
-- "University of Oslo"
+author: "Isak Roalkvam"
+date: "2023"
 site: bookdown::bookdown_site
 documentclass: book
 papersize: a4

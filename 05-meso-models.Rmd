@@ -1,8 +1,8 @@
 # Modelling the Norwegian Mesolithic
 
-The last chapter laid out the foundation for what can constitute components of a model-based archaeology. This chapter will explore some ways in which casting the papers of the thesis in this light can help elucidate assumptions and further lines of inquiry associated with the arguments and empirical patterns identified in the papers. The central empirical patterns identified for the papers are presented in Figure. 
+The last chapter laid out the foundation for what can constitute components of a model-based archaeology. This chapter will explore some ways in which casting the papers of the thesis in this light can help elucidate assumptions and further lines of inquiry associated with the arguments and empirical patterns identified in the papers. The central empirical patterns and modelling efforts for the papers are presented in Figure. 
 
-```{r meso-models,  echo = FALSE, out.width = "100%", fig.align = "center", fig.cap = "A) The gamma distribution describes the likely elevation of sites older than 2500 BCE above the contemporenous sea-level. This is the main result of Paper 1 and underlies the implementation of shoreline dating presented in Paper 1 and Paper 2. B) The average value of the curation index derived from lithic inventories analysed for Paper 3. This is argued to reflect overarching settlement patterns. C and D) The maximum likelihood models "}
+```{r meso-models,  echo = FALSE, out.width = "100%", fig.align = "center", fig.cap = "A) The gamma distribution used to describe the likely elevation of sites older than 2500 BCE above the contemporenous sea-level within the study area. This is the main result of Paper 1 and underlies the implementation of shoreline dating presented in Paper 1 and Paper 2. B) The average value of the curation index derived from lithic inventories analysed for Paper 3. This is argued to reflect overarching settlement patterns. C) The maximum likelihood parameters of the logistic model describing the temporal frequency distribution of radiocarbon dates within the study area in Paper 4. D) The rejected exponential model describing the temporal frequency distribution of shoreline dates within the study area in Paper 4."}
 # knitr::include_graphics("figures/argument_ex.png")
 ```
 
@@ -164,6 +164,10 @@ The first warrant pertains to the degree to which the frequency of radiocarbon d
 The second warrant first pertains to the degree to which shoreline dating is a reliable method for dating coastal Stone Age sites in the region, and is thus premised on the argument schema for Paper 1 and 2. Furthermore, while the frequency of shoreline dated sites is likely not entirely divorced from the number of people responsible for their occurrence, the mismatch that was found between the two proxies led us to hypothesise that the frequency of shoreline dated sites is to a large extent determined by mobility patterns. 
 
 This is thus also heavily dependent on the method for shoreline dating, the major uncertainties of which is presented above (Section \@ref(shoremodel)).
+
+```{r t4, echo = FALSE, out.width="105%", fig.align="center",  fig.cap="Argument schema for Paper 4."}
+knitr::include_graphics("figures/toulmin_p4.png")
+```
 
 The fourth paper can thus be said to mainly provide a methodological framework for assembling and assessing the summed probability distribution of shoreline dated sites. With a comparison with the RSPD, this led to the development of a first hypothesised relationship between the variables. This is presented as a DAG in Figure \@ref(fig:d4). Exploring and adjudicating between such potential explanations will ultimately depend on drawing on the other variables in the DAG as well. 
 

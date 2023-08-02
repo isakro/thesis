@@ -1,6 +1,6 @@
 # Modelling the Norwegian Mesolithic
 
-The last chapter laid out the foundation for what can constitute components of a model-based archaeology. This chapter will explore some ways in which casting the papers of the thesis in this light can help elucidate assumptions and further lines of inquiry associated with the arguments and empirical patterns identified in the papers. The central empirical patterns identified for the papers are presented in Figure. 
+The last chapter laid out the foundation for what can constitute components of a model-based archaeology. This chapter will explore some ways in which casting the papers of the thesis in this light can help elucidate assumptions and further lines of inquiry associated with the arguments and empirical patterns identified in the papers. The central empirical patterns and modelling efforts for the papers are presented in Figure. 
 
 
 
@@ -184,11 +184,20 @@ The second warrant first pertains to the degree to which shoreline dating is a r
 
 This is thus also heavily dependent on the method for shoreline dating, the major uncertainties of which is presented above (Section \@ref(shoremodel)).
 
+\begin{figure}
+
+{\centering \includegraphics[width=1.05\linewidth]{figures/toulmin_p4} 
+
+}
+
+\caption{Argument schema for Paper 4.}(\#fig:t4)
+\end{figure}
+
 The fourth paper can thus be said to mainly provide a methodological framework for assembling and assessing the summed probability distribution of shoreline dated sites. With a comparison with the RSPD, this led to the development of a first hypothesised relationship between the variables. This is presented as a DAG in Figure \@ref(fig:d4). Exploring and adjudicating between such potential explanations will ultimately depend on drawing on the other variables in the DAG as well. 
 
 The most proximal causes to the frequency of ^14^C-dates and frequency of shoreline dated sites is suggested to be population numbers and degree of residential mobility. Not included in the DAG is that is it hypothesised that the frequency of shoreline dated sites is more heavily influenced by degree of residential mobility than population numbers. Furthermore, the influence of mobility on frequency of radiocarbon dates is thought to be small compared to population numbers, but the absence of radiocarbon dates from parts of the Mesolithic where we know people were present indicates that this is non-zero. 
 
-The suggested DAG highlights the degree of residential patterns and environmental developments such as the rate of relative sea-level change, oceanographic developments and precipitation and temperature changes that have frequently been demonstrated to be of relevance for demographic developments. The rate of relative sea-level change can be directly derived from the displacement curves and can therefore readily be drawn on in future studies. Data for variation is sea-surface temperature is also available for the the mid- to late Holocene of Skaggerrak, offering another potential analytical avenue. Furthermore, if the framework from Paper 3 can be expanded upon and given a more solid evidential foundation, this can be compared and potentially be used to adjust the SSPD for variation in mobility patterns.
+The suggested DAG highlights the degree of residential patterns and environmental developments such as the rate of relative sea-level change, oceanographic developments and precipitation and temperature changes that have frequently been demonstrated to be of relevance for demographic developments. The rate of relative sea-level change can be directly derived from the displacement curves and can therefore readily be drawn on in future studies. Data for variation in sea-surface temperature is also available for the the mid- to late Holocene of Skaggerrak, offering another potential analytical avenue. Furthermore, if the framework from Paper 3 can be expanded upon and given a more solid evidential foundation, as also indicated as a potential backing in Figure, this can be compared and potentially be used to adjust the SSPD for variation in mobility patterns.
 
 \begin{figure}
 

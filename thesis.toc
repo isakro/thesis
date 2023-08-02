@@ -108,6 +108,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.5}Modelling demographic developments through the Mesolithic}{104}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.6}Chapter summary}{107}{section.5.6}
+\contentsline {section}{\numberline {5.6}Chapter summary}{108}{section.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Concluding remarks}{108}{chapter.6}
+\contentsline {chapter}{\numberline {6}Concluding remarks}{109}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{111}{chapter*.19}

@@ -7,5 +7,3 @@ While quantification and modelling induce simplification, comparability and anal
 This thesis has shown some of the advantages quantitative methods can have. Through the four papers of the thesis, focus has been directed towards first exploring and deriving methods that can be used to meaningfully handle this material. The first two papers concerned the assessment and derivement of a new method for shoreline dating , which can be used to ascribe the occurrence of the archaeological material available to us on the calendar scale. Exploratory multivariate statistics were then used to assess the composition of a large number of lithic inventories and explore this variation over time. Finally, the method for shoreline dating was used to date a large number of sites within the study region and comapred the derived summed probability of these dates to that of the summed probability of radiocarbon dates from within the same region. 
 
 From a substantive perspective these approaches allowed for insights concerning settlement patterns, mobility patterns and demographic developments. However, it also clear that the thesis has open up new lines investigation and 
-
-\newpage

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2023.7.8)  31 JUL 2023 20:15
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2023.7.8)  2 AUG 2023 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1178,7 +1178,7 @@ tly
 )
 \Hy@SectionHShift=\skip89
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 107.
+Package hyperref Info: Option `colorlinks' set `false' on input line 108.
 (/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip90
@@ -1547,40 +1547,40 @@ File: english.lbx 2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 ) (./thesis.aux)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 193.
-LaTeX Font Info:    ... okay on input line 193.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 217.
+LaTeX Font Info:    ... okay on input line 217.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 217.
+LaTeX Font Info:    ... okay on input line 217.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 217.
+LaTeX Font Info:    ... okay on input line 217.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 217.
+LaTeX Font Info:    ... okay on input line 217.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 217.
+LaTeX Font Info:    ... okay on input line 217.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 217.
+LaTeX Font Info:    ... okay on input line 217.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 217.
+LaTeX Font Info:    ... okay on input line 217.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 217.
+LaTeX Font Info:    ... okay on input line 217.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 217.
+LaTeX Font Info:    ... okay on input line 217.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 217.
+LaTeX Font Info:    ... okay on input line 217.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 193.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 217.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 193.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 217.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 193.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 217.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 193.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 217.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 193.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 217.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 193.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 217.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 193.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 217.
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -1615,7 +1615,7 @@ atinmodern-math.otf}].
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 193.
+(Font)              scaled to size 12.0pt on input line 217.
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -1663,18 +1663,18 @@ ern-math.otf]/OT:script=math;language=DFLT;+ssty=1;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 193.
+(Font)              scaled to size 12.0pt on input line 217.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 193.
+(Font)              `operators' in the math version `normal' on input line 217.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 193.
+ line 217.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 193.
+(Font)              `operators' in the math version `bold' on input line 217.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/bx/n on inp
-ut line 193.
+ut line 217.
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -1745,15 +1745,15 @@ f},Scale=1.00001,FontAdjustment={\fontdimen
 . \fontdimen 20\font =0pt\relax \fontdimen 21\font =0pt\relax 
 .................................................
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 193.
+(Font)              `symbols' in the math version `normal' on input line 217.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 193.
+t line 217.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 193.
+(Font)              `symbols' in the math version `bold' on input line 217.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/bx/n on inp
-ut line 193.
+ut line 217.
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -1812,18 +1812,18 @@ f},Scale=0.99999,FontAdjustment={\fontdimen
 . =7.2pt\relax \fontdimen 13\font =0pt\relax 
 .................................................
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 1
-93.
+(Font)              `largesymbols' in the math version `normal' on input line 2
+17.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 193.
+t line 217.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 193
+(Font)              `largesymbols' in the math version `bold' on input line 217
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/bx/n on inp
-ut line 193.
-LaTeX Info: Redefining \microtypecontext on input line 193.
+ut line 217.
+LaTeX Info: Redefining \microtypecontext on input line 217.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -1843,15 +1843,15 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' not found.
 No file thesis.bbl.
-Package biblatex Info: Reference section=0 on input line 193.
-Package biblatex Info: Reference segment=0 on input line 193.
+Package biblatex Info: Reference section=0 on input line 217.
+Package biblatex Info: Reference segment=0 on input line 217.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 193.
+Package hyperref Info: Link coloring OFF on input line 217.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1860,46 +1860,11 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 \c@section@level=\count455
 LaTeX Info: Redefining \Ref on input line 515.
 )
-LaTeX Info: Redefining \ref on input line 193.
-LaTeX Info: Redefining \pageref on input line 193.
-LaTeX Info: Redefining \nameref on input line 193.
-LaTeX Info: Redefining \Ref on input line 193.
+LaTeX Info: Redefining \ref on input line 217.
+LaTeX Info: Redefining \pageref on input line 217.
+LaTeX Info: Redefining \nameref on input line 217.
+LaTeX Info: Redefining \Ref on input line 217.
 ABD: EveryShipout initializing macros
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 194.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 194.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 194.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 194.
-
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 14.4002pt on input line 194.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 194.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.0001pt on input line 194.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 14.39977pt on input line 194.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 194.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.9999pt on input line 194.
-LaTeX Font Info:    Try loading font information for U+msa on input line 194.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 194.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
 File: figures/uio_logo_eng.jpg Graphic file (type bmp)
 <figures/uio_logo_eng.jpg>
 [1
@@ -1910,6 +1875,10 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 8.41483pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 5.97688pt on input line 5.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 5.
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 12.00018pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1922,7 +1891,18 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 8.41469pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.97679pt on input line 5.
-[1
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) [1
 
 ])
 \tf@toc=\write6
@@ -1937,19 +1917,19 @@ Chapter 1.
 File: figures/large_overview.png Graphic file (type bmp)
 <figures/large_overview.png>
 [5] [6]
-Underfull \hbox (badness 1596) in paragraph at lines 286--286
+Underfull \hbox (badness 1596) in paragraph at lines 310--310
 []\TU/lmr/m/n/12 Table 1.1: |[]Overview of repositories and preprints. GitHub r
 eposi-
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 286--286
+Underfull \hbox (badness 1648) in paragraph at lines 310--310
 \TU/lmr/m/n/12 tories can be accessed by adding the name of the repository afte
 r
  []
 
 
-Overfull \hbox (77.448pt too wide) in paragraph at lines 288--299
+Overfull \hbox (77.448pt too wide) in paragraph at lines 312--323
  [][] 
  []
 
@@ -1963,12 +1943,12 @@ File: figures/overview.png Graphic file (type bmp)
 File: figures/palaeo-maps.png Graphic file (type bmp)
 <figures/palaeo-maps.png>
 
-Overfull \hbox (19.50005pt too wide) in paragraph at lines 361--362
+Overfull \hbox (19.50005pt too wide) in paragraph at lines 385--386
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 78.67934pt on input line 366.
+LaTeX Warning: Float too large for page by 78.67934pt on input line 390.
 
 [14] [15] [16] [17]
 File: figures/present_uplift.png Graphic file (type bmp)
@@ -1976,18 +1956,18 @@ File: figures/present_uplift.png Graphic file (type bmp)
 File: figures/study_rsl.png Graphic file (type bmp)
 <figures/study_rsl.png>
 
-LaTeX Warning: Float too large for page by 91.60593pt on input line 401.
+LaTeX Warning: Float too large for page by 91.60593pt on input line 425.
 
 [18] [19] [20] [21]
 File: figures/circulation.png Graphic file (type bmp)
 <figures/circulation.png>
 
-Overfull \hbox (19.5028pt too wide) in paragraph at lines 425--426
+Overfull \hbox (19.5028pt too wide) in paragraph at lines 449--450
  [][] 
  []
 
 [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
-Underfull \hbox (badness 1360) in paragraph at lines 505--506
+Underfull \hbox (badness 1360) in paragraph at lines 529--530
 \TU/lmr/m/n/12 While the Middle Mesolithic (MM) was defined as a separate typo-
 
  []
@@ -2005,7 +1985,7 @@ Chapter 4.
 File: figures/jarman.png Graphic file (type bmp)
 <figures/jarman.png>
 [65] [66]
-Overfull \hbox (0.30139pt too wide) in paragraph at lines 735--736
+Overfull \hbox (0.30139pt too wide) in paragraph at lines 759--760
 \TU/lmr/m/n/12 about what these causes are. The empirical material will in this
  processual un-
  []
@@ -2022,12 +2002,12 @@ File: figures/argument_ex.png Graphic file (type bmp)
 File: figures/dagittyexample.png Graphic file (type bmp)
 <figures/dagittyexample.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 909--909
+Underfull \hbox (badness 10000) in paragraph at lines 933--933
 []\TU/lmr/bx/n/17.28 Modelling the relationship between
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 909--909
+Underfull \hbox (badness 4981) in paragraph at lines 933--933
 \TU/lmr/bx/n/17.28 Mesolithic sites and the prehistoric
  []
 
@@ -2035,7 +2015,7 @@ Underfull \hbox (badness 4981) in paragraph at lines 909--909
 File: figures/toulmin_p1.png Graphic file (type bmp)
 <figures/toulmin_p1.png>
 
-Overfull \hbox (19.50252pt too wide) in paragraph at lines 931--932
+Overfull \hbox (19.50252pt too wide) in paragraph at lines 955--956
  [][] 
  []
 
@@ -2046,7 +2026,7 @@ File: figures/dag_paper1.png Graphic file (type bmp)
 File: figures/toulmin_p3.png Graphic file (type bmp)
 <figures/toulmin_p3.png>
 
-Overfull \hbox (19.50005pt too wide) in paragraph at lines 992--993
+Overfull \hbox (19.50005pt too wide) in paragraph at lines 1016--1017
  [][] 
  []
 
@@ -2054,56 +2034,28 @@ Overfull \hbox (19.50005pt too wide) in paragraph at lines 992--993
 File: figures/dag_paper3.png Graphic file (type bmp)
 <figures/dag_paper3.png>
 
-Underfull \hbox (badness 6927) in paragraph at lines 1026--1026
+Underfull \hbox (badness 6927) in paragraph at lines 1050--1050
 []\TU/lmr/bx/n/17.28 Modelling demographic developments
  []
 
 [104] [105]
+File: figures/toulmin_p4.png Graphic file (type bmp)
+<figures/toulmin_p4.png>
+
+Overfull \hbox (19.50005pt too wide) in paragraph at lines 1064--1065
+ [][] 
+ []
+
 File: figures/dag_paper4.png Graphic file (type bmp)
 <figures/dag_paper4.png>
-[106] [107]
+[106] [107] [108]
 Chapter 6.
-[108
+[109
 
-] [109]
-Underfull \hbox (badness 1546) in paragraph at lines 1078--1078
+] [110]
+Underfull \hbox (badness 1546) in paragraph at lines 1113--1113
 []\TU/lmr/m/n/12 The Meaning of “Theory”. \TU/lmr/m/it/12 Sociological Theory \
 TU/lmr/m/n/12 26(2):173–199.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1075--1079
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1080--1084
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1085--1089
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1090--1094
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1095--1099
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1100--1104
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1105--1109
-
  []
 
 
@@ -2112,177 +2064,157 @@ Underfull \hbox (badness 10000) in paragraph at lines 1110--1114
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1115--1118
+Underfull \hbox (badness 10000) in paragraph at lines 1115--1119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1119--1123
-
- []
-
-[110]
-Underfull \hbox (badness 10000) in paragraph at lines 1124--1128
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1129--1133
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1134--1138
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1139--1142
+Underfull \hbox (badness 10000) in paragraph at lines 1135--1139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1143--1146
+Underfull \hbox (badness 10000) in paragraph at lines 1140--1144
+
+ []
+
+[111
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1147--1151
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1152--1156
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1159--1159
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1178--1181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1182--1186
+
+ []
+
+[112]
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
 []\TU/lmr/m/n/12 Time perspectives, palimpsests and the archaeology of
  []
 
 
-Underfull \hbox (badness 3735) in paragraph at lines 1159--1159
+Underfull \hbox (badness 3735) in paragraph at lines 1194--1194
 \TU/lmr/m/n/12 time. \TU/lmr/m/it/12 Journal of Anthropological Archaeology \TU
 /lmr/m/n/12 26(2):198–223.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1157--1160
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1161--1165
-
- []
-
-[111]
-Underfull \hbox (badness 10000) in paragraph at lines 1166--1170
+Underfull \hbox (badness 10000) in paragraph at lines 1196--1200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1171--1175
+Underfull \hbox (badness 10000) in paragraph at lines 1201--1205
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1176--1180
+Underfull \hbox (badness 10000) in paragraph at lines 1206--1210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1184--1184
+Underfull \hbox (badness 10000) in paragraph at lines 1211--1215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1219--1219
 []\TU/lmr/m/n/12 Southwest Norway at the Pleistocene/Holocene Transition:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1184--1184
+Underfull \hbox (badness 10000) in paragraph at lines 1219--1219
 \TU/lmr/m/n/12 Landscape Development, Colonization, Site Types, Settle-
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 1184--1184
+Underfull \hbox (badness 3029) in paragraph at lines 1219--1219
 \TU/lmr/m/n/12 ment Patterns. \TU/lmr/m/it/12 Norwegian Archaeological Review \
 TU/lmr/m/n/12 36(1):5–25.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1181--1185
+Underfull \hbox (badness 10000) in paragraph at lines 1216--1220
 
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 1188--1188
+Underfull \hbox (badness 1337) in paragraph at lines 1223--1223
 \TU/lmr/m/n/12 Before Present. \TU/lmr/m/it/12 Oxford Journal of Archaeology \T
 U/lmr/m/n/12 31(2):103–120.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1186--1189
+Underfull \hbox (badness 10000) in paragraph at lines 1221--1224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1198
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1199--1203
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1204--1208
-
- []
-
-[112]
-Underfull \hbox (badness 10000) in paragraph at lines 1209--1213
-
- []
-
-
-Underfull \hbox (badness 3735) in paragraph at lines 1217--1217
-[]\TU/lmr/m/n/12 Looking for the future in the past: Long-term change in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1217--1217
-\TU/lmr/m/n/12 socioecological systems. \TU/lmr/m/it/12 Ecological Modelling \T
-U/lmr/m/n/12 241:42–53.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1214--1218
-
- []
-
-
-Underfull \hbox (badness 6775) in paragraph at lines 1222--1222
-[]\TU/lmr/m/n/12 Bradshaw and Bayes: Towards a Timetable for the Ne-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1222--1222
-\TU/lmr/m/n/12 olithic. \TU/lmr/m/it/12 Cambridge Archaeological Journal \TU/lm
-r/m/n/12 17(1):1–28.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1219--1223
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1224--1228
+Underfull \hbox (badness 10000) in paragraph at lines 1225--1228
 
  []
 
@@ -2296,19 +2228,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1234--1238
 
  []
 
-
-Underfull \hbox (badness 1406) in paragraph at lines 1242--1242
-[]\TU/lmr/m/n/12 Insolation values for the climate of the last 10 million years
-.
- []
-
-
-Underfull \hbox (badness 1668) in paragraph at lines 1242--1242
-\TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/m/n/12 10(4):297–317. DOI:[]
-10.1016/0277-
- []
-
-
+[113]
 Underfull \hbox (badness 10000) in paragraph at lines 1239--1243
 
  []
@@ -2318,137 +2238,155 @@ Underfull \hbox (badness 10000) in paragraph at lines 1244--1248
 
  []
 
-[113]
-Underfull \hbox (badness 10000) in paragraph at lines 1249--1252
+
+Underfull \hbox (badness 3735) in paragraph at lines 1252--1252
+[]\TU/lmr/m/n/12 Looking for the future in the past: Long-term change in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+\TU/lmr/m/n/12 socioecological systems. \TU/lmr/m/it/12 Ecological Modelling \T
+U/lmr/m/n/12 241:42–53.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1249--1253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1253--1257
+Underfull \hbox (badness 6775) in paragraph at lines 1257--1257
+[]\TU/lmr/m/n/12 Bradshaw and Bayes: Towards a Timetable for the Ne-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1257
+\TU/lmr/m/n/12 olithic. \TU/lmr/m/it/12 Cambridge Archaeological Journal \TU/lm
+r/m/n/12 17(1):1–28.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1254--1258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1258--1262
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1263
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1263--1267
+Underfull \hbox (badness 10000) in paragraph at lines 1264--1268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1272
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1273--1277
-
+Underfull \hbox (badness 1406) in paragraph at lines 1277--1277
+[]\TU/lmr/m/n/12 Insolation values for the climate of the last 10 million years
+.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1278--1281
-
+Underfull \hbox (badness 1668) in paragraph at lines 1277--1277
+\TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/m/n/12 10(4):297–317. DOI:[]
+10.1016/0277-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1282--1286
+Underfull \hbox (badness 10000) in paragraph at lines 1274--1278
 
  []
 
 [114]
-Underfull \hbox (badness 10000) in paragraph at lines 1287--1291
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1283
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1292--1296
+Underfull \hbox (badness 10000) in paragraph at lines 1284--1287
 
  []
 
 
-Underfull \hbox (badness 2941) in paragraph at lines 1300--1300
+Underfull \hbox (badness 10000) in paragraph at lines 1288--1292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1293--1297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1298--1302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1303--1307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1308--1312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1313--1316
+
+ []
+
+[115]
+Underfull \hbox (badness 10000) in paragraph at lines 1317--1321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1327--1331
+
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 1335--1335
 []\TU/lmr/m/n/12 High frequency climate variability of the Norwegian Atlantic
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 1300--1300
+Underfull \hbox (badness 1189) in paragraph at lines 1335--1335
 \TU/lmr/m/n/12 Current during the early Holocene period and a possible con-
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 1300--1300
+Underfull \hbox (badness 1371) in paragraph at lines 1335--1335
 \TU/lmr/m/n/12 nection to the Gleissberg cycle. \TU/lmr/m/it/12 The Holocene \T
 U/lmr/m/n/12 20(2):245–255.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1297--1301
+Underfull \hbox (badness 10000) in paragraph at lines 1332--1336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1302--1306
+Underfull \hbox (badness 10000) in paragraph at lines 1337--1341
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1310--1310
+Underfull \hbox (badness 10000) in paragraph at lines 1345--1345
 []\TU/lmr/m/n/12 The data deluge. \TU/lmr/m/it/12 Antiquity \TU/lmr/m/n/12 89(3
 48):1473–1484.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1307--1311
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1312--1316
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1317--1321
-
- []
-
-[115]
-Underfull \hbox (badness 10000) in paragraph at lines 1322--1325
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1326--1329
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1330--1333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1334--1337
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1340--1340
-[]\TU/lmr/m/n/12 Mobility, Housing, and Environment: A Comparative
- []
-
-
-Underfull \hbox (badness 6316) in paragraph at lines 1340--1340
-\TU/lmr/m/n/12 Study. \TU/lmr/m/it/12 Journal of Anthropological Research \TU/l
-mr/m/n/12 46(2):119–152.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1338--1341
-
  []
 
 
@@ -2461,269 +2399,280 @@ Underfull \hbox (badness 10000) in paragraph at lines 1347--1351
 
  []
 
-
+[116]
 Underfull \hbox (badness 10000) in paragraph at lines 1352--1356
 
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 1360--1360
+Underfull \hbox (badness 10000) in paragraph at lines 1357--1360
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1361--1364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1365--1368
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1369--1372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1375--1375
+[]\TU/lmr/m/n/12 Mobility, Housing, and Environment: A Comparative
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 1375--1375
+\TU/lmr/m/n/12 Study. \TU/lmr/m/it/12 Journal of Anthropological Research \TU/l
+mr/m/n/12 46(2):119–152.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1376
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1377--1381
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1387--1391
+
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 1395--1395
 []\TU/lmr/m/n/12 The Fosna-Nøstvet Problem. A Consideration of Archaeologi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1360--1360
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1395
 \TU/lmr/m/n/12 Period. \TU/lmr/m/it/12 Norwegian Archaeological Review \TU/lmr/
 m/n/12 19(2):103–121.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1357--1361
+Underfull \hbox (badness 10000) in paragraph at lines 1392--1396
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1364--1364
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1399
 []\TU/lmr/m/n/12 Reply to comments on the Fosna-Nøstvet Prob-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1364--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1399
 \TU/lmr/m/n/12 lem. \TU/lmr/m/it/12 Norwegian Archaeological Review \TU/lmr/m/n
 /12 20(1):39–42.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1362--1365
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1400
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1366--1369
-
- []
-
-[116]
-Underfull \hbox (badness 10000) in paragraph at lines 1370--1373
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1374--1377
+Underfull \hbox (badness 10000) in paragraph at lines 1405--1408
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1378--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1382--1385
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1416
 
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 1388--1388
+Underfull \hbox (badness 10000) in paragraph at lines 1417--1420
+
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 1423--1423
 []\TU/lmr/m/n/12 What Could the “Sea Ice Machine” do to its People? On
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1386--1389
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1424
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1393--1393
+Underfull \hbox (badness 10000) in paragraph at lines 1428--1428
 \TU/lmr/m/n/12 465. DOI:[]10.1002/(SICI)1099-1417(199711/12)12:6<455::AID-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1390--1394
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1429
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1395--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1430--1434
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1403--1403
+Underfull \hbox (badness 10000) in paragraph at lines 1438--1438
 []\TU/lmr/m/n/12 Holocene mean July temperature and winter precipitation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1403--1403
+Underfull \hbox (badness 10000) in paragraph at lines 1438--1438
 \TU/lmr/m/n/12 in western Norvay inferred from palynological and glacio-
  []
 
 
-Underfull \hbox (badness 5924) in paragraph at lines 1403--1403
+Underfull \hbox (badness 5924) in paragraph at lines 1438--1438
 \TU/lmr/m/n/12 logical lake-sediment proxies. \TU/lmr/m/it/12 The Holocene \TU/
 lmr/m/n/12 15(2):177–189.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1400--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1439
+
+ []
+
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 1440--1444
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1445--1449
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1410--1414
-
- []
-
-[117]
-Underfull \hbox (badness 10000) in paragraph at lines 1415--1418
+Underfull \hbox (badness 10000) in paragraph at lines 1450--1454
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1423
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1424--1427
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1463
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1428--1432
+Underfull \hbox (badness 10000) in paragraph at lines 1464--1467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1433--1437
+Underfull \hbox (badness 10000) in paragraph at lines 1468--1472
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1442
+Underfull \hbox (badness 10000) in paragraph at lines 1473--1477
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1478--1482
+
+ []
+
+[119]
 Missing character: There is no ∼ in font [lmroman12-regular]:mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1483--1487
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1451
+Underfull \hbox (badness 10000) in paragraph at lines 1491--1491
 []\TU/lmr/m/n/12 Palaeo-oceanographic development and human adaptive
  []
 
 
-Underfull \hbox (badness 6575) in paragraph at lines 1451--1451
+Underfull \hbox (badness 6575) in paragraph at lines 1491--1491
 \TU/lmr/m/n/12 strategies in the Pleistocene–Holocene transition: A study
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 1451--1451
+Underfull \hbox (badness 3189) in paragraph at lines 1491--1491
 \TU/lmr/m/n/12 from the Norwegian coast. \TU/lmr/m/it/12 The Holocene \TU/lmr/m
 /n/12 24(11):1478–1490.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1452
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1492
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1456
-
- []
-
-[118]
-Underfull \hbox (badness 10000) in paragraph at lines 1457--1461
+Underfull \hbox (badness 10000) in paragraph at lines 1493--1496
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1462--1466
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1501
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1471
+Underfull \hbox (badness 10000) in paragraph at lines 1502--1506
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1472--1476
+Underfull \hbox (badness 10000) in paragraph at lines 1507--1511
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1481
+Underfull \hbox (badness 10000) in paragraph at lines 1512--1516
 
  []
 
 
-Overfull \hbox (28.98134pt too wide) in paragraph at lines 1484--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1521
+
+ []
+
+
+Overfull \hbox (28.98134pt too wide) in paragraph at lines 1524--1524
 []\TU/lmr/m/n/12 OxCal 4.4 manual. https://c14.arch.ox.ac.uk/oxcalhelp/hlp_cont
 ents.html. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1482--1485
+Underfull \hbox (badness 10000) in paragraph at lines 1522--1525
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1486--1490
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1491--1495
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1496--1500
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1501--1505
-
- []
-
-[119]
-Underfull \hbox (badness 10000) in paragraph at lines 1506--1510
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1511--1515
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1516--1520
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1521--1525
-
- []
-
-
-Underfull \hbox (badness 1616) in paragraph at lines 1529--1529
-[]\TU/lmr/m/n/12 Testability and meaning. \TU/lmr/m/it/12 Philosophy of Science
- \TU/lmr/m/n/12 3(4):419–471.
- []
-
-
+[120]
 Underfull \hbox (badness 10000) in paragraph at lines 1526--1530
 
  []
@@ -2734,141 +2683,135 @@ Underfull \hbox (badness 10000) in paragraph at lines 1531--1535
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1536--1539
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1540
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1543
+Underfull \hbox (badness 10000) in paragraph at lines 1541--1545
 
  []
 
 
-Underfull \hbox (badness 6675) in paragraph at lines 1547--1547
+Underfull \hbox (badness 10000) in paragraph at lines 1546--1550
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1551--1555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1556--1560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1561--1565
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1569--1569
+[]\TU/lmr/m/n/12 Radiocarbon dating uncertainty and the reliability of the
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 1569--1569
+\TU/lmr/m/n/12 PEWMA method of time-series analysis for research on long-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1566--1570
+
+ []
+
+[121]
+Underfull \hbox (badness 1616) in paragraph at lines 1574--1574
+[]\TU/lmr/m/n/12 Testability and meaning. \TU/lmr/m/it/12 Philosophy of Science
+ \TU/lmr/m/n/12 3(4):419–471.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1576--1580
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1581--1584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1585--1588
+
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 1592--1592
 []\TU/lmr/m/n/12 Archaeological Demography. \TU/lmr/m/it/12 Human Biology \TU/l
 mr/m/n/12 81(3):275–286.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1548
+Underfull \hbox (badness 10000) in paragraph at lines 1589--1593
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1549--1553
+Underfull \hbox (badness 10000) in paragraph at lines 1594--1598
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1558
-
- []
-
-[120]
-Underfull \hbox (badness 10000) in paragraph at lines 1559--1563
+Underfull \hbox (badness 10000) in paragraph at lines 1599--1603
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1564--1568
+Underfull \hbox (badness 10000) in paragraph at lines 1604--1608
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1569--1573
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1574--1578
+Underfull \hbox (badness 10000) in paragraph at lines 1614--1618
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1583
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1623
 
  []
 
 
-Overfull \hbox (17.268pt too wide) in paragraph at lines 1586--1586
+Underfull \hbox (badness 10000) in paragraph at lines 1624--1628
+
+ []
+
+
+Overfull \hbox (17.268pt too wide) in paragraph at lines 1631--1631
 []\TU/lmr/m/n/12 2015[1972] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1584--1588
+Underfull \hbox (badness 10000) in paragraph at lines 1629--1633
 
  []
 
+[122]
+Underfull \hbox (badness 10000) in paragraph at lines 1634--1637
 
-Underfull \hbox (badness 10000) in paragraph at lines 1589--1592
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1593--1597
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1598--1602
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1603--1607
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
-[]\TU/lmr/m/n/12 Population Size and Cultural Evolution in Nonindus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1611
-\TU/lmr/m/n/12 trial Food-Producing Societies. \TU/lmr/m/it/12 PLOS ONE \TU/lmr
-/m/n/12 8(9):e72628.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1608--1612
-
- []
-
-[121]
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1617
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1618--1622
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1623--1627
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1628--1632
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1633--1637
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1641--1641
-[]\TU/lmr/m/n/12 Modelling Temporal Uncertainty in Archaeological Analysis.
- []
-
-
-Underfull \hbox (badness 4765) in paragraph at lines 1641--1641
-\TU/lmr/m/it/12 Journal of Archaeological Method and Theory \TU/lmr/m/n/12 19(3
-):440–461.
  []
 
 
@@ -2877,89 +2820,100 @@ Underfull \hbox (badness 10000) in paragraph at lines 1638--1642
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1643--1646
+Underfull \hbox (badness 10000) in paragraph at lines 1643--1647
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1647--1651
+Underfull \hbox (badness 10000) in paragraph at lines 1648--1652
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1652--1656
-
- []
-
-[122]
-Underfull \hbox (badness 10000) in paragraph at lines 1657--1661
-
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+[]\TU/lmr/m/n/12 Population Size and Cultural Evolution in Nonindus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1662--1666
-
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1656
+\TU/lmr/m/n/12 trial Food-Producing Societies. \TU/lmr/m/it/12 PLOS ONE \TU/lmr
+/m/n/12 8(9):e72628.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1667--1670
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1657
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1671--1675
+Underfull \hbox (badness 10000) in paragraph at lines 1658--1662
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1676--1680
+Underfull \hbox (badness 10000) in paragraph at lines 1663--1667
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1681--1685
+Underfull \hbox (badness 10000) in paragraph at lines 1668--1672
 
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 1689--1689
-\TU/lmr/m/n/12 on Mesolithic hunter–gatherer large-scale interaction and migra-
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1686--1690
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1691--1695
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1696--1700
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1677
 
  []
 
 [123]
-Underfull \hbox (badness 10000) in paragraph at lines 1701--1705
+Underfull \hbox (badness 10000) in paragraph at lines 1678--1682
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1706--1710
+Underfull \hbox (badness 10000) in paragraph at lines 1686--1686
+[]\TU/lmr/m/n/12 Modelling Temporal Uncertainty in Archaeological Analysis.
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 1686--1686
+\TU/lmr/m/it/12 Journal of Archaeological Method and Theory \TU/lmr/m/n/12 19(3
+):440–461.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1683--1687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1711--1715
+Underfull \hbox (badness 10000) in paragraph at lines 1688--1691
 
  []
 
 
-Overfull \hbox (16.98001pt too wide) in paragraph at lines 1718--1718
-[]\TU/lmr/m/n/12 1954[1914] 
+Underfull \hbox (badness 10000) in paragraph at lines 1692--1696
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1697--1701
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1702--1706
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1707--1711
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1715
+
  []
 
 
@@ -2972,70 +2926,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 1721--1725
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1726--1729
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1730--1734
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1735--1739
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1740--1744
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1745--1749
-
- []
-
 [124]
-Underfull \hbox (badness 10000) in paragraph at lines 1750--1754
+Underfull \hbox (badness 10000) in paragraph at lines 1726--1730
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1755--1759
+Underfull \hbox (badness 1024) in paragraph at lines 1734--1734
+\TU/lmr/m/n/12 on Mesolithic hunter–gatherer large-scale interaction and migra-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1760--1764
+Underfull \hbox (badness 10000) in paragraph at lines 1731--1735
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1765--1769
+Underfull \hbox (badness 10000) in paragraph at lines 1736--1740
 
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 1773--1773
-\TU/lmr/m/n/12 Millennium. \TU/lmr/m/it/12 Journal of Archaeological Research \
-TU/lmr/m/n/12 9(4):287–350.
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1745
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1774
+Underfull \hbox (badness 10000) in paragraph at lines 1746--1750
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1751--1755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1756--1760
+
+ []
+
+
+Overfull \hbox (16.98001pt too wide) in paragraph at lines 1763--1763
+[]\TU/lmr/m/n/12 1954[1914] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1761--1765
+
+ []
+
+[125]
+Underfull \hbox (badness 10000) in paragraph at lines 1766--1770
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1771--1774
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1775--1779
-
- []
-
-
-Underfull \hbox (badness 1242) in paragraph at lines 1780--1784
-[]\TU/lmr/m/n/12 Eymundsson, Carine S. Rosenvinge, Guro Fossum, Lucia Uchermann
 
  []
 
@@ -3049,7 +3002,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1785--1789
 
  []
 
-[125]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1790--1794
 
  []
@@ -3074,10 +3027,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1810--1814
 
  []
 
-
-Underfull \hbox (badness 1859) in paragraph at lines 1818--1818
-[]\TU/lmr/m/n/12 Observation Reconsidered. \TU/lmr/m/it/12 Philosophy of Scienc
-e \TU/lmr/m/n/12 51(1):23–43.
+[126]
+Underfull \hbox (badness 2065) in paragraph at lines 1818--1818
+\TU/lmr/m/n/12 Millennium. \TU/lmr/m/it/12 Journal of Archaeological Research \
+TU/lmr/m/n/12 9(4):287–350.
  []
 
 
@@ -3091,14 +3044,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1820--1824
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1825--1829
+Underfull \hbox (badness 1242) in paragraph at lines 1825--1829
+[]\TU/lmr/m/n/12 Eymundsson, Carine S. Rosenvinge, Guro Fossum, Lucia Uchermann
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1833--1833
-\TU/lmr/m/it/12 nal of Archaeological Method and Theory \TU/lmr/m/n/12 23(1):15
-0–199.
+Underfull \hbox (badness 10000) in paragraph at lines 1825--1829
+
  []
 
 
@@ -3111,7 +3064,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1835--1839
 
  []
 
-[126]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1840--1844
 
  []
@@ -3119,11 +3072,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1840--1844
 
 Underfull \hbox (badness 10000) in paragraph at lines 1845--1849
 
- []
-
-
-Overfull \hbox (17.268pt too wide) in paragraph at lines 1852--1852
-[]\TU/lmr/m/n/12 2008[1953] 
  []
 
 
@@ -3136,10 +3084,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1855--1859
 
  []
 
-
-Underfull \hbox (badness 1571) in paragraph at lines 1863--1863
-\TU/lmr/m/n/12 nology and cultural affinity. \TU/lmr/m/it/12 Acta Archaeologica
- \TU/lmr/m/n/12 78(2):87–110.
+[127]
+Underfull \hbox (badness 1859) in paragraph at lines 1863--1863
+[]\TU/lmr/m/n/12 Observation Reconsidered. \TU/lmr/m/it/12 Philosophy of Scienc
+e \TU/lmr/m/n/12 51(1):23–43.
  []
 
 
@@ -3148,31 +3096,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 1860--1864
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1865--1868
+Underfull \hbox (badness 10000) in paragraph at lines 1865--1869
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1869--1872
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1874
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1873--1876
+Underfull \hbox (badness 10000) in paragraph at lines 1878--1878
+\TU/lmr/m/it/12 nal of Archaeological Method and Theory \TU/lmr/m/n/12 23(1):15
+0–199.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1875--1879
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1877--1880
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1884
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1881--1884
-
- []
-
-[127]
 Underfull \hbox (badness 10000) in paragraph at lines 1885--1889
 
  []
@@ -3180,6 +3129,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1885--1889
 
 Underfull \hbox (badness 10000) in paragraph at lines 1890--1894
 
+ []
+
+
+Overfull \hbox (17.268pt too wide) in paragraph at lines 1897--1897
+[]\TU/lmr/m/n/12 2008[1953] 
  []
 
 
@@ -3192,10 +3146,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1900--1904
 
  []
 
-
-Underfull \hbox (badness 1194) in paragraph at lines 1908--1908
-[]\TU/lmr/m/n/12 Economic Models. \TU/lmr/m/it/12 The Journal of Philosophy \TU
-/lmr/m/n/12 75(11):664–677.
+[128]
+Underfull \hbox (badness 1571) in paragraph at lines 1908--1908
+\TU/lmr/m/n/12 nology and cultural affinity. \TU/lmr/m/it/12 Acta Archaeologica
+ \TU/lmr/m/n/12 78(2):87–110.
  []
 
 
@@ -3204,122 +3158,133 @@ Underfull \hbox (badness 10000) in paragraph at lines 1905--1909
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1910--1914
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1913
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1915--1919
+Underfull \hbox (badness 10000) in paragraph at lines 1914--1917
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1920--1924
+Underfull \hbox (badness 10000) in paragraph at lines 1918--1921
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1925--1929
+Underfull \hbox (badness 10000) in paragraph at lines 1922--1925
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1930--1933
+Underfull \hbox (badness 10000) in paragraph at lines 1926--1929
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1934--1937
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1934
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1938--1941
-
- []
-
-[128]
-Underfull \hbox (badness 10000) in paragraph at lines 1942--1945
+Underfull \hbox (badness 10000) in paragraph at lines 1935--1939
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1949
+Underfull \hbox (badness 10000) in paragraph at lines 1940--1944
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1950--1953
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1949
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1954--1958
-
+Underfull \hbox (badness 1194) in paragraph at lines 1953--1953
+[]\TU/lmr/m/n/12 Economic Models. \TU/lmr/m/it/12 The Journal of Philosophy \TU
+/lmr/m/n/12 75(11):664–677.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1959--1963
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1964--1968
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1969--1973
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1974--1977
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1978--1982
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1983--1987
+Underfull \hbox (badness 10000) in paragraph at lines 1950--1954
 
  []
 
 [129]
-Underfull \hbox (badness 10000) in paragraph at lines 1988--1992
+Underfull \hbox (badness 10000) in paragraph at lines 1955--1959
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1993--1997
+Underfull \hbox (badness 10000) in paragraph at lines 1960--1964
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1998--2002
+Underfull \hbox (badness 10000) in paragraph at lines 1965--1969
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2003--2007
+Underfull \hbox (badness 10000) in paragraph at lines 1970--1974
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2008--2012
+Underfull \hbox (badness 10000) in paragraph at lines 1975--1978
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2013--2017
+Underfull \hbox (badness 10000) in paragraph at lines 1979--1982
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2018--2022
+Underfull \hbox (badness 10000) in paragraph at lines 1983--1986
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1987--1990
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1994
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1995--1998
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1999--2003
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2004--2008
+
+ []
+
+[130]
+Underfull \hbox (badness 10000) in paragraph at lines 2009--2013
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2014--2018
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2019--2022
 
  []
 
@@ -3334,17 +3299,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2028--2032
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2036--2036
-[]\TU/lmr/m/n/12 Hunter–gatherer movement patterns: Causes and con-
- []
-
-
-Underfull \hbox (badness 1132) in paragraph at lines 2036--2036
-\TU/lmr/m/n/12 straints. \TU/lmr/m/it/12 Journal of Anthropological Archaeology
- \TU/lmr/m/n/12 28(2):222–233.
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2033--2037
 
  []
@@ -3352,18 +3306,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2033--2037
 
 Underfull \hbox (badness 10000) in paragraph at lines 2038--2042
 
- []
-
-[130]
-Underfull \hbox (badness 1102) in paragraph at lines 2046--2046
-[]\TU/lmr/m/n/12 Periodic catastrophes over human evolutionary history are nec-
-
- []
-
-
-Underfull \hbox (badness 2922) in paragraph at lines 2046--2046
-\TU/lmr/m/n/12 essary to explain the forager population paradox. \TU/lmr/m/it/1
-2 Proceed-
  []
 
 
@@ -3386,484 +3328,495 @@ Underfull \hbox (badness 10000) in paragraph at lines 2058--2062
 
  []
 
-
+[131]
 Underfull \hbox (badness 10000) in paragraph at lines 2063--2067
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2068--2071
+Underfull \hbox (badness 10000) in paragraph at lines 2068--2072
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2072--2076
+Underfull \hbox (badness 10000) in paragraph at lines 2073--2077
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2077--2081
-
- []
-
-[131]
-Underfull \hbox (badness 10000) in paragraph at lines 2082--2086
-
+Underfull \hbox (badness 10000) in paragraph at lines 2081--2081
+[]\TU/lmr/m/n/12 Hunter–gatherer movement patterns: Causes and con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2087--2091
-
+Underfull \hbox (badness 1132) in paragraph at lines 2081--2081
+\TU/lmr/m/n/12 straints. \TU/lmr/m/it/12 Journal of Anthropological Archaeology
+ \TU/lmr/m/n/12 28(2):222–233.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2092--2096
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2082
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2097--2101
+Underfull \hbox (badness 10000) in paragraph at lines 2083--2087
 
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 2105--2105
+Underfull \hbox (badness 1102) in paragraph at lines 2091--2091
+[]\TU/lmr/m/n/12 Periodic catastrophes over human evolutionary history are nec-
+
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 2091--2091
+\TU/lmr/m/n/12 essary to explain the forager population paradox. \TU/lmr/m/it/1
+2 Proceed-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2088--2092
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2093--2097
+
+ []
+
+[132]
+Underfull \hbox (badness 10000) in paragraph at lines 2098--2102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2103--2107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2113--2116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2117--2121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2127--2131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2132--2136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2137--2141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2142--2146
+
+ []
+
+[133]
+Underfull \hbox (badness 1509) in paragraph at lines 2150--2150
 []\TU/lmr/m/n/12 Pattern, Process, and the Scale Problem in Geographical Re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2102--2106
+Underfull \hbox (badness 10000) in paragraph at lines 2147--2151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2107--2111
+Underfull \hbox (badness 10000) in paragraph at lines 2152--2156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2112--2115
+Underfull \hbox (badness 10000) in paragraph at lines 2157--2160
 
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 2119--2119
+Underfull \hbox (badness 2181) in paragraph at lines 2164--2164
 []\TU/lmr/m/n/12 Beyond Baron and Kenny: Statistical Mediation Analysis in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2116--2120
+Underfull \hbox (badness 10000) in paragraph at lines 2161--2165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2124--2124
+Underfull \hbox (badness 10000) in paragraph at lines 2169--2169
 []\TU/lmr/m/n/12 Fuck Nuance. \TU/lmr/m/it/12 Sociological Theory \TU/lmr/m/n/1
 2 35(2):118–127.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2125
+Underfull \hbox (badness 10000) in paragraph at lines 2166--2170
 
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 2129--2129
+Underfull \hbox (badness 1642) in paragraph at lines 2174--2174
 []\TU/lmr/m/n/12 Setting Theoretical Egos Aside: Issues and Theory in North
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2129--2129
+Underfull \hbox (badness 10000) in paragraph at lines 2174--2174
 \TU/lmr/m/n/12 American Archaeology. \TU/lmr/m/it/12 American Antiquity \TU/lmr
 /m/n/12 68(2):213–243.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2126--2130
-
- []
-
-[132]
-Underfull \hbox (badness 10000) in paragraph at lines 2131--2135
+Underfull \hbox (badness 10000) in paragraph at lines 2171--2175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2136--2140
+Underfull \hbox (badness 10000) in paragraph at lines 2176--2180
 
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 2144--2144
+Underfull \hbox (badness 10000) in paragraph at lines 2181--2185
+
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 2189--2189
 \TU/lmr/m/n/12 cesses Can Produce Maladaptive Losses—The Tasmanian Case.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2141--2145
+Underfull \hbox (badness 10000) in paragraph at lines 2186--2190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2146--2150
+Underfull \hbox (badness 10000) in paragraph at lines 2191--2195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2151--2155
+Underfull \hbox (badness 10000) in paragraph at lines 2196--2200
+
+ []
+
+[134]
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2205
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2156--2160
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2163--2163
+Underfull \hbox (badness 10000) in paragraph at lines 2208--2208
 []\TU/lmr/m/n/12 Archaeology in 1984. \TU/lmr/m/it/12 Antiquity \TU/lmr/m/n/12 
 58(222):25–32.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2161--2164
+Underfull \hbox (badness 10000) in paragraph at lines 2206--2209
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2165--2168
+Underfull \hbox (badness 10000) in paragraph at lines 2210--2213
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2169--2172
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2173--2176
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2221
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2177--2181
-
- []
-
-[133]
-Underfull \hbox (badness 10000) in paragraph at lines 2182--2186
+Underfull \hbox (badness 10000) in paragraph at lines 2222--2226
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2187--2191
+Underfull \hbox (badness 10000) in paragraph at lines 2227--2231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2192--2196
+Underfull \hbox (badness 10000) in paragraph at lines 2232--2236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2197--2201
+Underfull \hbox (badness 10000) in paragraph at lines 2237--2241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2202--2206
+Underfull \hbox (badness 10000) in paragraph at lines 2242--2246
+
+ []
+
+[135]
+Underfull \hbox (badness 10000) in paragraph at lines 2247--2251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2207--2210
+Underfull \hbox (badness 10000) in paragraph at lines 2252--2255
 
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 2213--2213
+Underfull \hbox (badness 1769) in paragraph at lines 2258--2258
 []\TU/lmr/m/n/12 Is Big Digital Data Different? Towards a New Archaeologi-
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 2213--2213
+Underfull \hbox (badness 1675) in paragraph at lines 2258--2258
 \TU/lmr/m/n/12 cal Paradigm. \TU/lmr/m/it/12 Journal of Field Archaeology \TU/l
 mr/m/n/12 45(sup1):S8–S17.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2211--2214
+Underfull \hbox (badness 10000) in paragraph at lines 2256--2259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2215--2219
+Underfull \hbox (badness 10000) in paragraph at lines 2260--2264
 
  []
 
 
-Underfull \hbox (badness 5460) in paragraph at lines 2223--2223
+Underfull \hbox (badness 5460) in paragraph at lines 2268--2268
 []\TU/lmr/m/n/12 Pearl before economists: the book of why and empirical
  []
 
 
-Underfull \hbox (badness 2922) in paragraph at lines 2223--2223
+Underfull \hbox (badness 2922) in paragraph at lines 2268--2268
 \TU/lmr/m/n/12 economics. \TU/lmr/m/it/12 Journal of Economic Methodology \TU/l
 mr/m/n/12 29(4):326–334.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2220--2224
-
- []
-
-[134]
-Underfull \hbox (badness 10000) in paragraph at lines 2225--2229
+Underfull \hbox (badness 10000) in paragraph at lines 2265--2269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2230--2234
+Underfull \hbox (badness 10000) in paragraph at lines 2270--2274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2235--2239
+Underfull \hbox (badness 10000) in paragraph at lines 2275--2279
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2240--2244
+Underfull \hbox (badness 10000) in paragraph at lines 2280--2284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2245--2248
+Underfull \hbox (badness 10000) in paragraph at lines 2285--2289
+
+ []
+
+[136]
+Underfull \hbox (badness 10000) in paragraph at lines 2290--2293
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2249--2253
+Underfull \hbox (badness 10000) in paragraph at lines 2294--2298
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2254--2258
+Underfull \hbox (badness 10000) in paragraph at lines 2299--2303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2259--2262
+Underfull \hbox (badness 10000) in paragraph at lines 2304--2307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2263--2267
+Underfull \hbox (badness 10000) in paragraph at lines 2308--2312
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2268--2272
-
- []
-
-[135]
-Underfull \hbox (badness 10000) in paragraph at lines 2273--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2313--2317
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2278--2282
+Underfull \hbox (badness 10000) in paragraph at lines 2318--2322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
+Underfull \hbox (badness 10000) in paragraph at lines 2323--2327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2331--2331
 []\TU/lmr/m/n/12 On the nature of theoretical archaeology and archaeo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
+Underfull \hbox (badness 10000) in paragraph at lines 2331--2331
 \TU/lmr/m/n/12 logical theory. \TU/lmr/m/it/12 Archaeological Dialogues \TU/lmr
 /m/n/12 13(2):117–132.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2283--2287
+Underfull \hbox (badness 10000) in paragraph at lines 2328--2332
+
+ []
+
+[137]
+Underfull \hbox (badness 10000) in paragraph at lines 2333--2337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2288--2292
+Underfull \hbox (badness 10000) in paragraph at lines 2338--2341
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2293--2296
+Underfull \hbox (badness 10000) in paragraph at lines 2342--2346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2297--2301
-
- []
-
-
-Underfull \hbox (badness 5607) in paragraph at lines 2304--2304
+Underfull \hbox (badness 5607) in paragraph at lines 2349--2349
 []\TU/lmr/m/n/12 Scalar Effects in Ground Slate Technology and the Adap-
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 2304--2304
+Underfull \hbox (badness 2426) in paragraph at lines 2349--2349
 \TU/lmr/m/n/12 tive Consequences for Circumpolar Maritime Hunter-Gatherers.
  []
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 2304--2304
+Underfull \hbox (badness 1931) in paragraph at lines 2349--2349
 \TU/lmr/m/it/12 Journal of Archaeological Method and Theory \TU/lmr/m/n/12 28(3
 33):333–385.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2305
+Underfull \hbox (badness 10000) in paragraph at lines 2347--2350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2306--2310
-
- []
-
-[136]
-Underfull \hbox (badness 10000) in paragraph at lines 2311--2315
+Underfull \hbox (badness 10000) in paragraph at lines 2351--2355
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2316--2320
+Underfull \hbox (badness 10000) in paragraph at lines 2356--2360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2321--2325
+Underfull \hbox (badness 10000) in paragraph at lines 2361--2365
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2326--2329
+Underfull \hbox (badness 10000) in paragraph at lines 2366--2370
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2330--2334
+Underfull \hbox (badness 10000) in paragraph at lines 2371--2374
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2335--2339
+Underfull \hbox (badness 10000) in paragraph at lines 2375--2379
+
+ []
+
+[138]
+Underfull \hbox (badness 10000) in paragraph at lines 2380--2384
 
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 2343--2343
+Underfull \hbox (badness 1694) in paragraph at lines 2388--2388
 []\TU/lmr/m/n/12 Genes versus agents. A discussion of the widening theoreti-
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 2343--2343
+Underfull \hbox (badness 2005) in paragraph at lines 2388--2388
 \TU/lmr/m/n/12 cal gap in archaeology. \TU/lmr/m/it/12 Archaeological Dialogues
  \TU/lmr/m/n/12 11(2):77–99.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2340--2344
+Underfull \hbox (badness 10000) in paragraph at lines 2385--2389
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2345--2349
+Underfull \hbox (badness 10000) in paragraph at lines 2390--2394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2350--2354
+Underfull \hbox (badness 10000) in paragraph at lines 2395--2399
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2358--2358
+Underfull \hbox (badness 10000) in paragraph at lines 2403--2403
 []\TU/lmr/m/n/12 Open archaeology. \TU/lmr/m/it/12 World Archaeology \TU/lmr/m/
 n/12 44(4):471–478.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2355--2359
-
- []
-
-[137]
-Underfull \hbox (badness 10000) in paragraph at lines 2360--2363
+Underfull \hbox (badness 10000) in paragraph at lines 2400--2404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2364--2367
+Underfull \hbox (badness 10000) in paragraph at lines 2405--2408
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2368--2372
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2373--2377
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2378--2382
-
- []
-
-
-Underfull \hbox (badness 6380) in paragraph at lines 2386--2386
-[]\TU/lmr/m/n/12 New Views on Hunters and Gatherers Emerge. \TU/lmr/m/it/12 Sci
-ence
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2383--2387
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2391--2391
-[]\TU/lmr/m/n/12 Causation. \TU/lmr/m/it/12 The Journal of Philosophy \TU/lmr/m
-/n/12 70(17):556–557.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2388--2392
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2393--2397
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2398--2402
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2403--2407
-
- []
-
-[138]
-Underfull \hbox (badness 10000) in paragraph at lines 2408--2412
+Underfull \hbox (badness 10000) in paragraph at lines 2409--2412
 
  []
 
@@ -3873,95 +3826,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 2413--2417
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2418--2421
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2422--2426
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2427--2431
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2432--2435
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2436--2440
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2441--2445
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2446--2450
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2451--2455
-
- []
-
-
-Underfull \hbox (badness 3803) in paragraph at lines 2459--2459
-[]\TU/lmr/m/n/12 First encounters in the north: cultural diversity and gene
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2456--2460
+Underfull \hbox (badness 10000) in paragraph at lines 2418--2422
 
  []
 
 [139]
-Underfull \hbox (badness 10000) in paragraph at lines 2464--2464
-[]\TU/lmr/m/n/12 Human responses to early Holocene climate variability in
- []
-
-
-Underfull \hbox (badness 3407) in paragraph at lines 2464--2464
-\TU/lmr/m/n/12 eastern Fennoscandia. \TU/lmr/m/it/12 Quaternary International \
-TU/lmr/m/n/12 465:287–297.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2461--2465
+Underfull \hbox (badness 10000) in paragraph at lines 2423--2427
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2466--2470
+Underfull \hbox (badness 6380) in paragraph at lines 2431--2431
+[]\TU/lmr/m/n/12 New Views on Hunters and Gatherers Emerge. \TU/lmr/m/it/12 Sci
+ence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2428--2432
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2471--2475
+Underfull \hbox (badness 10000) in paragraph at lines 2436--2436
+[]\TU/lmr/m/n/12 Causation. \TU/lmr/m/it/12 The Journal of Philosophy \TU/lmr/m
+/n/12 70(17):556–557.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2433--2437
 
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 2479--2479
-[]\TU/lmr/m/n/12 The origins and significance of coastal resource use in Africa
+Underfull \hbox (badness 10000) in paragraph at lines 2438--2442
 
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 2479--2479
-\TU/lmr/m/n/12 and Western Eurasia. \TU/lmr/m/it/12 Journal of Human Evolution 
-\TU/lmr/m/n/12 77:17–40.
+Underfull \hbox (badness 10000) in paragraph at lines 2443--2447
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2476--2480
+Underfull \hbox (badness 10000) in paragraph at lines 2448--2452
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2453--2457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2458--2462
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2463--2466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2467--2471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2472--2476
+
+ []
+
+[140]
+Underfull \hbox (badness 10000) in paragraph at lines 2477--2480
 
  []
 
@@ -3971,372 +3908,384 @@ Underfull \hbox (badness 10000) in paragraph at lines 2481--2485
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2486--2489
+Underfull \hbox (badness 10000) in paragraph at lines 2486--2490
 
  []
 
 
-Underfull \hbox (badness 2409) in paragraph at lines 2492--2492
+Underfull \hbox (badness 10000) in paragraph at lines 2491--2495
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2496--2500
+
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 2504--2504
+[]\TU/lmr/m/n/12 First encounters in the north: cultural diversity and gene
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2505
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2509--2509
+[]\TU/lmr/m/n/12 Human responses to early Holocene climate variability in
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 2509--2509
+\TU/lmr/m/n/12 eastern Fennoscandia. \TU/lmr/m/it/12 Quaternary International \
+TU/lmr/m/n/12 465:287–297.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2506--2510
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2511--2515
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2516--2520
+
+ []
+
+[141]
+Underfull \hbox (badness 1527) in paragraph at lines 2524--2524
+[]\TU/lmr/m/n/12 The origins and significance of coastal resource use in Africa
+
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 2524--2524
+\TU/lmr/m/n/12 and Western Eurasia. \TU/lmr/m/it/12 Journal of Human Evolution 
+\TU/lmr/m/n/12 77:17–40.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2521--2525
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2526--2530
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2534
+
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 2537--2537
 []\TU/lmr/m/n/12 Open Access to Publications to Expand Participation in Ar-
  []
 
 
-Underfull \hbox (badness 7451) in paragraph at lines 2492--2492
+Underfull \hbox (badness 7451) in paragraph at lines 2537--2537
 \TU/lmr/m/n/12 chaeology. \TU/lmr/m/it/12 Norwegian Archaeological Review \TU/l
 mr/m/n/12 53(2):163–169.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2490--2493
+Underfull \hbox (badness 10000) in paragraph at lines 2535--2538
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2497--2497
+Underfull \hbox (badness 10000) in paragraph at lines 2542--2542
 []\TU/lmr/m/n/12 Packaging Data Analytical Work Reproducibly Using R
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2497--2497
+Underfull \hbox (badness 10000) in paragraph at lines 2542--2542
 \TU/lmr/m/n/12 (and Friends). \TU/lmr/m/it/12 The American Statistician \TU/lmr
 /m/n/12 72(1):80–88.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2494--2498
+Underfull \hbox (badness 10000) in paragraph at lines 2539--2543
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2499--2503
-
- []
-
-[140]
-Underfull \hbox (badness 10000) in paragraph at lines 2504--2508
+Underfull \hbox (badness 10000) in paragraph at lines 2544--2548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2509--2513
+Underfull \hbox (badness 10000) in paragraph at lines 2549--2553
+
+ []
+
+[142]
+Underfull \hbox (badness 10000) in paragraph at lines 2554--2558
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2514--2518
+Underfull \hbox (badness 10000) in paragraph at lines 2559--2563
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2519--2523
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2568
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2524--2528
+Underfull \hbox (badness 10000) in paragraph at lines 2569--2573
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2529--2533
+Underfull \hbox (badness 10000) in paragraph at lines 2574--2578
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2534--2537
-
- []
-
-[141]
-Underfull \hbox (badness 10000) in paragraph at lines 2538--2541
+Underfull \hbox (badness 10000) in paragraph at lines 2579--2582
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2542--2546
+Underfull \hbox (badness 10000) in paragraph at lines 2583--2586
 
  []
 
 
-Overfull \hbox (17.268pt too wide) in paragraph at lines 2549--2549
+Underfull \hbox (badness 10000) in paragraph at lines 2587--2591
+
+ []
+
+
+Overfull \hbox (17.268pt too wide) in paragraph at lines 2594--2594
 []\TU/lmr/m/n/12 2018[1859] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2547--2551
+Underfull \hbox (badness 10000) in paragraph at lines 2592--2596
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2552--2556
+Underfull \hbox (badness 10000) in paragraph at lines 2597--2601
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2557--2561
+Underfull \hbox (badness 10000) in paragraph at lines 2602--2606
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+[143]
+Underfull \hbox (badness 10000) in paragraph at lines 2609--2609
 []\TU/lmr/m/n/12 Searching for eustasy in deglacial sea-level histo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2564--2564
+Underfull \hbox (badness 10000) in paragraph at lines 2609--2609
 \TU/lmr/m/n/12 ries. \TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/m/n/12 
 27(25):2292–2302.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2562--2565
+Underfull \hbox (badness 10000) in paragraph at lines 2607--2610
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2566--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2611--2615
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2571--2575
+Underfull \hbox (badness 10000) in paragraph at lines 2616--2620
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2576--2579
+Underfull \hbox (badness 10000) in paragraph at lines 2621--2624
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2580--2584
+Underfull \hbox (badness 10000) in paragraph at lines 2625--2629
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2585--2588
+Underfull \hbox (badness 10000) in paragraph at lines 2630--2633
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2589--2592
+Underfull \hbox (badness 10000) in paragraph at lines 2634--2637
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2593--2597
+Underfull \hbox (badness 10000) in paragraph at lines 2638--2642
 
  []
 
-[142]
-Underfull \hbox (badness 3078) in paragraph at lines 2601--2601
+
+Underfull \hbox (badness 3078) in paragraph at lines 2646--2646
 \TU/lmr/m/n/12 bility. \TU/lmr/m/it/12 Journal of Anthropological Archaeology \
 TU/lmr/m/n/12 28(4):382–396.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2598--2602
+Underfull \hbox (badness 10000) in paragraph at lines 2643--2647
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2606--2606
+Underfull \hbox (badness 10000) in paragraph at lines 2651--2651
 []\TU/lmr/m/n/12 DIY and digital archaeology: what are you do-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2606--2606
+Underfull \hbox (badness 10000) in paragraph at lines 2651--2651
 \TU/lmr/m/n/12 ing to participate? \TU/lmr/m/it/12 World Archaeology \TU/lmr/m/
 n/12 44(4):521–537.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2603--2607
+Underfull \hbox (badness 10000) in paragraph at lines 2648--2652
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2608--2612
+Underfull \hbox (badness 10000) in paragraph at lines 2653--2657
+
+ []
+
+[144]
+Underfull \hbox (badness 10000) in paragraph at lines 2658--2662
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2613--2617
+Underfull \hbox (badness 10000) in paragraph at lines 2663--2666
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2618--2621
+Underfull \hbox (badness 10000) in paragraph at lines 2667--2671
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2622--2626
+Underfull \hbox (badness 10000) in paragraph at lines 2672--2676
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2627--2631
+Underfull \hbox (badness 10000) in paragraph at lines 2677--2681
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2632--2636
-
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 2640--2640
+Underfull \hbox (badness 2111) in paragraph at lines 2685--2685
 []\TU/lmr/m/n/12 Latest Pleistocene and Holocene alpine glacier fluctuations in
 
  []
 
 
-Underfull \hbox (badness 5189) in paragraph at lines 2640--2640
+Underfull \hbox (badness 5189) in paragraph at lines 2685--2685
 \TU/lmr/m/n/12 Scandinavia. \TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/
 m/n/12 28(21):2119–2136.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2637--2641
+Underfull \hbox (badness 10000) in paragraph at lines 2682--2686
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2642--2646
-
- []
-
-[143]
-Underfull \hbox (badness 10000) in paragraph at lines 2647--2651
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2691
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2652--2656
+Underfull \hbox (badness 10000) in paragraph at lines 2692--2696
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2657--2661
+Underfull \hbox (badness 10000) in paragraph at lines 2697--2701
+
+ []
+
+[145]
+Underfull \hbox (badness 10000) in paragraph at lines 2702--2706
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2662--2665
+Underfull \hbox (badness 10000) in paragraph at lines 2707--2710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2666--2670
+Underfull \hbox (badness 10000) in paragraph at lines 2711--2715
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2671--2675
+Underfull \hbox (badness 10000) in paragraph at lines 2716--2720
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2676--2680
+Underfull \hbox (badness 10000) in paragraph at lines 2721--2725
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2681--2685
+Underfull \hbox (badness 10000) in paragraph at lines 2726--2730
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2689
-
- []
-
-[144]
-Underfull \hbox (badness 10000) in paragraph at lines 2690--2694
+Underfull \hbox (badness 10000) in paragraph at lines 2731--2734
 
  []
 
 
-Underfull \hbox (badness 4156) in paragraph at lines 2698--2698
+Underfull \hbox (badness 10000) in paragraph at lines 2735--2739
+
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 2743--2743
 []\TU/lmr/m/n/12 Lokaliseringsanalyse av tidligmesolittiske pionerboplasser. In
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2695--2699
+Underfull \hbox (badness 10000) in paragraph at lines 2740--2744
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2700--2703
+Underfull \hbox (badness 10000) in paragraph at lines 2745--2748
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2704--2708
+Underfull \hbox (badness 10000) in paragraph at lines 2749--2753
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2709--2713
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2714--2718
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2719--2722
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2723--2727
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2728--2732
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2733--2737
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2738--2741
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2742--2745
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2746--2749
-
- []
-
-[145]
-Underfull \hbox (badness 10000) in paragraph at lines 2750--2753
-
- []
-
-
-Underfull \hbox (badness 4792) in paragraph at lines 2757--2757
-[]\TU/lmr/m/n/12 Genesis and taphonomy of the archaeological layers of Pe-
- []
-
-
-Underfull \hbox (badness 4229) in paragraph at lines 2757--2757
-\TU/lmr/m/n/12 dra Furada rock-shelter, Brazil. \TU/lmr/m/it/12 Quaternaire \TU
-/lmr/m/n/12 29(3):255–269.
  []
 
 
@@ -4344,476 +4293,481 @@ Underfull \hbox (badness 10000) in paragraph at lines 2754--2758
 
  []
 
-
+[146]
 Underfull \hbox (badness 10000) in paragraph at lines 2759--2763
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2764--2768
+Underfull \hbox (badness 10000) in paragraph at lines 2764--2767
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2769--2773
+Underfull \hbox (badness 10000) in paragraph at lines 2768--2772
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2774--2778
+Underfull \hbox (badness 10000) in paragraph at lines 2773--2777
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2779--2783
+Underfull \hbox (badness 10000) in paragraph at lines 2778--2782
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2784--2788
+Underfull \hbox (badness 10000) in paragraph at lines 2783--2786
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2789--2792
+Underfull \hbox (badness 10000) in paragraph at lines 2787--2790
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2793--2797
-
- []
-
-[146]
-Underfull \hbox (badness 10000) in paragraph at lines 2798--2802
+Underfull \hbox (badness 10000) in paragraph at lines 2791--2794
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2803--2807
+Underfull \hbox (badness 10000) in paragraph at lines 2795--2798
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2808--2812
+Underfull \hbox (badness 10000) in paragraph at lines 2799--2803
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2813--2817
+Underfull \hbox (badness 4792) in paragraph at lines 2807--2807
+[]\TU/lmr/m/n/12 Genesis and taphonomy of the archaeological layers of Pe-
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 2807--2807
+\TU/lmr/m/n/12 dra Furada rock-shelter, Brazil. \TU/lmr/m/it/12 Quaternaire \TU
+/lmr/m/n/12 29(3):255–269.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2804--2808
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2821--2821
+Underfull \hbox (badness 10000) in paragraph at lines 2809--2813
+
+ []
+
+[147]
+Underfull \hbox (badness 10000) in paragraph at lines 2814--2818
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2819--2823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2824--2828
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2829--2833
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2834--2838
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2839--2842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2843--2847
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2848--2852
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2853--2857
+
+ []
+
+[148]
+Underfull \hbox (badness 10000) in paragraph at lines 2858--2862
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2863--2867
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2871--2871
 []\TU/lmr/m/n/12 Patchiness and Prosociality: An Agent-Based Model of
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 2821--2821
+Underfull \hbox (badness 1953) in paragraph at lines 2871--2871
 \TU/lmr/m/n/12 Plio/Pleistocene Hominid Food Sharing. In \TU/lmr/m/it/12 Multi-
 Agent and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2818--2822
+Underfull \hbox (badness 10000) in paragraph at lines 2868--2872
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2823--2826
+Underfull \hbox (badness 10000) in paragraph at lines 2873--2876
 
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 2830--2830
+Underfull \hbox (badness 7722) in paragraph at lines 2880--2880
 []\TU/lmr/m/n/12 Modeling Effects of Local Extinctions on Culture Change
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 2830--2830
+Underfull \hbox (badness 2717) in paragraph at lines 2880--2880
 \TU/lmr/m/n/12 and Diversity in the Paleolithic. \TU/lmr/m/it/12 PLOS ONE \TU/l
 mr/m/n/12 5(12):e15582.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2827--2831
+Underfull \hbox (badness 10000) in paragraph at lines 2877--2881
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2832--2836
+Underfull \hbox (badness 10000) in paragraph at lines 2882--2886
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2837--2840
-
- []
-
-[147]
-Underfull \hbox (badness 10000) in paragraph at lines 2841--2845
+Underfull \hbox (badness 10000) in paragraph at lines 2887--2890
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2846--2850
+Underfull \hbox (badness 10000) in paragraph at lines 2891--2895
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2851--2854
+Underfull \hbox (badness 10000) in paragraph at lines 2896--2900
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2855--2859
+Underfull \hbox (badness 10000) in paragraph at lines 2901--2904
+
+ []
+
+[149]
+Underfull \hbox (badness 10000) in paragraph at lines 2905--2909
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2860--2864
+Underfull \hbox (badness 10000) in paragraph at lines 2910--2914
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2865--2869
+Underfull \hbox (badness 10000) in paragraph at lines 2915--2919
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2870--2874
+Underfull \hbox (badness 10000) in paragraph at lines 2920--2924
 
  []
 
 
-Underfull \hbox (badness 2680) in paragraph at lines 2878--2878
+Underfull \hbox (badness 2680) in paragraph at lines 2928--2928
 []\TU/lmr/m/n/12 Middle-Range Theory in Archaeology: A Critical Review of
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 2878--2878
+Underfull \hbox (badness 2452) in paragraph at lines 2928--2928
 \TU/lmr/m/n/12 Origins and Applications. \TU/lmr/m/it/12 American Antiquity \TU
 /lmr/m/n/12 49(2):255–268.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2875--2879
+Underfull \hbox (badness 10000) in paragraph at lines 2925--2929
 
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 2883--2883
+Underfull \hbox (badness 1975) in paragraph at lines 2933--2933
 []\TU/lmr/m/n/12 A stratigraphic framework for abrupt climatic changes during
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 2883--2883
+Underfull \hbox (badness 3118) in paragraph at lines 2933--2933
 \TU/lmr/m/n/12 the Last Glacial period based on three synchronized Green-
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 2883--2883
+Underfull \hbox (badness 1688) in paragraph at lines 2933--2933
 \TU/lmr/m/n/12 land ice-core records: refining and extending the INTIMATE
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 2883--2883
+Underfull \hbox (badness 5147) in paragraph at lines 2933--2933
 \TU/lmr/m/n/12 event stratigraphy. \TU/lmr/m/it/12 Quaternary Science Reviews \
 TU/lmr/m/n/12 106:14–28.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2880--2884
-
- []
-
-[148]
-Underfull \hbox (badness 10000) in paragraph at lines 2885--2889
+Underfull \hbox (badness 10000) in paragraph at lines 2930--2934
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2890--2894
+Underfull \hbox (badness 10000) in paragraph at lines 2935--2939
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2895--2899
+Underfull \hbox (badness 10000) in paragraph at lines 2940--2944
+
+ []
+
+[150]
+Underfull \hbox (badness 10000) in paragraph at lines 2945--2949
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2900--2904
+Underfull \hbox (badness 10000) in paragraph at lines 2950--2954
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2905--2908
+Underfull \hbox (badness 10000) in paragraph at lines 2955--2958
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2909--2913
+Underfull \hbox (badness 10000) in paragraph at lines 2959--2963
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2914--2918
+Underfull \hbox (badness 10000) in paragraph at lines 2964--2968
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2919--2923
-
- []
-
-[149]
-Underfull \hbox (badness 10000) in paragraph at lines 2924--2928
+Underfull \hbox (badness 10000) in paragraph at lines 2969--2973
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2929--2933
+Underfull \hbox (badness 10000) in paragraph at lines 2974--2978
 
  []
 
 
-Underfull \hbox (badness 3989) in paragraph at lines 2937--2937
+Underfull \hbox (badness 10000) in paragraph at lines 2979--2983
+
+ []
+
+
+Underfull \hbox (badness 3989) in paragraph at lines 2987--2987
 []\TU/lmr/m/n/12 House of cards: cultural taxonomy and the study of the
  []
 
 
-Underfull \hbox (badness 7379) in paragraph at lines 2937--2937
+Underfull \hbox (badness 7379) in paragraph at lines 2987--2987
 \TU/lmr/m/n/12 European Upper Palaeolithic. \TU/lmr/m/it/12 Antiquity \TU/lmr/m
 /n/12 93(371):1350–1358.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2934--2938
+Underfull \hbox (badness 10000) in paragraph at lines 2984--2988
+
+ []
+
+[151]
+Underfull \hbox (badness 10000) in paragraph at lines 2989--2993
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2939--2943
+Underfull \hbox (badness 10000) in paragraph at lines 2994--2998
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2944--2948
-
- []
-
-
-Underfull \hbox (badness 2261) in paragraph at lines 2951--2951
+Underfull \hbox (badness 2261) in paragraph at lines 3001--3001
 []\TU/lmr/m/n/12 Success and failure during the Lateglacial pioneer human re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2949--2952
+Underfull \hbox (badness 10000) in paragraph at lines 2999--3002
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2953--2957
+Underfull \hbox (badness 10000) in paragraph at lines 3003--3007
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2958--2962
+Underfull \hbox (badness 10000) in paragraph at lines 3008--3012
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2963--2967
+Underfull \hbox (badness 10000) in paragraph at lines 3013--3017
 
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 2971--2971
+Underfull \hbox (badness 3058) in paragraph at lines 3021--3021
 \TU/lmr/m/n/12 tlement patterns in Mesolithic south-eastern Norway. \TU/lmr/m/i
 t/12 Jour-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2971--2971
+Underfull \hbox (badness 10000) in paragraph at lines 3021--3021
 \TU/lmr/m/it/12 nal of Computer Applications in Archaeology \TU/lmr/m/n/12 3(1)
 :288–307.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2968--2972
-
- []
-
-[150]
-Underfull \hbox (badness 10000) in paragraph at lines 2973--2976
+Underfull \hbox (badness 10000) in paragraph at lines 3018--3022
 
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 2979--2979
+Underfull \hbox (badness 10000) in paragraph at lines 3023--3026
+
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 3029--3029
 []\TU/lmr/m/n/12 A simulation-based assessment of the relation between Stone
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 2979--2979
+Underfull \hbox (badness 3019) in paragraph at lines 3029--3029
 \TU/lmr/m/n/12 Age sites and relative sea-level change along the Norwegian
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 2979--2979
+Underfull \hbox (badness 7099) in paragraph at lines 3029--3029
 \TU/lmr/m/n/12 Skagerrak coast. \TU/lmr/m/it/12 Quaternary Science Reviews \TU/
 lmr/m/n/12 299:107880.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2977--2980
+Underfull \hbox (badness 10000) in paragraph at lines 3027--3030
 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 2983--2983
+Underfull \hbox (badness 2119) in paragraph at lines 3033--3033
 []\TU/lmr/m/n/12 shoredate: An R package for shoreline dating coastal Stone
  []
 
 
-Underfull \hbox (badness 6284) in paragraph at lines 2983--2983
+Underfull \hbox (badness 6284) in paragraph at lines 3033--3033
 \TU/lmr/m/n/12 Age sites. \TU/lmr/m/it/12 Journal of Open Source Software \TU/l
 mr/m/n/12 8(85):5337.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2981--2984
+Underfull \hbox (badness 10000) in paragraph at lines 3031--3034
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2985--2989
+Underfull \hbox (badness 10000) in paragraph at lines 3035--3039
+
+ []
+
+[152]
+Underfull \hbox (badness 10000) in paragraph at lines 3040--3044
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2990--2994
-
- []
-
-
-Underfull \hbox (badness 2913) in paragraph at lines 2998--2998
+Underfull \hbox (badness 2913) in paragraph at lines 3048--3048
 []\TU/lmr/m/n/12 Thinking Clearly About Correlations and Causation: Graph-
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 2998--2998
+Underfull \hbox (badness 4967) in paragraph at lines 3048--3048
 \TU/lmr/m/n/12 ical Causal Models for Observational Data. \TU/lmr/m/it/12 Advan
 ces in
  []
 
 
-Underfull \hbox (badness 7814) in paragraph at lines 2998--2998
+Underfull \hbox (badness 7814) in paragraph at lines 3048--3048
 \TU/lmr/m/it/12 Methods and Practices in Psychological Science \TU/lmr/m/n/12 1
 (1):27–42.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2995--2999
+Underfull \hbox (badness 10000) in paragraph at lines 3045--3049
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3000--3004
+Underfull \hbox (badness 10000) in paragraph at lines 3050--3054
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3005--3009
+Underfull \hbox (badness 10000) in paragraph at lines 3055--3059
 
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 3013--3013
+Underfull \hbox (badness 1215) in paragraph at lines 3063--3063
 \TU/lmr/m/n/12 ern Norway. \TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/m
 /n/12 30(19-20):2398–2421.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3010--3014
+Underfull \hbox (badness 10000) in paragraph at lines 3060--3064
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3015--3019
-
- []
-
-[151]
-Underfull \hbox (badness 10000) in paragraph at lines 3020--3024
+Underfull \hbox (badness 10000) in paragraph at lines 3065--3069
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3025--3028
+Underfull \hbox (badness 10000) in paragraph at lines 3070--3074
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3029--3033
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3034--3038
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3039--3043
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3044--3048
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3049--3053
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3054--3058
-
- []
-
-
-Underfull \hbox (badness 2302) in paragraph at lines 3062--3062
-[]\TU/lmr/m/n/12 Last nine-thousand years of temperature variability in North-
- []
-
-
-Underfull \hbox (badness 8170) in paragraph at lines 3062--3062
-\TU/lmr/m/n/12 ern Europe. \TU/lmr/m/it/12 Boreas \TU/lmr/m/n/12 31(3):523–535.
- DOI:[]10.1111/j.1502-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3059--3063
-
- []
-
-[152]
-Underfull \hbox (badness 10000) in paragraph at lines 3064--3068
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3069--3073
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3074--3078
+Underfull \hbox (badness 10000) in paragraph at lines 3075--3078
 
  []
 
@@ -4822,12 +4776,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3079--3083
 
  []
 
-
-Underfull \hbox (badness 2846) in paragraph at lines 3087--3087
-[]\TU/lmr/m/n/12 From Coastal Sites to Elevated Hinterland Locations in the
- []
-
-
+[153]
 Underfull \hbox (badness 10000) in paragraph at lines 3084--3088
 
  []
@@ -4852,254 +4801,254 @@ Underfull \hbox (badness 10000) in paragraph at lines 3104--3108
 
  []
 
-[153]
-Underfull \hbox (badness 10000) in paragraph at lines 3109--3112
+
+Underfull \hbox (badness 2302) in paragraph at lines 3112--3112
+[]\TU/lmr/m/n/12 Last nine-thousand years of temperature variability in North-
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 3112--3112
+\TU/lmr/m/n/12 ern Europe. \TU/lmr/m/it/12 Boreas \TU/lmr/m/n/12 31(3):523–535.
+ DOI:[]10.1111/j.1502-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3109--3113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3113--3117
+Underfull \hbox (badness 10000) in paragraph at lines 3114--3118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3118--3122
+Underfull \hbox (badness 10000) in paragraph at lines 3119--3123
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3123--3127
+Underfull \hbox (badness 10000) in paragraph at lines 3124--3128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3128--3132
+Underfull \hbox (badness 10000) in paragraph at lines 3129--3133
+
+ []
+
+[154]
+Underfull \hbox (badness 2846) in paragraph at lines 3137--3137
+[]\TU/lmr/m/n/12 From Coastal Sites to Elevated Hinterland Locations in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3134--3138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3133--3137
+Underfull \hbox (badness 10000) in paragraph at lines 3139--3143
 
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 3141--3141
+Underfull \hbox (badness 10000) in paragraph at lines 3144--3148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3149--3153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3154--3158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3163--3167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3168--3172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3173--3177
+
+ []
+
+[155]
+Underfull \hbox (badness 10000) in paragraph at lines 3178--3182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3183--3187
+
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 3191--3191
 []\TU/lmr/m/n/12 Regional population collapse followed initial agriculture boom
 s
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 3141--3141
+Underfull \hbox (badness 3128) in paragraph at lines 3191--3191
 \TU/lmr/m/n/12 in mid-Holocene Europe. \TU/lmr/m/it/12 Nature Communications \T
 U/lmr/m/n/12 4(1):2486.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3138--3142
+Underfull \hbox (badness 10000) in paragraph at lines 3188--3192
 
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 3146--3146
+Underfull \hbox (badness 2990) in paragraph at lines 3196--3196
 \TU/lmr/m/n/12 and Geometric Morphometrics. \TU/lmr/m/it/12 Lithic Technology \
 TU/lmr/m/n/12 2:195–220.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3143--3147
+Underfull \hbox (badness 10000) in paragraph at lines 3193--3197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3148--3152
+Underfull \hbox (badness 10000) in paragraph at lines 3198--3202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3153--3157
-
- []
-
-[154]
-Underfull \hbox (badness 10000) in paragraph at lines 3158--3162
+Underfull \hbox (badness 10000) in paragraph at lines 3203--3207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3163--3166
+Underfull \hbox (badness 10000) in paragraph at lines 3208--3212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3167--3171
+Underfull \hbox (badness 10000) in paragraph at lines 3213--3216
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3172--3176
+Underfull \hbox (badness 10000) in paragraph at lines 3217--3221
+
+ []
+
+[156]
+Underfull \hbox (badness 10000) in paragraph at lines 3222--3226
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3177--3181
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3231
 
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 3185--3185
+Underfull \hbox (badness 2837) in paragraph at lines 3235--3235
 []\TU/lmr/m/n/12 Ecological variation and institutionalized inequality in hunte
 r-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3182--3186
+Underfull \hbox (badness 10000) in paragraph at lines 3232--3236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3187--3191
+Underfull \hbox (badness 10000) in paragraph at lines 3237--3241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3192--3195
-
- []
-
-[155]
-Underfull \hbox (badness 10000) in paragraph at lines 3196--3199
+Underfull \hbox (badness 10000) in paragraph at lines 3242--3245
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3200--3204
+Underfull \hbox (badness 10000) in paragraph at lines 3246--3249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3205--3209
+Underfull \hbox (badness 10000) in paragraph at lines 3250--3254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3210--3214
+Underfull \hbox (badness 10000) in paragraph at lines 3255--3259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3215--3219
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3220--3224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3225--3228
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3229--3232
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3233--3237
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3238--3242
-
- []
-
-[156]
-Underfull \hbox (badness 10000) in paragraph at lines 3243--3247
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3248--3252
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3253--3256
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3257--3261
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3262--3266
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3267--3271
-
- []
-
-
-Underfull \hbox (badness 1152) in paragraph at lines 3275--3275
-\TU/lmr/m/n/12 dinavia: Evidence from Studies of Mesolithic Technology, 9th-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3272--3276
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3277--3281
+Underfull \hbox (badness 10000) in paragraph at lines 3260--3264
 
  []
 
 [157]
-Underfull \hbox (badness 10000) in paragraph at lines 3282--3286
+Underfull \hbox (badness 10000) in paragraph at lines 3265--3269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3287--3291
+Underfull \hbox (badness 10000) in paragraph at lines 3270--3274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3292--3296
+Underfull \hbox (badness 10000) in paragraph at lines 3275--3278
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3297--3301
+Underfull \hbox (badness 10000) in paragraph at lines 3279--3282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3302--3306
+Underfull \hbox (badness 10000) in paragraph at lines 3283--3287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3288--3292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3293--3297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3298--3302
+
+ []
+
+[158]
+Underfull \hbox (badness 10000) in paragraph at lines 3303--3306
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3307--3311
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3315--3315
-[]\TU/lmr/m/n/12 Glacial isostatic adjustment in Fennoscandia–A review of
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 3315--3315
-\TU/lmr/m/n/12 data and modeling. \TU/lmr/m/it/12 Journal of Geodynamics \TU/lm
-r/m/n/12 52(3):169–204.
  []
 
 
@@ -5113,19 +5062,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3317--3321
  []
 
 
+Underfull \hbox (badness 1152) in paragraph at lines 3325--3325
+\TU/lmr/m/n/12 dinavia: Evidence from Studies of Mesolithic Technology, 9th-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 3322--3326
 
- []
-
-[158]
-Underfull \hbox (badness 5637) in paragraph at lines 3330--3330
-[]\TU/lmr/m/n/12 Credible worlds: the status of theoretical models in eco-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3330--3330
-\TU/lmr/m/n/12 nomics. \TU/lmr/m/it/12 Journal of Economic Methodology \TU/lmr/
-m/n/12 7(1):1–31.
  []
 
 
@@ -5134,142 +5077,106 @@ Underfull \hbox (badness 10000) in paragraph at lines 3327--3331
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3332--3335
+Underfull \hbox (badness 10000) in paragraph at lines 3332--3336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3339--3339
+Underfull \hbox (badness 10000) in paragraph at lines 3337--3341
+
+ []
+
+[159]
+Underfull \hbox (badness 10000) in paragraph at lines 3342--3346
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3347--3351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3352--3356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3357--3361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3365--3365
+[]\TU/lmr/m/n/12 Glacial isostatic adjustment in Fennoscandia–A review of
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 3365--3365
+\TU/lmr/m/n/12 data and modeling. \TU/lmr/m/it/12 Journal of Geodynamics \TU/lm
+r/m/n/12 52(3):169–204.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3362--3366
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3372--3376
+
+ []
+
+
+Underfull \hbox (badness 5637) in paragraph at lines 3380--3380
+[]\TU/lmr/m/n/12 Credible worlds: the status of theoretical models in eco-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3380--3380
+\TU/lmr/m/n/12 nomics. \TU/lmr/m/it/12 Journal of Economic Methodology \TU/lmr/
+m/n/12 7(1):1–31.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3377--3381
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3382--3385
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3389--3389
 []\TU/lmr/m/n/12 Correcting temporal frequency distributions for taphonomic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3339--3339
+Underfull \hbox (badness 10000) in paragraph at lines 3389--3389
 \TU/lmr/m/n/12 bias. \TU/lmr/m/it/12 Journal of Archaeological Science \TU/lmr/
 m/n/12 36(8):1715–1724.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3336--3340
+Underfull \hbox (badness 10000) in paragraph at lines 3386--3390
+
+ []
+
+[160]
+Underfull \hbox (badness 10000) in paragraph at lines 3391--3395
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3341--3345
+Underfull \hbox (badness 10000) in paragraph at lines 3396--3399
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3346--3349
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3350--3354
-
- []
-
-
-Underfull \hbox (badness 3333) in paragraph at lines 3358--3358
-\TU/lmr/m/n/12 hunter–gatherers so different? \TU/lmr/m/it/12 Philosophical Tra
-nsactions of
- []
-
-
-Underfull \hbox (badness 4647) in paragraph at lines 3358--3358
-\TU/lmr/m/it/12 the Royal Society B: Biological Sciences \TU/lmr/m/n/12 376(181
-6):20190708.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3355--3359
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3363--3363
-[]\TU/lmr/m/n/12 Human ecodynamics in the north-west coast of Finland
- []
-
-
-Underfull \hbox (badness 3780) in paragraph at lines 3363--3363
-\TU/lmr/m/n/12 10,000–2000 years ago. \TU/lmr/m/it/12 Quaternary International 
-\TU/lmr/m/n/12 549:26–35.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3360--3364
-
- []
-
-[159]
-Underfull \hbox (badness 10000) in paragraph at lines 3365--3369
-
- []
-
-Missing character: There is no ⁴ in font [lmroman12-regular]:mapping=tex-text;!
-
-Underfull \hbox (badness 2961) in paragraph at lines 3373--3373
-[]\TU/lmr/m/n/12 Directly modelling population dynamics in the South Ameri-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3370--3374
-
- []
-
-
-Underfull \hbox (badness 1755) in paragraph at lines 3378--3378
-[]\TU/lmr/m/n/12 Regional population collapse followed initial agriculture boom
-s
- []
-
-
-Underfull \hbox (badness 3128) in paragraph at lines 3378--3378
-\TU/lmr/m/n/12 in mid-Holocene Europe. \TU/lmr/m/it/12 Nature Communications \T
-U/lmr/m/n/12 4(1):2486.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3375--3379
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3380--3384
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3385--3389
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3390--3394
-
- []
-
-
-Underfull \hbox (badness 2707) in paragraph at lines 3398--3398
-[]\TU/lmr/m/n/12 Demographic explanations of neanderthal extinction: a reply
- []
-
-
-Underfull \hbox (badness 3713) in paragraph at lines 3398--3398
-\TU/lmr/m/n/12 to Currie and Meneganzin. \TU/lmr/m/it/12 Biology & Philosophy \
-TU/lmr/m/n/12 2(9):38.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3395--3399
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3403--3403
-[]\TU/lmr/m/n/12 Why Model? \TU/lmr/m/it/12 Cybernetics and Systems \TU/lmr/m/n
-/12 35(2–3):117–128.
  []
 
 
@@ -5278,8 +5185,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 3400--3404
  []
 
 
+Underfull \hbox (badness 3333) in paragraph at lines 3408--3408
+\TU/lmr/m/n/12 hunter–gatherers so different? \TU/lmr/m/it/12 Philosophical Tra
+nsactions of
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 3408--3408
+\TU/lmr/m/it/12 the Royal Society B: Biological Sciences \TU/lmr/m/n/12 376(181
+6):20190708.
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 3405--3409
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3413--3413
+[]\TU/lmr/m/n/12 Human ecodynamics in the north-west coast of Finland
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 3413--3413
+\TU/lmr/m/n/12 10,000–2000 years ago. \TU/lmr/m/it/12 Quaternary International 
+\TU/lmr/m/n/12 549:26–35.
  []
 
 
@@ -5287,9 +5217,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 3410--3414
 
  []
 
-[160]
+
 Underfull \hbox (badness 10000) in paragraph at lines 3415--3419
 
+ []
+
+Missing character: There is no ⁴ in font [lmroman12-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 2961) in paragraph at lines 3423--3423
+[]\TU/lmr/m/n/12 Directly modelling population dynamics in the South Ameri-
  []
 
 
@@ -5298,11 +5234,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 3420--3424
  []
 
 
+Underfull \hbox (badness 1158) in paragraph at lines 3428--3428
+\TU/lmr/m/n/12 proved method. \TU/lmr/m/it/12 Journal of Archaeological Science
+ \TU/lmr/m/n/12 52:549–557.
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 3425--3429
 
  []
 
-
+[161]
 Underfull \hbox (badness 10000) in paragraph at lines 3430--3434
 
  []
@@ -5313,161 +5255,233 @@ Underfull \hbox (badness 10000) in paragraph at lines 3435--3439
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3440--3443
+Underfull \hbox (badness 10000) in paragraph at lines 3440--3444
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3447--3447
+Underfull \hbox (badness 2707) in paragraph at lines 3448--3448
+[]\TU/lmr/m/n/12 Demographic explanations of neanderthal extinction: a reply
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 3448--3448
+\TU/lmr/m/n/12 to Currie and Meneganzin. \TU/lmr/m/it/12 Biology & Philosophy \
+TU/lmr/m/n/12 2(9):38.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3445--3449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3453--3453
+[]\TU/lmr/m/n/12 Why Model? \TU/lmr/m/it/12 Cybernetics and Systems \TU/lmr/m/n
+/12 35(2–3):117–128.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3450--3454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3455--3459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3460--3464
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3465--3469
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3470--3474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3475--3479
+
+ []
+
+[162]
+Underfull \hbox (badness 10000) in paragraph at lines 3480--3484
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3485--3489
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3490--3493
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3497--3497
 []\TU/lmr/m/n/12 The ASA Statement on p-Values: Context, Process,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3447--3447
+Underfull \hbox (badness 10000) in paragraph at lines 3497--3497
 \TU/lmr/m/n/12 and Purpose. \TU/lmr/m/it/12 The American Statistician \TU/lmr/m
 /n/12 70(2):129–133.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3444--3448
+Underfull \hbox (badness 10000) in paragraph at lines 3494--3498
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3449--3453
+Underfull \hbox (badness 10000) in paragraph at lines 3499--3503
 
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 3457--3457
+Underfull \hbox (badness 2913) in paragraph at lines 3507--3507
 []\TU/lmr/m/n/12 Holocene history of landscape development in the catchment
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 3457--3457
+Underfull \hbox (badness 3590) in paragraph at lines 3507--3507
 \TU/lmr/m/n/12 of Lake Skogstjern, southeastern Norway, based on a high-
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 3457--3457
+Underfull \hbox (badness 1248) in paragraph at lines 3507--3507
 \TU/lmr/m/n/12 resolution multi-proxy record. \TU/lmr/m/it/12 The Holocene \TU/
 lmr/m/n/12 27(12):1928–1947.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3454--3458
+Underfull \hbox (badness 10000) in paragraph at lines 3504--3508
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3459--3463
+Underfull \hbox (badness 10000) in paragraph at lines 3509--3513
 
  []
 
-[161]
-Underfull \hbox (badness 7047) in paragraph at lines 3467--3467
+
+Underfull \hbox (badness 7047) in paragraph at lines 3517--3517
 []\TU/lmr/m/n/12 Model–data comparison for the 8.2kaBP event: Confirma-
  []
 
 
-Underfull \hbox (badness 7925) in paragraph at lines 3467--3467
+Underfull \hbox (badness 7925) in paragraph at lines 3517--3517
 \TU/lmr/m/n/12 tion of a forcing mechanism by catastrophic drainage of
  []
 
 
-Underfull \hbox (badness 6284) in paragraph at lines 3467--3467
+Underfull \hbox (badness 6284) in paragraph at lines 3517--3517
 \TU/lmr/m/n/12 laurentide lakes. \TU/lmr/m/it/12 Quaternary Science Reviews \TU
 /lmr/m/n/12 25(1):63–88.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3464--3468
+Underfull \hbox (badness 10000) in paragraph at lines 3514--3518
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3469--3473
+Underfull \hbox (badness 10000) in paragraph at lines 3519--3523
+
+ []
+
+[163]
+Underfull \hbox (badness 10000) in paragraph at lines 3524--3528
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3474--3478
+Underfull \hbox (badness 10000) in paragraph at lines 3529--3533
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3479--3483
+Underfull \hbox (badness 10000) in paragraph at lines 3534--3538
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3484--3488
+Underfull \hbox (badness 10000) in paragraph at lines 3539--3543
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3489--3493
+Underfull \hbox (badness 10000) in paragraph at lines 3544--3548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3494--3497
+Underfull \hbox (badness 10000) in paragraph at lines 3549--3552
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3498--3502
+Underfull \hbox (badness 10000) in paragraph at lines 3553--3557
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3503--3507
-
- []
-
-[162]
-Underfull \hbox (badness 10000) in paragraph at lines 3508--3512
+Underfull \hbox (badness 10000) in paragraph at lines 3558--3562
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3516--3516
+Underfull \hbox (badness 10000) in paragraph at lines 3563--3567
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3571--3571
 []\TU/lmr/m/n/12 Maritime Hunter-Gatherers: Ecology and Prehistory [and
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 3516--3516
+Underfull \hbox (badness 3343) in paragraph at lines 3571--3571
 \TU/lmr/m/n/12 Comments and Reply]. \TU/lmr/m/it/12 Current Anthropology \TU/lm
 r/m/n/12 21(6):727–750.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3513--3517
+Underfull \hbox (badness 10000) in paragraph at lines 3568--3572
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3518--3522
+[164]
+Underfull \hbox (badness 10000) in paragraph at lines 3573--3577
 
  []
 
-[163]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3525.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3525.
+[165]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3580.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3580.
 (./thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3525.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3525.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3580.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3580.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44946 strings out of 493007
- 849235 string characters out of 6136720
- 1421699 words of memory out of 5000000
- 48283 multiletter control sequences out of 15000+600000
- 536708 words of font info for 76 fonts, out of 8000000 for 9000
+ 44906 strings out of 493007
+ 847862 string characters out of 6136720
+ 1421443 words of memory out of 5000000
+ 48255 multiletter control sequences out of 15000+600000
+ 533812 words of font info for 58 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  66i,9n,117p,10401b,741s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (167 pages).
+Output written on thesis.pdf (169 pages).
