@@ -100,15 +100,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}Directed acyclic graphs}{88}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Modelling the relationship between Mesolithic sites and the prehistoric shoreline}{92}{section.5.3}
+\contentsline {section}{\numberline {5.3}Modelling the relationship between Mesolithic sites and the prehistoric shoreline}{91}{section.5.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.1}Operationalising the site-sea model}{99}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.4}Modelling the technological expediency of Mesolithic assemblages}{100}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Modelling demographic developments through the Mesolithic}{104}{section.5.5}
+\contentsline {section}{\numberline {5.5}Modelling demographic developments through the Mesolithic}{105}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.6}Chapter summary}{108}{section.5.6}
+\contentsline {section}{\numberline {5.6}Chapter summary}{107}{section.5.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}Concluding remarks}{109}{chapter.6}
 \defcounter {refsection}{0}\relax 
