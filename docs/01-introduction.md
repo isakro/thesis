@@ -72,17 +72,17 @@ To this end, this thesis has been written in its entirety using the R programmin
 
 \begin{table}
 
-\caption{(\#tab:op)Overview of repositories and preprints. GitHub repositories can be accessed by adding the name of the repository after https://github.com/isakro/ in a web browser.}
+\caption{(\#tab:op)Overview of repositories and preprints. GitHub repositories can be accessed by adding the name of the repository after https://github.com/isakro/, and the archived repositories by adding the DOI after https://doi.org/ in a web browser.}
 \centering
 \begin{tabular}[t]{llll}
 \toprule
-Text & Pre/post print & GitHub repository & OSF repository DOI\\
+Text & Pre/post print & GitHub repository & Repository DOI\\
 \midrule
-Synopsis & NA & thesis & 10.17605/OSF.IO/H3JFD\\
-Paper 1 & osf.io/3x7ju & assessing.sealevel.dating & osf.io/h3jfd\\
-Paper 2 & NA & shoredate & osf.io/7f9su\\
+Synopsis & NA & thesis & 10.17605/osf.io/h3jdf\\
+Paper 1 & osf.io/3x7ju & assessing.sealevel.dating & 10.17605/osf.io/7f9su\\
+Paper 2 & NA & shoredate & 10.5281/zenodo.7971859\\
 Paper 3 & osf.io/cqaps & exploring-assemblages-se-norway & \\
-Paper 4 &  & se.norway.shoredate.14c & osf.io/ehjfc\\
+Paper 4 &  & se.norway.shoredate.14c & 10.17605/osf.io/ehjfc\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -98,9 +98,9 @@ Based on the findings from the first paper, the second paper of the thesis is a 
 The second part of the thesis is aimed more squarely on elucidating past cultural history, as opposed to the more instrumental focus of the first two papers, which established tools for improving our chronological understanding of the period. The third paper of the thesis is an exploratory study aimed at identifying variability in the contents of a set of lithic assemblages. The main goals of the paper are to evaluate the typo-technological framework currently in use in Norwegian Mesolithic research, and to assess the temporal development for variables that have been linked to variation in land-use and mobility patterns. It is demonstrated that elements of the so-called Whole Assemblage Behavioural Indicators [WABI, e.g. @clark2017] align with previous research into developments of mobility patterns in Mesolithic Norway, suggesting that the WABI could be a relevant framework also in this context. This is specifically reflected in a negative relationship between density of lithics, and the proportion of secondarily worked lithics in the assemblages over time, which is taken to reflect a transition from a more curated towards a expedient technological organisation with the transition from the Early to Middle Mesolithic (c. 8200 BCE). This is in turn argued to follow from a shift in land-use patterns and a overall reduction in mobility.
 
 ### Paper 4: *Comparing summed probability distributions of shoreline and radiocarbon dates from the Mesolithic Skagerrak coast of Norway*
-Unpacking the complex interplay between environmental conditions, settlement patterns and population density has been deemed of fundamental importance to archaeological inquiry [e.g. @shennan2000; @french2016]. The fourth and final paper of the thesis is aimed at combining findings from the previous papers to evaluate the interplay between some empirical indicators suggested in the literature to be related to these dimensions. Concretely, the paper begins the task of elucidating the complex relationship between variation in relative population size as potentially reflected in the frequency of shoreline dated sites and the intensity of radiocarbon dates over time. 
+Unpacking the complex interplay between environmental conditions, settlement patterns and population density has been deemed of fundamental importance to archaeological inquiry [e.g. @french2016; @shennan2000]. The fourth and final paper of the thesis, written in collaboration with Steinar Solheim, is aimed at combining findings from the previous papers to evaluate the interplay between some empirical indicators suggested in the literature to be related to these dimensions. Concretely, the paper begins the task of elucidating the complex relationship between variation in relative population size as potentially reflected in the frequency of shoreline dated sites and the intensity of radiocarbon dates over time. 
 
-The main substantive findings of the paper were that the frequency of shoreline dated sites is relatively high from the start of the Mesolithic, from around c. 9500 BCE, and which then undergoes some process of decline in sites. The frequency of radiocarbon dates, on the other hand, only starts from around 8500 BCE and quickly increases along the trajectory of a logistic growth. This increase has plateaued by c. 7500 BCE, and the frequency of radiocarbon dates then remains stable for the duration of the period. In the paper, we suggest that the different behaviour of the variables reflect that the frequency of shoreline dated sites is more heavily influenced by variation in mobility patterns, compared to that of radiocarbon dates, which we suggest is more heavily determined by population density. Clarifying this relationship will, however, require studies that draw on other measures that.  
+The main substantive findings of the paper were that the frequency of shoreline dated sites is relatively high from the start of the Mesolithic, from around c. 9500 BCE, and which then undergoes some process of decline. The frequency of radiocarbon dates, on the other hand, only starts from around 8500 BCE and quickly increases along the trajectory of a model of logistic growth. This increase has plateaued by c. 7500 BCE, and the frequency of radiocarbon dates then remains stable for the duration of the period. In the paper, we suggest that the different behaviour of the variables reflect that the frequency of shoreline dated sites is more heavily influenced by variation in mobility patterns, compared to that of radiocarbon dates, which we suggest is more heavily determined by population density. Clarifying this relationship will, however, require studies that draw on other measures that track the developments of factors.  
 
 ## Structure of the thesis
 
