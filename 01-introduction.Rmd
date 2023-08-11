@@ -88,8 +88,8 @@ dat <- data.frame(titles = c(
          repositorydoi = c("10.17605/osf.io/h3jdf",
                            "10.17605/osf.io/7f9su", 
                            "10.5281/zenodo.7971859",
-                           "",
-                           "10.17605/osf.io/ehjfc"))
+                           "10.17605/osf.io/ehjfc",
+                           ""))
 
 knitr::kable(
   dat, booktabs = TRUE,  linesep = c(""), escape = FALSE,
