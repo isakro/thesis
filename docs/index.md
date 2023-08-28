@@ -7,9 +7,11 @@ bibliography: [book.bib]
 fontsize: 12pt
 output:
   bookdown::pdf_book: 
+    toc: false
     toc_depth: 3
     includes:
       in_header: preamble.tex
+      before_body: before_body.tex
     latex_engine: xelatex
     citation_package: default
     pandoc_args: ["--csl", "saa.csl"]

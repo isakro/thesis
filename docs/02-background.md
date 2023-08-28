@@ -8,7 +8,7 @@ This chapter presents the context of the study, beginning with the overarching e
 
 }
 
-\caption{Overview of study area. The red area marks where the material directly studied in this thesis stems from (see individual papers for details), indicated here by the borders of the municipalities from where the material originates. The counties outlined in black make up the administrative region of the University of Oslo, the Museum of Cultural History. The counties are given as they were defined before 2020, when several of these were combined due to administrative changes. The coastal region from around Göteborg to Vest-Agder is usually considered relatively uniform in terms of material culture throughout the Mesolithic.}(\#fig:overview)
+\caption[Map of study area]{Overview of study area. The red area marks where the material directly studied in this thesis stems from (see individual papers for details), indicated here by the borders of the municipalities from where the material originates. The counties outlined in black make up the administrative region of the University of Oslo, the Museum of Cultural History. The counties are given as they were defined before 2020, when several of these were combined due to administrative changes. The coastal region from around Göteborg to Vest-Agder is usually considered relatively uniform in terms of material culture throughout the Mesolithic.}(\#fig:overview)
 \end{figure}
 
 
@@ -28,7 +28,7 @@ Pollen-based reconstructions from Northern Europe indicate that the trend of inc
 
 }
 
-\caption{Overall trends of deglaciation, relative sea-level change and the Baltic Sea stages. A) Younger Dryas, c. 10,700--9700 BCE; B) Early Preboreal, c. 9700--9200 BCE; C) Late Preboreal, c. 9200--8700 BCE; D) Early Boreal, c. 8700--8000; E) Late Boreal, c. 8000--7200 BCE; F) Late Atlantic, c. 6500--4500 BCE. Data from the European Prehistoric and Historic Atlas, Centre for Baltic and Scandinavian Archaeology (https://zbsa.eu/), with further references therein.}(\#fig:palaeo-maps)
+\caption[Overall trends of deglaciation, relative sea-level change and the Baltic Sea stages]{Overall trends of deglaciation, relative sea-level change and the Baltic Sea stages. A) Younger Dryas, c. 10,700--9700 BCE; B) Early Preboreal, c. 9700--9200 BCE; C) Late Preboreal, c. 9200--8700 BCE; D) Early Boreal, c. 8700--8000; E) Late Boreal, c. 8000--7200 BCE; F) Late Atlantic, c. 6500--4500 BCE. Data from the European Prehistoric and Historic Atlas, Centre for Baltic and Scandinavian Archaeology (https://zbsa.eu/), with further references therein.}(\#fig:palaeo-maps)
 \end{figure}
 
 ### Sea-level change and deglaciation {#sealevel}
@@ -52,18 +52,18 @@ As a result of the GIA, the study area for this thesis falls within the class I 
 
 }
 
-\caption{Present annual absolute uplift in Fennoscandia relative to the Earth's centre of mass. Note that the absolute uplift is independent of the relative sea-level, which is also determined by other effects. The location of the study area of this thesis is outlined with a black frame. Data from the official land uplift model NKG2016LU of the Nordic Commission of Geodesy (Vestøl et al. 2019).}(\#fig:uplift)
+\caption[Present annual absolute uplift in Fennoscandia]{Present annual absolute uplift in Fennoscandia relative to the Earth's centre of mass. Note that the absolute uplift is independent of the relative sea-level, which is also determined by other effects. The location of the study area of this thesis is outlined with a black frame. Data from the official land uplift model NKG2016LU of the Nordic Commission of Geodesy (Vestøl et al. 2019).}(\#fig:uplift)
 \end{figure}
 
 The development of relative sea-level change within the study area is given by shoreline displacement curves in Figure \@ref(fig:study-rsl). This development has been quite dramatic, which can be illustrated by reference to the marine limit in the region. The marine limit is the highest post-glacial elevation of the sea. The highest known marine limit in the world is around 286 meters above present sea-level (masl) at Skuleberget in Ångermanland in east-central Sweden [@berglund2012]. Comparatively, the marine limit is around 220 masl in the innermost part of the Oslo fjord. In Horten, at the northern limit of the study area for this thesis, the marine limit is c. 182 masl [@berg-hansen2022; @romundset2021, Figure \@ref(fig:study-rsl)]. In the centre of the study area, in Porsgrunn, the marine limit is around 155 masl [@sørensen2014], and furthest to the south, in Arendal, c. 83 masl [@romundset2018]. These differences thus also illustrate the differential timing of the deglaciation in the region [see @hughes2016; @stroeven2016; @romundset2019], which combined with the steepness of the curves also reflects the morphology of the ice sheet and the resulting differential GIA, which is more pronounced towards the north-east. 
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.95\linewidth]{figures/study_rsl} 
+{\centering \includegraphics[width=0.95\linewidth,height=0.95\textheight]{figures/study_rsl} 
 
 }
 
-\caption{Relative sea-level change in the study area in south-eastern Norway (see Figures 1.1 and 2.3 for an overview of its location). A) Shoreline displacement curves for Horten, Porsgrunn, Tvedestrand and Arendal. B) Location of the isobases corresponding to the displacement curves. The isobases represent contours along which the relative sea-level change has followed the same trajectory.}(\#fig:study-rsl)
+\caption[Relative sea-level change in the study area]{Relative sea-level change in the study area in south-eastern Norway (see Figures 1.1 and 2.3 for an overview of its location). A) Shoreline displacement curves for Horten, Porsgrunn, Tvedestrand and Arendal. B) Location of the isobases corresponding to the displacement curves. The isobases represent contours along which the relative sea-level change has followed the same trajectory.}(\#fig:study-rsl)
 \end{figure}
 
 ### Flora
@@ -90,7 +90,7 @@ While the inner parts of the Oslo fjord are sheltered from Skagerrak today, this
 
 }
 
-\caption{Main currents in present-day Skagerrak (redrawn after Staalstrøm et al. 2021:fig.5, see also Christensen et al. 2018).}(\#fig:circulation)
+\caption[Main currents in present-day Skagerrak]{Main currents in present-day Skagerrak (redrawn after Staalstrøm et al. 2021:fig.5, see also Christensen et al. 2018).}(\#fig:circulation)
 \end{figure}
 
 ### Fauna
@@ -116,7 +116,7 @@ In a comprehensive reassessment that draws on results from the last decades of e
 
 \begin{table}
 
-\caption{(\#tab:tab1)Chronological framework. Glørstad's (2010) divison of phases reflects the more traditional framework, to which Reitan (2016, 2022) has recently suggested considerable adjustments.}
+\caption[Chronological framework]{(\#tab:tab1)Chronological framework. Glørstad's (2010) divison of phases reflects the more traditional framework, to which Reitan (2016, 2022) has recently suggested considerable adjustments.}
 \centering
 \begin{tabular}[t]{ll}
 \toprule
@@ -204,7 +204,7 @@ Although mobility is argued to generally decrease and territoriality increase wi
 
 Related to the increased evidence for ritual behaviour is also the only secure grave-find from the Mesolithic in south-eastern Norway, represented by an inhumation grave containing a single individual from the site Brunstad in Vestfold [@reitan2019; @schulke2019]. Due to the poor preservation of the bones, neither ^14^C-dating nor stable isotope analysis of the bones was successful. However, contextual information and dates from relating features date the grave to c. 5900 BCE. The grave was found as part of a site complex of three sites on what would have been an island in the Mesolithic. The sites were interpreted as the result of repeated visits between c. 6400--5600 BCE. 
 
-In western Norway, Bergsvik [-@bergsvik1995; @bergsvik2001] found that large LM sites associated with the accumulation of thick organic deposits were located close to good fishing locations along straits, and in combination sees this as an indication of an increased degree of sedentism and territoriality towards the later parts of the Mesolithic [see also @bergsvik2006, 149--150, 168--171]. Furthermore, zooarchaeological evidence from rock shelters appear to indicate an increased specialisation towards fishing in the LM [@ritchie2016], and @bergsvik2016 argue that a shift towards sedentism in western Norway occurs around 6100 BCE. While the same kind of sites with extensive organic deposits located along straits have not been discovered in south-eastern Norway -- possibly due to investigatory and taphonomic factors -- a similar development has been suggested for this region. @glorstad2010 argued that larger LM sites appear to have been situated at locations with an especially good access to marine resources, and @lindblom1984 linked a similar argument to the location of the LM sites in fjord and the inner archipelago. It is thus possible that practices of settlement patterns and resource exploitation, introduced with a decrease in residential mobility in the MM, is intensified through the LM. 
+In western Norway, Bergsvik [-@bergsvik1995; @bergsvik2001] found that large LM sites associated with the accumulation of thick organic deposits were located close to good fishing locations along straits, and in combination sees this as an indication of an increased degree of sedentism and territoriality towards the later parts of the Mesolithic [see also @bergsvik2006, 149--150, 168--171]. Furthermore, zooarchaeological evidence from rock shelters appear to indicate an increased specialisation towards fishing in the LM [@ritchie2016], and @bergsvik2016 argue that a shift towards sedentism in western Norway occurs around 6100 BCE. While the same kind of sites with extensive organic deposits located along straits have not been discovered in south-eastern Norway -- possibly due to investigatory and taphonomic factors -- a similar development has been suggested for this region. @glorstad2010 argued that larger LM sites appear to have been situated at locations with an especially good access to marine resources, and @lindblom1984 linked a similar argument to the location of the LM sites in fjords and the inner archipelago. It is thus possible that practices of settlement patterns and resource exploitation, introduced with a decrease in residential mobility in the MM, is intensified through the LM. 
 
 ### The end of the Mesolithic
 

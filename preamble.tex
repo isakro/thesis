@@ -2,10 +2,15 @@
 \usepackage{pdfpages}
 \usepackage{rotating}
 \usepackage{fancyhdr}
+\usepackage{titling}
+\usepackage{graphicx}
+\usepackage{tikz}
+
 \usepackage[utf8]{inputenc}
 \pagenumbering{gobble}
+\pagestyle{plain}
 % \usepackage[T1]{url}\urlstyle{sf}
-\usepackage{csquotes, graphicx, textcomp, varioref}
+\usepackage{csquotes, textcomp, varioref}
 \usepackage[backend=biber,style=numeric-comp]{biblatex}
 \usepackage{caption}
 \captionsetup[figure]{font=small}
@@ -16,10 +21,31 @@
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=cyan}
+    
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0em}
 
-\usepackage{titling}
-\usepackage{graphicx}
-\usepackage{tikz}
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% Table of contents %%%%%%%%%%%%%%%%%
+\renewcommand{\contentsname}{Contents}
+\pagestyle{plain}
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% List of figures %%%%%%%%%%%%%%%%%%
+\renewcommand{\listfigurename}{Figures}
+\pagestyle{plain}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% List of tables %%%%%%%%%%%%%%%%%%%
+\renewcommand{\listtablename}{Tables}
+\pagestyle{plain}
+    
+
+\let\tmp\oddsidemargin
+\let\oddsidemargin\evensidemargin
+\let\evensidemargin\tmp
+\reversemarginpar
 
 \pretitle{%
   \begin{center}
@@ -33,12 +59,13 @@
 
 \renewcommand{\maketitlehooka}{%
   \begin{titlingpage}
+  \pagestyle{plain}
 }
 
 \newcommand{\phdthesis}{%
   \begin{center}
   \large
-  Thesis submitted for the degree of Ph.D
+  Thesis submitted for the degree of Ph.D.
   \end{center}
 }
 
@@ -81,83 +108,9 @@
   \null\vfill
   \begin{center}
   \begin{tikzpicture}[remember picture,overlay]
-    \node at ([yshift=1.5in]current page.south) {\includegraphics[width=2in,height=2in]{figures/uio_logo_eng.jpg}};
+    \node at ([yshift=1.5in,xshift=0.25in]current page.south) {\includegraphics[width=2in,height=2in]{figures/uio_logo_eng.jpg}};
   \end{tikzpicture}
   \end{center}
   \vfill
   \end{titlingpage}
 }
-
-% \usepackage{titling}
-% \usepackage{graphicx}
-% \usepackage{tikz}
-% 
-% \pretitle{%
-%   \begin{center}
-%   \LARGE
-%   \vskip 2em
-% }
-% \posttitle{%
-%   \end{center}
-%   \vskip 2em
-% }
-% 
-% \preauthor{%
-%   \begin{center}
-%   \large
-%   \vskip 2em
-%   \begin{tabular}[t]{c}
-% }
-% \author{}
-% \postauthor{%
-%   \end{tabular}
-%   \end{center}
-% }
-% 
-% \renewcommand{\maketitlehooka}{%
-%   \begin{titlingpage}
-% }
-% 
-% \newcommand{\phdthesis}{%
-%   \begin{center}
-%   \large
-%   Thesis submitted for the degree of Ph.D.
-%   \end{center}
-% }
-% 
-% \newcommand{\affiliation}{%
-%   \begin{center}
-%   \large
-%   Institute of Archaeology, Conservation and History \\
-%   Faculty of Humanities \\
-%   University of Oslo
-%   \end{center}
-% }
-% 
-% \newcommand{\textdate}{%
-%   \begin{center}
-%   \large
-%   2023
-%   \end{center}
-% }
-% 
-% \renewcommand{\maketitlehookb}{%
-%   \vfill
-%   \phdthesis
-%   \vskip 2em % Adjust the space after the thesis description as needed
-%   \affiliation
-%   \vskip 2em % Adjust the space after the thesis description as needed
-%   \textdate
-%   \vskip 2em
-% }
-% 
-% \renewcommand{\maketitlehookd}{%
-%   \null\vfill
-%   \begin{center}
-%   \begin{tikzpicture}[remember picture,overlay]
-%     \node at ([yshift=1.5in]current page.south) {\includegraphics[width=2in,height=2in]{figures/uio_logo_eng.jpg}};
-%   \end{tikzpicture}
-%   \end{center}
-%   \vfill
-%   \end{titlingpage}
-% }

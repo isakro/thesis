@@ -49,7 +49,7 @@ Furthermore, what is termed the coastal Mesolithic naturally did not exist in is
 
 }
 
-\caption{The location of the study area in south-eastern Norway is indicated by the black frame. See the next chapter for a more detailed map and presentation of the study area. The coordinate reference system used throughout this thesis and in the accompanying papers is WGS84 / UTM zone 32N (EPSG: 32632).}(\#fig:map)
+\caption[Map displaying the location of the study area]{The location of the study area in south-eastern Norway is indicated by the black frame. See the next chapter for a more detailed map and presentation of the study area. The coordinate reference system used throughout this thesis and in the accompanying papers is WGS84 / UTM zone 32N (EPSG: 32632).}(\#fig:map)
 \end{figure}
 
 <!-- ## Model-based archaeology -->
@@ -72,11 +72,12 @@ To this end, this thesis has been written in its entirety using the R programmin
 
 \begin{table}
 
-\caption{(\#tab:op)Overview of repositories and preprints. GitHub repositories can be accessed by adding the name of the repository after https://github.com/isakro/, and the archived repositories by adding the DOI after https://doi.org/ in a web browser.}
+\caption[Overview of repositories and pre-prints]{(\#tab:op)Overview of repositories and pre-prints. GitHub repositories can be accessed by adding the name of the repository after https://github.com/isakro/, and the archived repositories by adding the DOI after https://doi.org/ in a web browser.}
 \centering
+\fontsize{10}{12}\selectfont
 \begin{tabular}[t]{llll}
 \toprule
-Text & Pre/post print & GitHub repository & Repository DOI\\
+Text & Pre/post-print & GitHub repository & Repository DOI\\
 \midrule
 Synopsis & NA & thesis & 10.17605/osf.io/h3jdf\\
 Paper 1 & osf.io/3x7ju & assessing.sealevel.dating & 10.17605/osf.io/7f9su\\

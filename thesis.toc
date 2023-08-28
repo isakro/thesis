@@ -1,12 +1,16 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Figures}{x}{chapter*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Tables}{xii}{chapter*.4}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Archaeological inquiry and the Norwegian Mesolithic}{2}{section.1.1}
+\contentsline {section}{\numberline {1.1}Archaeological inquiry and the Norwegian Mesolithic}{1}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Aims and research questions}{4}{section.1.2}
+\contentsline {section}{\numberline {1.2}Aims and research questions}{3}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Study area}{5}{section.1.3}
+\contentsline {section}{\numberline {1.3}Study area}{4}{section.1.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}Open research and reproducibility}{5}{section.1.4}
 \defcounter {refsection}{0}\relax 
@@ -14,104 +18,104 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.5.1}Paper 1: \emph {A simulation-based assessment of the relation between Stone Age sites and relative sea-level change along the Norwegian Skagerrak coast}}{8}{subsection.1.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.2}Paper 2: \emph {shoredate: An R package for shoreline dating coastal Stone Age sites}}{9}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.2}Paper 2: \emph {shoredate: An R package for shoreline dating coastal Stone Age sites}}{8}{subsection.1.5.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.5.3}Paper 3: \emph {Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway}}{9}{subsection.1.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.4}Paper 4: \emph {Comparing summed probability distributions of shoreline and radiocarbon dates from the Mesolithic Skagerrak coast of Norway}}{10}{subsection.1.5.4}
+\contentsline {subsection}{\numberline {1.5.4}Paper 4: \emph {Comparing summed probability distributions of shoreline and radiocarbon dates from the Mesolithic Skagerrak coast of Norway}}{9}{subsection.1.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.6}Structure of the thesis}{11}{section.1.6}
+\contentsline {section}{\numberline {1.6}Structure of the thesis}{10}{section.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}The Mesolithic in south-eastern Norway}{13}{chapter.2}
+\contentsline {chapter}{\numberline {2}The Mesolithic in south-eastern Norway}{11}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Environmental setting}{13}{section.2.1}
+\contentsline {section}{\numberline {2.1}Environmental setting}{11}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Climate}{15}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.1}Climate}{13}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Sea-level change and deglaciation}{16}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.2}Sea-level change and deglaciation}{15}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Flora}{19}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.3}Flora}{18}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.4}Palaeoceonography}{22}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.4}Palaeoceonography}{20}{subsection.2.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.5}Fauna}{25}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.5}Fauna}{21}{subsection.2.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Archaeological background}{26}{section.2.2}
+\contentsline {section}{\numberline {2.2}Archaeological background}{23}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}The Early Mesolithic (9300--8300 BCE)}{28}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}The Early Mesolithic (9300--8300 BCE)}{25}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}The Middle Mesolithic (8300--6300 BCE)}{33}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.2}The Middle Mesolithic (8300--6300 BCE)}{30}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}The Late Mesolithic (6300--3900 BCE)}{36}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}The Late Mesolithic (6300--3900 BCE)}{33}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}The end of the Mesolithic}{39}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.4}The end of the Mesolithic}{36}{subsection.2.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Chapter summary}{40}{section.2.3}
+\contentsline {section}{\numberline {2.3}Chapter summary}{37}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Analytical background}{41}{chapter.3}
+\contentsline {chapter}{\numberline {3}Analytical background}{39}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}The quality of the archaeological record}{41}{section.3.1}
+\contentsline {section}{\numberline {3.1}The quality of the archaeological record}{39}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Digital and computational archaeology}{42}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.1}Digital and computational archaeology}{40}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Chronology, cultural taxonomy and modifiable analytical units}{44}{section.3.2}
+\contentsline {section}{\numberline {3.2}Chronology, cultural taxonomy and modifiable analytical units}{42}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}The MAUP and MTUP}{45}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.1}The MAUP and MTUP}{43}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Archaeological chronozones}{47}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.2}Archaeological chronozones}{45}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Radiometric and archaeological dating methods}{50}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.3}Radiometric and archaeological dating methods}{48}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Hunter-gatherers}{52}{section.3.3}
+\contentsline {section}{\numberline {3.3}Hunter-gatherers}{50}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Hunter-fisher-gatherers}{55}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.1}Hunter-fisher-gatherers}{52}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Land-use and mobility patterns}{57}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.2}Land-use and mobility patterns}{54}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Responses to sea-level change}{59}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.3}Responses to sea-level change}{56}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.4}Palaeodemography}{61}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.4}Palaeodemography}{58}{subsection.3.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Chapter summary}{64}{section.3.4}
+\contentsline {section}{\numberline {3.4}Chapter summary}{61}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Model-based archaeology}{65}{chapter.4}
+\contentsline {chapter}{\numberline {4}Model-based archaeology}{63}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Confronting beliefs with data}{66}{section.4.1}
+\contentsline {section}{\numberline {4.1}Confronting beliefs with data}{64}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}Confirmation}{69}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.1}Confirmation}{67}{subsection.4.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}Falsification}{71}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.2}Falsification}{68}{subsection.4.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Instrumentalism and scientific realism}{73}{section.4.2}
+\contentsline {section}{\numberline {4.2}Instrumentalism and scientific realism}{71}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}What are models?}{76}{section.4.3}
+\contentsline {section}{\numberline {4.3}What are models?}{74}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Inference to the best explanation}{79}{section.4.4}
+\contentsline {section}{\numberline {4.4}Inference to the best explanation}{77}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Evidential scaffolding}{81}{section.4.5}
+\contentsline {section}{\numberline {4.5}Evidential scaffolding}{79}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}Quantitative archaeology and models}{83}{section.4.6}
+\contentsline {section}{\numberline {4.6}Quantitative archaeology and models}{81}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.7}Chapter summary}{86}{section.4.7}
+\contentsline {section}{\numberline {4.7}Chapter summary}{83}{section.4.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Modelling the Norwegian Mesolithic}{87}{chapter.5}
+\contentsline {chapter}{\numberline {5}Modelling the Norwegian Mesolithic}{85}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Evidential argument schema}{89}{section.5.1}
+\contentsline {section}{\numberline {5.1}Evidential argument schema}{87}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Directed acyclic graphs}{91}{section.5.2}
+\contentsline {section}{\numberline {5.2}Directed acyclic graphs}{89}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Modelling the relationship between Mesolithic sites and the prehistoric shoreline}{94}{section.5.3}
+\contentsline {section}{\numberline {5.3}Modelling the relationship between Mesolithic sites and the prehistoric shoreline}{93}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.1}Causal model for the site-sea relationship}{99}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.1}Causal model for the site-sea relationship}{98}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Modelling the technological expediency of Mesolithic assemblages}{104}{section.5.4}
+\contentsline {section}{\numberline {5.4}Modelling the technological expediency of Mesolithic assemblages}{102}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.1}Causal model for the expediency of lithic assemblages}{109}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.1}Causal model for the expediency of lithic assemblages}{107}{subsection.5.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Modelling demographic developments through the Mesolithic}{111}{section.5.5}
+\contentsline {section}{\numberline {5.5}Modelling demographic developments through the Mesolithic}{109}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.1}Causal model for demographic developments}{116}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.1}Causal model for demographic developments}{115}{subsection.5.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.6}Chapter summary}{120}{section.5.6}
+\contentsline {section}{\numberline {5.6}Chapter summary}{117}{section.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Concluding remarks}{121}{chapter.6}
+\contentsline {chapter}{\numberline {6}Concluding remarks}{119}{chapter.6}

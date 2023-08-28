@@ -14,7 +14,7 @@ These are, however, universal scientific points, variations of which have been m
 
 }
 
-\caption{Derek Jarman, \textit{Untitled (Yellow Painting - Archeologies)}, 1983. Oil on canvas, 134.6 x 101.6 cm.}(\#fig:jarman)
+\caption[Derek Jarman, \textit{Untitled (Yellow Painting - Archeologies)}]{Derek Jarman, \textit{Untitled (Yellow Painting - Archeologies)}, 1983. Oil on canvas, 134.6 x 101.6 cm.}(\#fig:jarman)
 \end{figure}
 
 ## Confronting beliefs with data {#confronting}
