@@ -6,6 +6,7 @@ library(patchwork)
 load(here::here("R/simulated_distances.rda"))
 load(here::here("R/curation_data.rda"))
 load(here::here("R/logmodel_rcarbon.rda"))
+load(here::here("R/chain_result.RData"))
 
 # Load plot of exponential model and simulation results for summed 
 # shorline dates
@@ -66,11 +67,29 @@ names(mean_loess) <- c("id", "x", "y", "ymin", "ymax")
 
 p2 <- ggplot() +
   geom_point() +
-  geom_smooth(aes_auto(mean_loess), data=mean_loess, stat="identity", col = "red", linewidth = 0.5) +
+  geom_smooth(aes_auto(mean_loess), data = mean_loess,
+              stat = "identity", col = "red", linewidth = 0.5) +
   labs(x = "BCE", y = "Curation index") +
   # scale_x_continuous(limits = c(-10000, -2500),
   #                    breaks = seq(-10000, -00, 1000)) +
-  theme_bw()http://127.0.0.1:36807/graphics/plot_zoom_png?width=1026&height=676
+  theme_bw()
+
+# 
+dfres <- as.data.frame(t(results[1:1000,]))
+dfres$year <- as.numeric(rownames(dfres)) + 3900
+dfres <- reshape2::melt(dfres,  id.vars = 'year', variable.name = 'series')
+
+ggplot() + 
+  geom_line(data = dfres, aes(year, value, group = series),
+            col = "grey80", alpha = 0.6) +
+  geom_line(data = LOG, aes(year, pdf), col = "red") +
+  scale_x_reverse(limits = c(11950, 4450),
+                  breaks = seq(11950, 4450, -1000),
+                  expand = expansion(mult = c(0, 0)),
+                  labels = function(x)(x-1950)*-1) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +
+  labs(x = "BCE", y = "Probability density") +
+  theme_bw()
 
 p3 <- ggplot(data = LOG) + geom_line(aes(year, pdf), col = "red") +
   scale_x_reverse(limits = c(11950, 4450),

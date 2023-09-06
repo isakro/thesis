@@ -101,7 +101,9 @@ Given the realisation that we lack an infallible logical foundation with which t
 
 By drawing on @toulmin1958[213], who argues that we should 'abandon the ideal of analytic argument' and the goal of deductive certainty, a central component of Chapman and Wylie's [-@chapman2016, 36--37] argument is illustrated by a quote from @toulmin1958[248]: 
 
+
 >'The proper course for epistemology is neither to embrace nor to armour oneself against scepticism, but to moderate one's ambitions -- demanding of argument and claims of knowledge in any field not that they should measure up against analytic standards but, more realistically, that they shall achieve whatever sort of cogency or well-foundedness that can relevantly be asked for in that field.' 
+
 
 Important here is therefore that there is no universal recipe for inferential adequacy, but that inference is domain specific. What we can hope to achieve is that our inferences are credible, but this limitation should not entail a regress into whole-sale scepticism. The goal is to arrive at beliefs that are more reasonable to trust than doubt, without demanding that they should be infallible and beyond critical scrutiny.
 
