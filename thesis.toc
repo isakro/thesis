@@ -1,8 +1,8 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Figures}{x}{chapter*.3}
+\contentsline {chapter}{List of Figures}{x}{chapter*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tables}{xii}{chapter*.4}
+\contentsline {chapter}{List of Tables}{xii}{chapter*.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 

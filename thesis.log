@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2023.7.8)  6 SEP 2023 17:15
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2023.7.8)  8 SEP 2023 12:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2883,9 +2883,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: figures/dag_paper4.png Graphic file (type bmp)
 <figures/dag_paper4.png>
 
-Underfull \vbox (badness 1939) has occurred while \output is active []
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
@@ -2929,48 +2926,48 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [122
 
 ]
-Underfull \hbox (badness 1546) in paragraph at lines 1234--1234
+Underfull \hbox (badness 1546) in paragraph at lines 1236--1236
 []\TU/lmr/m/n/12 The Meaning of “Theory”. \TU/lmr/m/it/12 Sociological Theory \
 TU/lmr/m/n/12 26(2):173–199.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1231--1235
+Underfull \hbox (badness 10000) in paragraph at lines 1233--1237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1236--1240
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1241--1245
+Underfull \hbox (badness 10000) in paragraph at lines 1243--1247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1246--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1248--1252
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1251--1255
+Underfull \hbox (badness 10000) in paragraph at lines 1253--1257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1256--1260
+Underfull \hbox (badness 10000) in paragraph at lines 1258--1262
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1261--1265
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1267
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1266--1270
+Underfull \hbox (badness 10000) in paragraph at lines 1268--1272
 
  []
 
@@ -2978,42 +2975,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 1266--1270
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [123]
-Underfull \hbox (badness 10000) in paragraph at lines 1271--1274
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1275--1279
+Underfull \hbox (badness 10000) in paragraph at lines 1277--1281
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1280--1284
+Underfull \hbox (badness 10000) in paragraph at lines 1282--1286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1285--1289
+Underfull \hbox (badness 10000) in paragraph at lines 1287--1291
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1290--1294
+Underfull \hbox (badness 10000) in paragraph at lines 1292--1296
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1298
+Underfull \hbox (badness 10000) in paragraph at lines 1297--1300
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1299--1302
+Underfull \hbox (badness 10000) in paragraph at lines 1301--1304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1303--1307
+Underfull \hbox (badness 10000) in paragraph at lines 1305--1309
 
  []
 
@@ -3027,90 +3024,90 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [124]
-Underfull \hbox (badness 10000) in paragraph at lines 1308--1312
+Underfull \hbox (badness 10000) in paragraph at lines 1310--1314
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1313--1317
+Underfull \hbox (badness 10000) in paragraph at lines 1315--1319
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1320--1320
+Underfull \hbox (badness 10000) in paragraph at lines 1320--1324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1327--1327
 []\TU/lmr/m/n/12 Time perspectives, palimpsests and the archaeology of
  []
 
 
-Underfull \hbox (badness 3735) in paragraph at lines 1320--1320
+Underfull \hbox (badness 3735) in paragraph at lines 1327--1327
 \TU/lmr/m/n/12 time. \TU/lmr/m/it/12 Journal of Anthropological Archaeology \TU
 /lmr/m/n/12 26(2):198–223.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1318--1321
+Underfull \hbox (badness 10000) in paragraph at lines 1325--1328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1322--1326
+Underfull \hbox (badness 10000) in paragraph at lines 1329--1333
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1327--1331
+Underfull \hbox (badness 10000) in paragraph at lines 1334--1338
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1332--1336
+Underfull \hbox (badness 10000) in paragraph at lines 1339--1343
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1337--1341
+Underfull \hbox (badness 10000) in paragraph at lines 1344--1348
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1345--1345
+Underfull \hbox (badness 10000) in paragraph at lines 1352--1352
 []\TU/lmr/m/n/12 Southwest Norway at the Pleistocene/Holocene Transition:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1345--1345
+Underfull \hbox (badness 10000) in paragraph at lines 1352--1352
 \TU/lmr/m/n/12 Landscape Development, Colonization, Site Types, Settle-
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 1345--1345
+Underfull \hbox (badness 3029) in paragraph at lines 1352--1352
 \TU/lmr/m/n/12 ment Patterns. \TU/lmr/m/it/12 Norwegian Archaeological Review \
 TU/lmr/m/n/12 36(1):5–25.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1342--1346
+Underfull \hbox (badness 10000) in paragraph at lines 1349--1353
 
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 1349--1349
+Underfull \hbox (badness 1337) in paragraph at lines 1356--1356
 \TU/lmr/m/n/12 Before Present. \TU/lmr/m/it/12 Oxford Journal of Archaeology \T
 U/lmr/m/n/12 31(2):103–120.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1347--1350
+Underfull \hbox (badness 10000) in paragraph at lines 1354--1357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1351--1354
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1355--1359
+Underfull \hbox (badness 10000) in paragraph at lines 1358--1361
 
  []
 
@@ -3124,48 +3121,53 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [125]
-Underfull \hbox (badness 10000) in paragraph at lines 1360--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1362--1366
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1365--1369
+Underfull \hbox (badness 10000) in paragraph at lines 1367--1371
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1370--1374
+Underfull \hbox (badness 10000) in paragraph at lines 1372--1376
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1375--1379
+Underfull \hbox (badness 10000) in paragraph at lines 1377--1381
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1380--1384
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1386
 
  []
 
 
-Underfull \hbox (badness 3735) in paragraph at lines 1388--1388
+Underfull \hbox (badness 10000) in paragraph at lines 1387--1391
+
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 1395--1395
 []\TU/lmr/m/n/12 Looking for the future in the past: Long-term change in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1388--1388
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1395
 \TU/lmr/m/n/12 socioecological systems. \TU/lmr/m/it/12 Ecological Modelling \T
 U/lmr/m/n/12 241:42–53.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1385--1389
+Underfull \hbox (badness 10000) in paragraph at lines 1392--1396
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1390--1394
+Underfull \hbox (badness 10000) in paragraph at lines 1397--1401
 
  []
 
@@ -3179,70 +3181,65 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [126]
-Underfull \hbox (badness 6775) in paragraph at lines 1398--1398
+Underfull \hbox (badness 6775) in paragraph at lines 1405--1405
 []\TU/lmr/m/n/12 Bradshaw and Bayes: Towards a Timetable for the Ne-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1398--1398
+Underfull \hbox (badness 10000) in paragraph at lines 1405--1405
 \TU/lmr/m/n/12 olithic. \TU/lmr/m/it/12 Cambridge Archaeological Journal \TU/lm
 r/m/n/12 17(1):1–28.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1395--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1402--1406
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1400--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1407--1411
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1412--1416
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1410--1414
+Underfull \hbox (badness 10000) in paragraph at lines 1417--1421
 
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 1418--1418
+Underfull \hbox (badness 1406) in paragraph at lines 1425--1425
 []\TU/lmr/m/n/12 Insolation values for the climate of the last 10 million years
 .
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 1418--1418
+Underfull \hbox (badness 1668) in paragraph at lines 1425--1425
 \TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/m/n/12 10(4):297–317. DOI:[]
 10.1016/0277-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1415--1419
+Underfull \hbox (badness 10000) in paragraph at lines 1422--1426
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1420--1424
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1431
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1425--1428
+Underfull \hbox (badness 10000) in paragraph at lines 1432--1435
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1429--1433
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1434--1438
+Underfull \hbox (badness 10000) in paragraph at lines 1436--1440
 
  []
 
@@ -3256,42 +3253,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [127]
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1443
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1445
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1444--1447
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1448--1451
+Underfull \hbox (badness 10000) in paragraph at lines 1451--1454
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1452--1456
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1457--1461
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1463
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1462--1466
+Underfull \hbox (badness 10000) in paragraph at lines 1464--1468
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1471
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1472--1476
+Underfull \hbox (badness 10000) in paragraph at lines 1474--1478
 
  []
 
@@ -3305,90 +3302,69 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [128]
-Underfull \hbox (badness 2941) in paragraph at lines 1480--1480
+Underfull \hbox (badness 10000) in paragraph at lines 1479--1483
+
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 1487--1487
 []\TU/lmr/m/n/12 High frequency climate variability of the Norwegian Atlantic
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 1480--1480
+Underfull \hbox (badness 1189) in paragraph at lines 1487--1487
 \TU/lmr/m/n/12 Current during the early Holocene period and a possible con-
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 1480--1480
+Underfull \hbox (badness 1371) in paragraph at lines 1487--1487
 \TU/lmr/m/n/12 nection to the Gleissberg cycle. \TU/lmr/m/it/12 The Holocene \T
 U/lmr/m/n/12 20(2):245–255.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1477--1481
+Underfull \hbox (badness 10000) in paragraph at lines 1484--1488
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1482--1486
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1490--1490
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1497
 []\TU/lmr/m/n/12 The data deluge. \TU/lmr/m/it/12 Antiquity \TU/lmr/m/n/12 89(3
 48):1473–1484.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1491
+Underfull \hbox (badness 10000) in paragraph at lines 1494--1498
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1492--1496
+Underfull \hbox (badness 10000) in paragraph at lines 1499--1503
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1497--1501
+Underfull \hbox (badness 10000) in paragraph at lines 1504--1508
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1502--1505
+Underfull \hbox (badness 10000) in paragraph at lines 1509--1512
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1506--1509
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1516
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1510--1513
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1514--1517
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1520--1520
-[]\TU/lmr/m/n/12 Mobility, Housing, and Environment: A Comparative
- []
-
-
-Underfull \hbox (badness 6316) in paragraph at lines 1520--1520
-\TU/lmr/m/n/12 Study. \TU/lmr/m/it/12 Journal of Anthropological Research \TU/l
-mr/m/n/12 46(2):119–152.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1518--1521
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1522--1526
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1520
 
  []
 
@@ -3402,74 +3378,85 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [129]
-Underfull \hbox (badness 10000) in paragraph at lines 1527--1531
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1524
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1532--1536
+Underfull \hbox (badness 10000) in paragraph at lines 1527--1527
+[]\TU/lmr/m/n/12 Mobility, Housing, and Environment: A Comparative
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 1527--1527
+\TU/lmr/m/n/12 Study. \TU/lmr/m/it/12 Journal of Anthropological Research \TU/l
+mr/m/n/12 46(2):119–152.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1525--1528
 
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 1540--1540
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1533
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1534--1538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1539--1543
+
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 1547--1547
 []\TU/lmr/m/n/12 The Fosna-Nøstvet Problem. A Consideration of Archaeologi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1540
+Underfull \hbox (badness 10000) in paragraph at lines 1547--1547
 \TU/lmr/m/n/12 Period. \TU/lmr/m/it/12 Norwegian Archaeological Review \TU/lmr/
 m/n/12 19(2):103–121.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1537--1541
+Underfull \hbox (badness 10000) in paragraph at lines 1544--1548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1544
+Underfull \hbox (badness 10000) in paragraph at lines 1551--1551
 []\TU/lmr/m/n/12 Reply to comments on the Fosna-Nøstvet Prob-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1544--1544
+Underfull \hbox (badness 10000) in paragraph at lines 1551--1551
 \TU/lmr/m/n/12 lem. \TU/lmr/m/it/12 Norwegian Archaeological Review \TU/lmr/m/n
 /12 20(1):39–42.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1545
+Underfull \hbox (badness 10000) in paragraph at lines 1549--1552
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1546--1549
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1556
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1550--1553
+Underfull \hbox (badness 10000) in paragraph at lines 1557--1560
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1557
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1558--1561
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1562--1565
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1566--1569
+Underfull \hbox (badness 10000) in paragraph at lines 1561--1564
 
  []
 
@@ -3483,84 +3470,89 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [130]
-Underfull \hbox (badness 1776) in paragraph at lines 1572--1572
+Underfull \hbox (badness 10000) in paragraph at lines 1565--1568
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1569--1572
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1573--1576
+
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 1579--1579
 []\TU/lmr/m/n/12 What Could the “Sea Ice Machine” do to its People? On
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1573
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1580
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1577--1577
+Underfull \hbox (badness 10000) in paragraph at lines 1584--1584
 \TU/lmr/m/n/12 465. DOI:[]10.1002/(SICI)1099-1417(199711/12)12:6<455::AID-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1574--1578
+Underfull \hbox (badness 10000) in paragraph at lines 1581--1585
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1583
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1590
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1584--1587
+Underfull \hbox (badness 10000) in paragraph at lines 1591--1594
 
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 1590--1590
+Underfull \hbox (badness 1009) in paragraph at lines 1597--1597
 []\TU/lmr/m/n/12 Hedmarks stenalder. \TU/lmr/m/it/12 Universitetets Oldsaksamli
 ng Årbok \TU/lmr/m/n/12 1931–
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1591
+Underfull \hbox (badness 10000) in paragraph at lines 1595--1598
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1595--1595
+Underfull \hbox (badness 10000) in paragraph at lines 1602--1602
 []\TU/lmr/m/n/12 Holocene mean July temperature and winter precipitation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1595--1595
+Underfull \hbox (badness 10000) in paragraph at lines 1602--1602
 \TU/lmr/m/n/12 in western Norvay inferred from palynological and glacio-
  []
 
 
-Underfull \hbox (badness 5924) in paragraph at lines 1595--1595
+Underfull \hbox (badness 5924) in paragraph at lines 1602--1602
 \TU/lmr/m/n/12 logical lake-sediment proxies. \TU/lmr/m/it/12 The Holocene \TU/
 lmr/m/n/12 15(2):177–189.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1596
+Underfull \hbox (badness 10000) in paragraph at lines 1599--1603
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1597--1601
+Underfull \hbox (badness 10000) in paragraph at lines 1604--1608
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1602--1606
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1607--1610
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1615
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1613
 
  []
 
@@ -3574,59 +3566,64 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [131]
-Underfull \hbox (badness 10000) in paragraph at lines 1616--1619
+Underfull \hbox (badness 10000) in paragraph at lines 1614--1617
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1620--1624
+Underfull \hbox (badness 10000) in paragraph at lines 1618--1622
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1629
+Underfull \hbox (badness 10000) in paragraph at lines 1623--1626
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1630--1634
+Underfull \hbox (badness 10000) in paragraph at lines 1627--1631
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1632--1636
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1637--1641
 
  []
 
 Missing character: There is no ∼ in font [lmroman12-regular]:mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1639
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1646
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1643--1643
+Underfull \hbox (badness 10000) in paragraph at lines 1650--1650
 []\TU/lmr/m/n/12 Palaeo-oceanographic development and human adaptive
  []
 
 
-Underfull \hbox (badness 6575) in paragraph at lines 1643--1643
+Underfull \hbox (badness 6575) in paragraph at lines 1650--1650
 \TU/lmr/m/n/12 strategies in the Pleistocene–Holocene transition: A study
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 1643--1643
+Underfull \hbox (badness 3189) in paragraph at lines 1650--1650
 \TU/lmr/m/n/12 from the Norwegian coast. \TU/lmr/m/it/12 The Holocene \TU/lmr/m
 /n/12 24(11):1478–1490.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1640--1644
+Underfull \hbox (badness 10000) in paragraph at lines 1647--1651
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1645--1648
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1649--1653
+Underfull \hbox (badness 10000) in paragraph at lines 1652--1655
 
  []
 
@@ -3640,58 +3637,58 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [132]
-Underfull \hbox (badness 10000) in paragraph at lines 1654--1658
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1660
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1659--1663
+Underfull \hbox (badness 10000) in paragraph at lines 1661--1665
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1664--1668
+Underfull \hbox (badness 10000) in paragraph at lines 1666--1670
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1669--1673
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1675
 
  []
 
 
-Overfull \hbox (28.98134pt too wide) in paragraph at lines 1676--1676
+Underfull \hbox (badness 10000) in paragraph at lines 1676--1680
+
+ []
+
+
+Overfull \hbox (28.98134pt too wide) in paragraph at lines 1683--1683
 []\TU/lmr/m/n/12 OxCal 4.4 manual. https://c14.arch.ox.ac.uk/oxcalhelp/hlp_cont
 ents.html. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1674--1677
+Underfull \hbox (badness 10000) in paragraph at lines 1681--1684
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1678--1682
+Underfull \hbox (badness 10000) in paragraph at lines 1685--1689
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1683--1687
+Underfull \hbox (badness 10000) in paragraph at lines 1690--1694
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1688--1692
+Underfull \hbox (badness 10000) in paragraph at lines 1695--1699
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1693--1697
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1698--1702
+Underfull \hbox (badness 10000) in paragraph at lines 1700--1704
 
  []
 
@@ -3705,79 +3702,74 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [133]
-Underfull \hbox (badness 10000) in paragraph at lines 1703--1707
+Underfull \hbox (badness 10000) in paragraph at lines 1705--1709
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1708--1712
+Underfull \hbox (badness 10000) in paragraph at lines 1710--1714
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1713--1717
+Underfull \hbox (badness 10000) in paragraph at lines 1715--1719
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1721--1721
+Underfull \hbox (badness 10000) in paragraph at lines 1720--1724
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1728--1728
 []\TU/lmr/m/n/12 Radiocarbon dating uncertainty and the reliability of the
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 1721--1721
+Underfull \hbox (badness 1755) in paragraph at lines 1728--1728
 \TU/lmr/m/n/12 PEWMA method of time-series analysis for research on long-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1718--1722
+Underfull \hbox (badness 10000) in paragraph at lines 1725--1729
 
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 1726--1726
+Underfull \hbox (badness 1616) in paragraph at lines 1733--1733
 []\TU/lmr/m/n/12 Testability and meaning. \TU/lmr/m/it/12 Philosophy of Science
  \TU/lmr/m/n/12 3(4):419–471.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1723--1727
+Underfull \hbox (badness 10000) in paragraph at lines 1730--1734
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1728--1732
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1739
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1736
+Underfull \hbox (badness 10000) in paragraph at lines 1740--1743
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1737--1740
+Underfull \hbox (badness 10000) in paragraph at lines 1744--1747
 
  []
 
 
-Underfull \hbox (badness 6675) in paragraph at lines 1744--1744
+Underfull \hbox (badness 6675) in paragraph at lines 1751--1751
 []\TU/lmr/m/n/12 Archaeological Demography. \TU/lmr/m/it/12 Human Biology \TU/l
 mr/m/n/12 81(3):275–286.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1741--1745
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1746--1750
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1751--1755
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1752
 
  []
 
@@ -3791,73 +3783,72 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [134]
-Underfull \hbox (badness 10000) in paragraph at lines 1756--1760
+Underfull \hbox (badness 10000) in paragraph at lines 1753--1757
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1761--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1758--1762
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1766--1770
+Underfull \hbox (badness 10000) in paragraph at lines 1763--1767
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1771--1775
+Underfull \hbox (badness 10000) in paragraph at lines 1768--1772
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1776--1780
+Underfull \hbox (badness 10000) in paragraph at lines 1773--1777
 
  []
 
 
-Overfull \hbox (17.268pt too wide) in paragraph at lines 1783--1783
+Underfull \hbox (badness 10000) in paragraph at lines 1778--1782
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1783--1787
+
+ []
+
+
+Overfull \hbox (17.268pt too wide) in paragraph at lines 1790--1790
 []\TU/lmr/m/n/12 2015[1972] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1781--1785
+Underfull \hbox (badness 10000) in paragraph at lines 1788--1792
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1786--1789
+Overfull \hbox (17.268pt too wide) in paragraph at lines 1795--1795
+[]\TU/lmr/m/n/12 2015[1972] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1793--1797
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1790--1794
+Underfull \hbox (badness 10000) in paragraph at lines 1798--1801
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1795--1799
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1806
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1800--1804
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1808--1808
-[]\TU/lmr/m/n/12 Population Size and Cultural Evolution in Nonindus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1808--1808
-\TU/lmr/m/n/12 trial Food-Producing Societies. \TU/lmr/m/it/12 PLOS ONE \TU/lmr
-/m/n/12 8(9):e72628.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1805--1809
+Underfull \hbox (badness 10000) in paragraph at lines 1807--1811
 
  []
 
@@ -3871,63 +3862,69 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [135]
-Underfull \hbox (badness 10000) in paragraph at lines 1810--1814
+Underfull \hbox (badness 10000) in paragraph at lines 1812--1816
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1815--1819
+Underfull \hbox (badness 10000) in paragraph at lines 1820--1820
+[]\TU/lmr/m/n/12 Population Size and Cultural Evolution in Nonindus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1820--1820
+\TU/lmr/m/n/12 trial Food-Producing Societies. \TU/lmr/m/it/12 PLOS ONE \TU/lmr
+/m/n/12 8(9):e72628.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1817--1821
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1820--1824
+Underfull \hbox (badness 10000) in paragraph at lines 1822--1826
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1825--1829
+Underfull \hbox (badness 10000) in paragraph at lines 1827--1831
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1830--1834
+Underfull \hbox (badness 10000) in paragraph at lines 1832--1836
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1838--1838
+Underfull \hbox (badness 10000) in paragraph at lines 1837--1841
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1842--1846
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1850--1850
 []\TU/lmr/m/n/12 Modelling Temporal Uncertainty in Archaeological Analysis.
  []
 
 
-Underfull \hbox (badness 4765) in paragraph at lines 1838--1838
+Underfull \hbox (badness 4765) in paragraph at lines 1850--1850
 \TU/lmr/m/it/12 Journal of Archaeological Method and Theory \TU/lmr/m/n/12 19(3
 ):440–461.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1835--1839
+Underfull \hbox (badness 10000) in paragraph at lines 1847--1851
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1840--1843
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1844--1847
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1848--1852
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1853--1857
+Underfull \hbox (badness 10000) in paragraph at lines 1852--1855
 
  []
 
@@ -3941,58 +3938,52 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [136]
-Underfull \hbox (badness 2582) in paragraph at lines 1861--1861
+Underfull \hbox (badness 10000) in paragraph at lines 1856--1859
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1860--1864
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1865--1869
+
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 1873--1873
 \TU/lmr/m/n/12 models of radiocarbon dates: A case study on the Jomon-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1858--1862
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1874
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1863--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1875--1879
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1868--1872
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1884
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1873--1876
+Underfull \hbox (badness 10000) in paragraph at lines 1885--1888
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1877--1881
+Underfull \hbox (badness 10000) in paragraph at lines 1889--1893
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1882--1886
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1887--1891
-
- []
-
-
-Underfull \hbox (badness 1024) in paragraph at lines 1895--1895
-\TU/lmr/m/n/12 on Mesolithic hunter–gatherer large-scale interaction and migra-
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1892--1896
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1897--1901
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1898
 
  []
 
@@ -4006,57 +3997,53 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [137]
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1906
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1903
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1907--1911
+Underfull \hbox (badness 1024) in paragraph at lines 1907--1907
+\TU/lmr/m/n/12 on Mesolithic hunter–gatherer large-scale interaction and migra-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1912--1916
+Underfull \hbox (badness 10000) in paragraph at lines 1904--1908
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1917--1921
+Underfull \hbox (badness 10000) in paragraph at lines 1909--1913
 
  []
 
 
-Overfull \hbox (16.98001pt too wide) in paragraph at lines 1924--1924
+Underfull \hbox (badness 10000) in paragraph at lines 1914--1918
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1919--1923
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1928
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1929--1933
+
+ []
+
+
+Overfull \hbox (16.98001pt too wide) in paragraph at lines 1936--1936
 []\TU/lmr/m/n/12 1954[1914] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1922--1926
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1927--1931
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1932--1935
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1936--1940
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1941--1945
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1950
+Underfull \hbox (badness 10000) in paragraph at lines 1934--1938
 
  []
 
@@ -4070,54 +4057,52 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [138]
-Underfull \hbox (badness 10000) in paragraph at lines 1951--1955
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1943
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1956--1960
+Underfull \hbox (badness 10000) in paragraph at lines 1944--1947
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1965
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1952
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1966--1970
+Underfull \hbox (badness 10000) in paragraph at lines 1953--1957
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1971--1975
+Underfull \hbox (badness 10000) in paragraph at lines 1958--1962
 
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 1979--1979
-\TU/lmr/m/n/12 Millennium. \TU/lmr/m/it/12 Journal of Archaeological Research \
-TU/lmr/m/n/12 9(4):287–350.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1976--1980
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1967
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1981--1985
+Underfull \hbox (badness 10000) in paragraph at lines 1968--1972
 
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 1986--1990
-[]\TU/lmr/m/n/12 Eymundsson, Carine S. Rosenvinge, Guro Fossum, Lucia Uchermann
+Underfull \hbox (badness 10000) in paragraph at lines 1973--1977
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1986--1990
+Underfull \hbox (badness 10000) in paragraph at lines 1978--1982
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1983--1987
 
  []
 
@@ -4131,53 +4116,59 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [139]
-Underfull \hbox (badness 10000) in paragraph at lines 1991--1995
+Underfull \hbox (badness 2065) in paragraph at lines 1991--1991
+\TU/lmr/m/n/12 Millennium. \TU/lmr/m/it/12 Journal of Archaeological Research \
+TU/lmr/m/n/12 9(4):287–350.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1992
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1996--2000
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1997
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2001--2005
+Underfull \hbox (badness 1242) in paragraph at lines 1998--2002
+[]\TU/lmr/m/n/12 Eymundsson, Carine S. Rosenvinge, Guro Fossum, Lucia Uchermann
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2006--2010
+Underfull \hbox (badness 10000) in paragraph at lines 1998--2002
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2011--2015
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2007
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2016--2020
+Underfull \hbox (badness 10000) in paragraph at lines 2008--2012
 
  []
 
 
-Underfull \hbox (badness 1859) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/12 Observation Reconsidered. \TU/lmr/m/it/12 Philosophy of Scienc
-e \TU/lmr/m/n/12 51(1):23–43.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2021--2025
+Underfull \hbox (badness 10000) in paragraph at lines 2013--2017
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2026--2030
+Underfull \hbox (badness 10000) in paragraph at lines 2018--2022
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2031--2035
+Underfull \hbox (badness 10000) in paragraph at lines 2023--2027
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2028--2032
 
  []
 
@@ -4191,64 +4182,64 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [140]
-Underfull \hbox (badness 10000) in paragraph at lines 2036--2040
+Underfull \hbox (badness 1859) in paragraph at lines 2036--2036
+[]\TU/lmr/m/n/12 Observation Reconsidered. \TU/lmr/m/it/12 Philosophy of Scienc
+e \TU/lmr/m/n/12 51(1):23–43.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2033--2037
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2044--2044
+Underfull \hbox (badness 10000) in paragraph at lines 2038--2042
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2043--2047
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2048--2052
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2056--2056
 \TU/lmr/m/it/12 nal of Archaeological Method and Theory \TU/lmr/m/n/12 23(1):15
 0–199.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2041--2045
+Underfull \hbox (badness 10000) in paragraph at lines 2053--2057
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2046--2050
+Underfull \hbox (badness 10000) in paragraph at lines 2058--2062
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2051--2055
+Underfull \hbox (badness 10000) in paragraph at lines 2063--2067
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2056--2060
+Underfull \hbox (badness 10000) in paragraph at lines 2068--2072
 
  []
 
 
-Overfull \hbox (17.268pt too wide) in paragraph at lines 2063--2063
+Overfull \hbox (17.268pt too wide) in paragraph at lines 2075--2075
 []\TU/lmr/m/n/12 2008[1953] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2061--2065
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2066--2070
-
- []
-
-
-Underfull \hbox (badness 1571) in paragraph at lines 2074--2074
-\TU/lmr/m/n/12 nology and cultural affinity. \TU/lmr/m/it/12 Acta Archaeologica
- \TU/lmr/m/n/12 78(2):87–110.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2071--2075
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2076--2079
+Underfull \hbox (badness 10000) in paragraph at lines 2073--2077
 
  []
 
@@ -4262,12 +4253,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [141]
-Underfull \hbox (badness 10000) in paragraph at lines 2080--2083
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2082
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2084--2087
+Underfull \hbox (badness 1571) in paragraph at lines 2086--2086
+\TU/lmr/m/n/12 nology and cultural affinity. \TU/lmr/m/it/12 Acta Archaeologica
+ \TU/lmr/m/n/12 78(2):87–110.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2083--2087
 
  []
 
@@ -4282,43 +4279,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 2092--2095
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2096--2100
+Underfull \hbox (badness 10000) in paragraph at lines 2096--2099
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2101--2105
+Underfull \hbox (badness 10000) in paragraph at lines 2100--2103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2106--2110
+Underfull \hbox (badness 10000) in paragraph at lines 2104--2107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2111--2115
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2112
 
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 2119--2119
-[]\TU/lmr/m/n/12 Economic Models. \TU/lmr/m/it/12 The Journal of Philosophy \TU
-/lmr/m/n/12 75(11):664–677.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2116--2120
+Underfull \hbox (badness 10000) in paragraph at lines 2113--2117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2125
+Underfull \hbox (badness 10000) in paragraph at lines 2118--2122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2126--2130
+Underfull \hbox (badness 10000) in paragraph at lines 2123--2127
 
  []
 
@@ -4332,27 +4323,33 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [142]
-Underfull \hbox (badness 10000) in paragraph at lines 2131--2135
+Underfull \hbox (badness 1194) in paragraph at lines 2131--2131
+[]\TU/lmr/m/n/12 Economic Models. \TU/lmr/m/it/12 The Journal of Philosophy \TU
+/lmr/m/n/12 75(11):664–677.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2128--2132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2136--2140
+Underfull \hbox (badness 10000) in paragraph at lines 2133--2137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2141--2144
+Underfull \hbox (badness 10000) in paragraph at lines 2138--2142
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2145--2148
+Underfull \hbox (badness 10000) in paragraph at lines 2143--2147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2149--2152
+Underfull \hbox (badness 10000) in paragraph at lines 2148--2152
 
  []
 
@@ -4372,17 +4369,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 2161--2164
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2165--2169
+Underfull \hbox (badness 10000) in paragraph at lines 2165--2168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2170--2174
+Underfull \hbox (badness 10000) in paragraph at lines 2169--2172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2175--2179
+Underfull \hbox (badness 10000) in paragraph at lines 2173--2176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2177--2181
 
  []
 
@@ -4396,68 +4398,52 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [143]
-Underfull \hbox (badness 10000) in paragraph at lines 2180--2184
+Underfull \hbox (badness 10000) in paragraph at lines 2182--2186
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2185--2188
+Underfull \hbox (badness 10000) in paragraph at lines 2187--2191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2189--2193
+Underfull \hbox (badness 10000) in paragraph at lines 2192--2196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2194--2198
+Underfull \hbox (badness 10000) in paragraph at lines 2197--2200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2199--2203
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2205
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2204--2208
+Underfull \hbox (badness 10000) in paragraph at lines 2206--2210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2209--2213
+Underfull \hbox (badness 10000) in paragraph at lines 2211--2215
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2214--2218
+Underfull \hbox (badness 10000) in paragraph at lines 2216--2220
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2219--2223
+Underfull \hbox (badness 10000) in paragraph at lines 2221--2225
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2224--2228
-
- []
-
-
-Underfull \hbox (badness 1817) in paragraph at lines 2232--2232
-[]\TU/lmr/m/n/12 Collider bias undermines our understanding of COVID-19 dis-
- []
-
-
-Underfull \hbox (badness 3919) in paragraph at lines 2232--2232
-\TU/lmr/m/n/12 ease risk and severity. \TU/lmr/m/it/12 Nature Communications \T
-U/lmr/m/n/12 11(1):5749.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2229--2233
+Underfull \hbox (badness 10000) in paragraph at lines 2226--2230
 
  []
 
@@ -4471,60 +4457,64 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [144]
-Underfull \hbox (badness 10000) in paragraph at lines 2234--2238
+Underfull \hbox (badness 10000) in paragraph at lines 2231--2235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2239--2243
+Underfull \hbox (badness 10000) in paragraph at lines 2236--2240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2244--2248
+Underfull \hbox (badness 1817) in paragraph at lines 2244--2244
+[]\TU/lmr/m/n/12 Collider bias undermines our understanding of COVID-19 dis-
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 2244--2244
+\TU/lmr/m/n/12 ease risk and severity. \TU/lmr/m/it/12 Nature Communications \T
+U/lmr/m/n/12 11(1):5749.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2241--2245
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2252--2252
+Underfull \hbox (badness 10000) in paragraph at lines 2246--2250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2251--2255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2256--2260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2264--2264
 []\TU/lmr/m/n/12 Hunter–gatherer movement patterns: Causes and con-
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 2252--2252
+Underfull \hbox (badness 1132) in paragraph at lines 2264--2264
 \TU/lmr/m/n/12 straints. \TU/lmr/m/it/12 Journal of Anthropological Archaeology
  \TU/lmr/m/n/12 28(2):222–233.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2249--2253
+Underfull \hbox (badness 10000) in paragraph at lines 2261--2265
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2254--2258
-
- []
-
-
-Underfull \hbox (badness 1102) in paragraph at lines 2262--2262
-[]\TU/lmr/m/n/12 Periodic catastrophes over human evolutionary history are nec-
-
- []
-
-
-Underfull \hbox (badness 2922) in paragraph at lines 2262--2262
-\TU/lmr/m/n/12 essary to explain the forager population paradox. \TU/lmr/m/it/1
-2 Proceed-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2259--2263
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2264--2268
+Underfull \hbox (badness 10000) in paragraph at lines 2266--2270
 
  []
 
@@ -4538,52 +4528,59 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [145]
-Underfull \hbox (badness 10000) in paragraph at lines 2269--2273
+Underfull \hbox (badness 1102) in paragraph at lines 2274--2274
+[]\TU/lmr/m/n/12 Periodic catastrophes over human evolutionary history are nec-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2274--2278
+Underfull \hbox (badness 2922) in paragraph at lines 2274--2274
+\TU/lmr/m/n/12 essary to explain the forager population paradox. \TU/lmr/m/it/1
+2 Proceed-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2271--2275
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2279--2283
+Underfull \hbox (badness 10000) in paragraph at lines 2276--2280
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2287
+Underfull \hbox (badness 10000) in paragraph at lines 2281--2285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2288--2292
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2290
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2293--2297
+Underfull \hbox (badness 10000) in paragraph at lines 2291--2295
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2298--2302
+Underfull \hbox (badness 10000) in paragraph at lines 2296--2299
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2303--2307
+Underfull \hbox (badness 10000) in paragraph at lines 2300--2304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2308--2312
+Underfull \hbox (badness 10000) in paragraph at lines 2305--2309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2313--2317
+Underfull \hbox (badness 10000) in paragraph at lines 2310--2314
 
  []
 
@@ -4597,89 +4594,84 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [146]
-Underfull \hbox (badness 10000) in paragraph at lines 2318--2322
+Underfull \hbox (badness 10000) in paragraph at lines 2315--2319
 
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 2326--2326
+Underfull \hbox (badness 10000) in paragraph at lines 2320--2324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2325--2329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2330--2334
+
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 2338--2338
 []\TU/lmr/m/n/12 Pattern, Process, and the Scale Problem in Geographical Re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2323--2327
+Underfull \hbox (badness 10000) in paragraph at lines 2335--2339
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2328--2332
+Underfull \hbox (badness 10000) in paragraph at lines 2340--2344
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2333--2336
+Underfull \hbox (badness 10000) in paragraph at lines 2345--2348
 
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 2340--2340
+Underfull \hbox (badness 2181) in paragraph at lines 2352--2352
 []\TU/lmr/m/n/12 Beyond Baron and Kenny: Statistical Mediation Analysis in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2337--2341
+Underfull \hbox (badness 10000) in paragraph at lines 2349--2353
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2345--2345
+Underfull \hbox (badness 10000) in paragraph at lines 2357--2357
 []\TU/lmr/m/n/12 Fuck Nuance. \TU/lmr/m/it/12 Sociological Theory \TU/lmr/m/n/1
 2 35(2):118–127.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2342--2346
+Underfull \hbox (badness 10000) in paragraph at lines 2354--2358
 
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 2350--2350
+Underfull \hbox (badness 1642) in paragraph at lines 2362--2362
 []\TU/lmr/m/n/12 Setting Theoretical Egos Aside: Issues and Theory in North
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2350--2350
+Underfull \hbox (badness 10000) in paragraph at lines 2362--2362
 \TU/lmr/m/n/12 American Archaeology. \TU/lmr/m/it/12 American Antiquity \TU/lmr
 /m/n/12 68(2):213–243.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2347--2351
+Underfull \hbox (badness 10000) in paragraph at lines 2359--2363
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2352--2356
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2357--2361
-
- []
-
-
-Underfull \hbox (badness 1466) in paragraph at lines 2365--2365
-\TU/lmr/m/n/12 cesses Can Produce Maladaptive Losses—The Tasmanian Case.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2362--2366
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2367--2371
+Underfull \hbox (badness 10000) in paragraph at lines 2364--2368
 
  []
 
@@ -4693,39 +4685,44 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [147]
-Underfull \hbox (badness 10000) in paragraph at lines 2372--2376
+Underfull \hbox (badness 10000) in paragraph at lines 2369--2373
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2377--2381
+Underfull \hbox (badness 1466) in paragraph at lines 2377--2377
+\TU/lmr/m/n/12 cesses Can Produce Maladaptive Losses—The Tasmanian Case.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2374--2378
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2382--2386
+Underfull \hbox (badness 10000) in paragraph at lines 2379--2383
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2389--2389
+Underfull \hbox (badness 10000) in paragraph at lines 2384--2388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2389--2393
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2394--2398
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2401--2401
 []\TU/lmr/m/n/12 Archaeology in 1984. \TU/lmr/m/it/12 Antiquity \TU/lmr/m/n/12 
 58(222):25–32.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2387--2390
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2391--2394
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2395--2398
-
  []
 
 
@@ -4734,22 +4731,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 2399--2402
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2403--2407
+Underfull \hbox (badness 10000) in paragraph at lines 2403--2406
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2408--2412
+Underfull \hbox (badness 10000) in paragraph at lines 2407--2410
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2413--2417
+Underfull \hbox (badness 10000) in paragraph at lines 2411--2414
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2418--2422
+Underfull \hbox (badness 10000) in paragraph at lines 2415--2419
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2420--2424
 
  []
 
@@ -4763,69 +4765,69 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [148]
-Underfull \hbox (badness 10000) in paragraph at lines 2423--2427
+Underfull \hbox (badness 10000) in paragraph at lines 2425--2429
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2428--2432
+Underfull \hbox (badness 10000) in paragraph at lines 2430--2434
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2433--2437
+Underfull \hbox (badness 10000) in paragraph at lines 2435--2439
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2438--2441
+Underfull \hbox (badness 10000) in paragraph at lines 2440--2444
 
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 2444--2444
+Underfull \hbox (badness 10000) in paragraph at lines 2445--2449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2450--2453
+
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 2456--2456
 []\TU/lmr/m/n/12 Is Big Digital Data Different? Towards a New Archaeologi-
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 2444--2444
+Underfull \hbox (badness 1675) in paragraph at lines 2456--2456
 \TU/lmr/m/n/12 cal Paradigm. \TU/lmr/m/it/12 Journal of Field Archaeology \TU/l
 mr/m/n/12 45(sup1):S8–S17.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2442--2445
+Underfull \hbox (badness 10000) in paragraph at lines 2454--2457
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2446--2450
+Underfull \hbox (badness 10000) in paragraph at lines 2458--2462
 
  []
 
 
-Underfull \hbox (badness 5460) in paragraph at lines 2454--2454
+Underfull \hbox (badness 5460) in paragraph at lines 2466--2466
 []\TU/lmr/m/n/12 Pearl before economists: the book of why and empirical
  []
 
 
-Underfull \hbox (badness 2922) in paragraph at lines 2454--2454
+Underfull \hbox (badness 2922) in paragraph at lines 2466--2466
 \TU/lmr/m/n/12 economics. \TU/lmr/m/it/12 Journal of Economic Methodology \TU/l
 mr/m/n/12 29(4):326–334.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2451--2455
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2456--2460
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2461--2465
+Underfull \hbox (badness 10000) in paragraph at lines 2463--2467
 
  []
 
@@ -4839,52 +4841,52 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [149]
-Underfull \hbox (badness 10000) in paragraph at lines 2466--2470
+Underfull \hbox (badness 10000) in paragraph at lines 2468--2472
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2471--2475
+Underfull \hbox (badness 10000) in paragraph at lines 2473--2477
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2476--2479
+Underfull \hbox (badness 10000) in paragraph at lines 2478--2482
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2480--2484
+Underfull \hbox (badness 10000) in paragraph at lines 2483--2487
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2485--2489
+Underfull \hbox (badness 10000) in paragraph at lines 2488--2491
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2490--2493
+Underfull \hbox (badness 10000) in paragraph at lines 2492--2496
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2494--2498
+Underfull \hbox (badness 10000) in paragraph at lines 2497--2501
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2499--2503
+Underfull \hbox (badness 10000) in paragraph at lines 2502--2505
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2504--2508
+Underfull \hbox (badness 10000) in paragraph at lines 2506--2510
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2509--2513
+Underfull \hbox (badness 10000) in paragraph at lines 2511--2515
 
  []
 
@@ -4898,69 +4900,69 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [150]
-Underfull \hbox (badness 10000) in paragraph at lines 2517--2517
+Underfull \hbox (badness 10000) in paragraph at lines 2516--2520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2521--2525
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2529--2529
 []\TU/lmr/m/n/12 On the nature of theoretical archaeology and archaeo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2517--2517
+Underfull \hbox (badness 10000) in paragraph at lines 2529--2529
 \TU/lmr/m/n/12 logical theory. \TU/lmr/m/it/12 Archaeological Dialogues \TU/lmr
 /m/n/12 13(2):117–132.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2514--2518
+Underfull \hbox (badness 10000) in paragraph at lines 2526--2530
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2519--2523
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2535
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2524--2527
+Underfull \hbox (badness 10000) in paragraph at lines 2536--2539
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2528--2532
+Underfull \hbox (badness 10000) in paragraph at lines 2540--2544
 
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 2535--2535
+Underfull \hbox (badness 5607) in paragraph at lines 2547--2547
 []\TU/lmr/m/n/12 Scalar Effects in Ground Slate Technology and the Adap-
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 2535--2535
+Underfull \hbox (badness 2426) in paragraph at lines 2547--2547
 \TU/lmr/m/n/12 tive Consequences for Circumpolar Maritime Hunter-Gatherers.
  []
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 2535--2535
+Underfull \hbox (badness 1931) in paragraph at lines 2547--2547
 \TU/lmr/m/it/12 Journal of Archaeological Method and Theory \TU/lmr/m/n/12 28(3
 33):333–385.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2536
+Underfull \hbox (badness 10000) in paragraph at lines 2545--2548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2537--2541
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2542--2546
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2547--2551
+Underfull \hbox (badness 10000) in paragraph at lines 2549--2553
 
  []
 
@@ -4974,74 +4976,69 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [151]
-Underfull \hbox (badness 10000) in paragraph at lines 2552--2556
+Underfull \hbox (badness 10000) in paragraph at lines 2554--2558
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2557--2560
+Underfull \hbox (badness 10000) in paragraph at lines 2559--2563
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2561--2565
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2568
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2566--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2569--2572
 
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 2574--2574
+Underfull \hbox (badness 10000) in paragraph at lines 2573--2577
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2578--2582
+
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 2586--2586
 []\TU/lmr/m/n/12 Genes versus agents. A discussion of the widening theoreti-
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 2574--2574
+Underfull \hbox (badness 2005) in paragraph at lines 2586--2586
 \TU/lmr/m/n/12 cal gap in archaeology. \TU/lmr/m/it/12 Archaeological Dialogues
  \TU/lmr/m/n/12 11(2):77–99.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2571--2575
+Underfull \hbox (badness 10000) in paragraph at lines 2583--2587
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2576--2580
+Underfull \hbox (badness 10000) in paragraph at lines 2588--2592
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2581--2585
+Underfull \hbox (badness 10000) in paragraph at lines 2593--2597
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2589--2589
+Underfull \hbox (badness 10000) in paragraph at lines 2601--2601
 []\TU/lmr/m/n/12 Open archaeology. \TU/lmr/m/it/12 World Archaeology \TU/lmr/m/
 n/12 44(4):471–478.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2586--2590
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2591--2594
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2595--2598
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2599--2603
+Underfull \hbox (badness 10000) in paragraph at lines 2598--2602
 
  []
 
@@ -5055,70 +5052,64 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [152]
-Underfull \hbox (badness 10000) in paragraph at lines 2604--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2603--2606
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2609--2613
+Underfull \hbox (badness 10000) in paragraph at lines 2607--2610
 
  []
 
 
-Underfull \hbox (badness 6380) in paragraph at lines 2617--2617
+Underfull \hbox (badness 10000) in paragraph at lines 2611--2615
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2616--2620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2621--2625
+
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 2629--2629
 []\TU/lmr/m/n/12 New Views on Hunters and Gatherers Emerge. \TU/lmr/m/it/12 Sci
 ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2614--2618
+Underfull \hbox (badness 10000) in paragraph at lines 2626--2630
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2622--2622
+Underfull \hbox (badness 10000) in paragraph at lines 2634--2634
 []\TU/lmr/m/n/12 Causation. \TU/lmr/m/it/12 The Journal of Philosophy \TU/lmr/m
 /n/12 70(17):556–557.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2619--2623
+Underfull \hbox (badness 10000) in paragraph at lines 2631--2635
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2624--2628
+Underfull \hbox (badness 10000) in paragraph at lines 2636--2640
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2629--2633
+Underfull \hbox (badness 10000) in paragraph at lines 2641--2645
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2634--2638
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2639--2643
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2647--2647
-[]\TU/lmr/m/n/12 . \TU/lmr/m/it/12 Journal of Quaternary Science \TU/lmr/m/n/12
- 28(5):490–500.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2644--2648
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2652
+Underfull \hbox (badness 10000) in paragraph at lines 2646--2650
 
  []
 
@@ -5132,84 +5123,73 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [153]
-Underfull \hbox (badness 10000) in paragraph at lines 2653--2657
+Underfull \hbox (badness 10000) in paragraph at lines 2651--2655
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2658--2662
+Underfull \hbox (badness 10000) in paragraph at lines 2656--2660
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2663--2666
+Underfull \hbox (badness 10000) in paragraph at lines 2661--2664
 
  []
 
 
-Underfull \hbox (badness 3826) in paragraph at lines 2670--2670
+Underfull \hbox (badness 10000) in paragraph at lines 2665--2669
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2670--2674
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2675--2678
+
+ []
+
+
+Underfull \hbox (badness 3826) in paragraph at lines 2682--2682
 []\TU/lmr/m/n/12 Living through changing climates: Temperature and season-
  []
 
 
-Underfull \hbox (badness 5548) in paragraph at lines 2670--2670
+Underfull \hbox (badness 5548) in paragraph at lines 2682--2682
 \TU/lmr/m/n/12 ality correlate with population fluctuations among Holocene
  []
 
 
-Underfull \hbox (badness 4242) in paragraph at lines 2670--2670
+Underfull \hbox (badness 4242) in paragraph at lines 2682--2682
 \TU/lmr/m/n/12 hunter-fisher-gatherers on the west coast of Norway. \TU/lmr/m/i
 t/12 The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2667--2671
+Underfull \hbox (badness 10000) in paragraph at lines 2679--2683
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2672--2676
+Underfull \hbox (badness 10000) in paragraph at lines 2684--2688
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2677--2681
+Underfull \hbox (badness 10000) in paragraph at lines 2689--2693
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2682--2686
+Underfull \hbox (badness 10000) in paragraph at lines 2694--2698
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2687--2691
-
- []
-
-
-Underfull \hbox (badness 3803) in paragraph at lines 2695--2695
-[]\TU/lmr/m/n/12 First encounters in the north: cultural diversity and gene
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2692--2696
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2700--2700
-[]\TU/lmr/m/n/12 Human responses to early Holocene climate variability in
- []
-
-
-Underfull \hbox (badness 3407) in paragraph at lines 2700--2700
-\TU/lmr/m/n/12 eastern Fennoscandia. \TU/lmr/m/it/12 Quaternary International \
-TU/lmr/m/n/12 465:287–297.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2697--2701
+Underfull \hbox (badness 10000) in paragraph at lines 2699--2703
 
  []
 
@@ -5223,76 +5203,81 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [154]
-Underfull \hbox (badness 10000) in paragraph at lines 2702--2706
+Underfull \hbox (badness 3803) in paragraph at lines 2707--2707
+[]\TU/lmr/m/n/12 First encounters in the north: cultural diversity and gene
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2704--2708
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2707--2711
+Underfull \hbox (badness 10000) in paragraph at lines 2712--2712
+[]\TU/lmr/m/n/12 Human responses to early Holocene climate variability in
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 2712--2712
+\TU/lmr/m/n/12 eastern Fennoscandia. \TU/lmr/m/it/12 Quaternary International \
+TU/lmr/m/n/12 465:287–297.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2709--2713
 
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 2715--2715
+Underfull \hbox (badness 10000) in paragraph at lines 2714--2718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2719--2723
+
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 2727--2727
 []\TU/lmr/m/n/12 The origins and significance of coastal resource use in Africa
 
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 2715--2715
+Underfull \hbox (badness 1205) in paragraph at lines 2727--2727
 \TU/lmr/m/n/12 and Western Eurasia. \TU/lmr/m/it/12 Journal of Human Evolution 
 \TU/lmr/m/n/12 77:17–40.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2712--2716
+Underfull \hbox (badness 10000) in paragraph at lines 2724--2728
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2717--2721
+Underfull \hbox (badness 10000) in paragraph at lines 2729--2733
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2722--2725
+Underfull \hbox (badness 10000) in paragraph at lines 2734--2737
 
  []
 
 
-Underfull \hbox (badness 2409) in paragraph at lines 2728--2728
+Underfull \hbox (badness 2409) in paragraph at lines 2740--2740
 []\TU/lmr/m/n/12 Open Access to Publications to Expand Participation in Ar-
  []
 
 
-Underfull \hbox (badness 7451) in paragraph at lines 2728--2728
+Underfull \hbox (badness 7451) in paragraph at lines 2740--2740
 \TU/lmr/m/n/12 chaeology. \TU/lmr/m/it/12 Norwegian Archaeological Review \TU/l
 mr/m/n/12 53(2):163–169.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2726--2729
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2733--2733
-[]\TU/lmr/m/n/12 Packaging Data Analytical Work Reproducibly Using R
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2733--2733
-\TU/lmr/m/n/12 (and Friends). \TU/lmr/m/it/12 The American Statistician \TU/lmr
-/m/n/12 72(1):80–88.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2730--2734
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2735--2739
+Underfull \hbox (badness 10000) in paragraph at lines 2738--2741
 
  []
 
@@ -5306,47 +5291,48 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [155]
-Underfull \hbox (badness 10000) in paragraph at lines 2740--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2745--2745
+[]\TU/lmr/m/n/12 Packaging Data Analytical Work Reproducibly Using R
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2745--2745
+\TU/lmr/m/n/12 (and Friends). \TU/lmr/m/it/12 The American Statistician \TU/lmr
+/m/n/12 72(1):80–88.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2742--2746
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2745--2749
+Underfull \hbox (badness 10000) in paragraph at lines 2747--2751
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2750--2754
+Underfull \hbox (badness 10000) in paragraph at lines 2752--2756
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2755--2759
+Underfull \hbox (badness 10000) in paragraph at lines 2757--2761
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2760--2764
+Underfull \hbox (badness 10000) in paragraph at lines 2762--2766
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2765--2769
+Underfull \hbox (badness 10000) in paragraph at lines 2767--2771
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2770--2773
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2774--2777
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2778--2781
+Underfull \hbox (badness 10000) in paragraph at lines 2772--2776
 
  []
 
@@ -5360,78 +5346,83 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [156]
+Underfull \hbox (badness 10000) in paragraph at lines 2777--2781
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 2782--2785
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2786--2790
+Underfull \hbox (badness 10000) in paragraph at lines 2786--2789
 
  []
 
 
-Overfull \hbox (17.268pt too wide) in paragraph at lines 2793--2793
+Underfull \hbox (badness 10000) in paragraph at lines 2790--2793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2794--2797
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2798--2802
+
+ []
+
+
+Overfull \hbox (17.268pt too wide) in paragraph at lines 2805--2805
 []\TU/lmr/m/n/12 2018[1859] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2791--2795
+Underfull \hbox (badness 10000) in paragraph at lines 2803--2807
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2796--2800
+Underfull \hbox (badness 10000) in paragraph at lines 2808--2812
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2801--2805
+Underfull \hbox (badness 10000) in paragraph at lines 2813--2817
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2808--2808
+Underfull \hbox (badness 10000) in paragraph at lines 2820--2820
 []\TU/lmr/m/n/12 Searching for eustasy in deglacial sea-level histo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2808--2808
+Underfull \hbox (badness 10000) in paragraph at lines 2820--2820
 \TU/lmr/m/n/12 ries. \TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/m/n/12 
 27(25):2292–2302.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2806--2809
+Underfull \hbox (badness 10000) in paragraph at lines 2818--2821
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2810--2814
+Underfull \hbox (badness 10000) in paragraph at lines 2822--2826
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2815--2819
+Underfull \hbox (badness 10000) in paragraph at lines 2827--2831
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2820--2823
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2824--2828
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2829--2832
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2833--2836
+Underfull \hbox (badness 10000) in paragraph at lines 2832--2835
 
  []
 
@@ -5445,81 +5436,69 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [157]
-Underfull \hbox (badness 10000) in paragraph at lines 2837--2841
+Underfull \hbox (badness 10000) in paragraph at lines 2836--2840
 
  []
 
 
-Underfull \hbox (badness 3078) in paragraph at lines 2845--2845
+Underfull \hbox (badness 10000) in paragraph at lines 2841--2844
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2845--2848
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2849--2853
+
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 2857--2857
 \TU/lmr/m/n/12 bility. \TU/lmr/m/it/12 Journal of Anthropological Archaeology \
 TU/lmr/m/n/12 28(4):382–396.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2842--2846
+Underfull \hbox (badness 10000) in paragraph at lines 2854--2858
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2850--2850
+Underfull \hbox (badness 10000) in paragraph at lines 2862--2862
 []\TU/lmr/m/n/12 DIY and digital archaeology: what are you do-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2850--2850
+Underfull \hbox (badness 10000) in paragraph at lines 2862--2862
 \TU/lmr/m/n/12 ing to participate? \TU/lmr/m/it/12 World Archaeology \TU/lmr/m/
 n/12 44(4):521–537.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2847--2851
+Underfull \hbox (badness 10000) in paragraph at lines 2859--2863
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2852--2856
+Underfull \hbox (badness 10000) in paragraph at lines 2864--2868
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2857--2861
+Underfull \hbox (badness 10000) in paragraph at lines 2869--2873
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2862--2865
+Underfull \hbox (badness 10000) in paragraph at lines 2874--2877
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2866--2870
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2871--2875
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2876--2880
-
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 2884--2884
-[]\TU/lmr/m/n/12 Latest Pleistocene and Holocene alpine glacier fluctuations in
-
- []
-
-
-Underfull \hbox (badness 5189) in paragraph at lines 2884--2884
-\TU/lmr/m/n/12 Scandinavia. \TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/
-m/n/12 28(21):2119–2136.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2881--2885
+Underfull \hbox (badness 10000) in paragraph at lines 2878--2882
 
  []
 
@@ -5533,42 +5512,54 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [158]
-Underfull \hbox (badness 10000) in paragraph at lines 2886--2890
+Underfull \hbox (badness 10000) in paragraph at lines 2883--2887
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2891--2895
+Underfull \hbox (badness 10000) in paragraph at lines 2888--2892
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2896--2900
+Underfull \hbox (badness 2111) in paragraph at lines 2896--2896
+[]\TU/lmr/m/n/12 Latest Pleistocene and Holocene alpine glacier fluctuations in
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2901--2905
+Underfull \hbox (badness 5189) in paragraph at lines 2896--2896
+\TU/lmr/m/n/12 Scandinavia. \TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/
+m/n/12 28(21):2119–2136.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2893--2897
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2906--2909
+Underfull \hbox (badness 10000) in paragraph at lines 2898--2902
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2910--2914
+Underfull \hbox (badness 10000) in paragraph at lines 2903--2907
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2915--2919
+Underfull \hbox (badness 10000) in paragraph at lines 2908--2912
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2920--2924
+Underfull \hbox (badness 10000) in paragraph at lines 2913--2917
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2918--2921
 
  []
 
@@ -5582,73 +5573,68 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [159]
-Underfull \hbox (badness 10000) in paragraph at lines 2925--2929
+Underfull \hbox (badness 10000) in paragraph at lines 2922--2926
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2930--2934
+Underfull \hbox (badness 10000) in paragraph at lines 2927--2931
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2935--2939
+Underfull \hbox (badness 10000) in paragraph at lines 2932--2936
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2940--2943
+Underfull \hbox (badness 10000) in paragraph at lines 2937--2941
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2944--2948
+Underfull \hbox (badness 10000) in paragraph at lines 2942--2946
 
  []
 
 
-Underfull \hbox (badness 4156) in paragraph at lines 2952--2952
+Underfull \hbox (badness 10000) in paragraph at lines 2947--2950
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2951--2955
+
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 2959--2959
 []\TU/lmr/m/n/12 Lokaliseringsanalyse av tidligmesolittiske pionerboplasser. In
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2949--2953
+Underfull \hbox (badness 10000) in paragraph at lines 2956--2960
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2954--2957
+Underfull \hbox (badness 10000) in paragraph at lines 2961--2964
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2958--2962
+Underfull \hbox (badness 10000) in paragraph at lines 2965--2969
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2963--2967
+Underfull \hbox (badness 10000) in paragraph at lines 2970--2974
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2968--2972
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2973--2976
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2977--2981
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2982--2986
+Underfull \hbox (badness 10000) in paragraph at lines 2975--2979
 
  []
 
@@ -5662,68 +5648,73 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [160]
-Underfull \hbox (badness 10000) in paragraph at lines 2987--2991
+Underfull \hbox (badness 10000) in paragraph at lines 2980--2983
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2992--2996
+Underfull \hbox (badness 10000) in paragraph at lines 2984--2988
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2997--3000
+Underfull \hbox (badness 10000) in paragraph at lines 2989--2993
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3001--3004
+Underfull \hbox (badness 10000) in paragraph at lines 2994--2998
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3005--3008
+Underfull \hbox (badness 10000) in paragraph at lines 2999--3003
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3009--3012
+Underfull \hbox (badness 10000) in paragraph at lines 3004--3007
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3013--3017
+Underfull \hbox (badness 10000) in paragraph at lines 3008--3011
 
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 3021--3021
+Underfull \hbox (badness 10000) in paragraph at lines 3012--3015
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3016--3019
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3020--3024
+
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 3028--3028
 []\TU/lmr/m/n/12 Genesis and taphonomy of the archaeological layers of Pe-
  []
 
 
-Underfull \hbox (badness 4229) in paragraph at lines 3021--3021
+Underfull \hbox (badness 4229) in paragraph at lines 3028--3028
 \TU/lmr/m/n/12 dra Furada rock-shelter, Brazil. \TU/lmr/m/it/12 Quaternaire \TU
 /lmr/m/n/12 29(3):255–269.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3018--3022
+Underfull \hbox (badness 10000) in paragraph at lines 3025--3029
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3023--3027
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3028--3032
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3033--3037
+Underfull \hbox (badness 10000) in paragraph at lines 3030--3034
 
  []
 
@@ -5737,47 +5728,47 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [161]
-Underfull \hbox (badness 10000) in paragraph at lines 3038--3042
+Underfull \hbox (badness 10000) in paragraph at lines 3035--3039
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3043--3047
+Underfull \hbox (badness 10000) in paragraph at lines 3040--3044
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3048--3052
+Underfull \hbox (badness 10000) in paragraph at lines 3045--3049
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3053--3056
+Underfull \hbox (badness 10000) in paragraph at lines 3050--3054
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3057--3060
+Underfull \hbox (badness 10000) in paragraph at lines 3055--3059
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3061--3065
+Underfull \hbox (badness 10000) in paragraph at lines 3060--3063
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3066--3070
+Underfull \hbox (badness 10000) in paragraph at lines 3064--3067
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3071--3075
+Underfull \hbox (badness 10000) in paragraph at lines 3068--3072
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3076--3080
+Underfull \hbox (badness 10000) in paragraph at lines 3073--3077
 
  []
 
@@ -5791,69 +5782,69 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [162]
-Underfull \hbox (badness 10000) in paragraph at lines 3081--3085
+Underfull \hbox (badness 10000) in paragraph at lines 3078--3082
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3086--3090
+Underfull \hbox (badness 10000) in paragraph at lines 3083--3087
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3094--3094
+Underfull \hbox (badness 10000) in paragraph at lines 3088--3092
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3093--3097
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3101--3101
 []\TU/lmr/m/n/12 Patchiness and Prosociality: An Agent-Based Model of
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 3094--3094
+Underfull \hbox (badness 1953) in paragraph at lines 3101--3101
 \TU/lmr/m/n/12 Plio/Pleistocene Hominid Food Sharing. In \TU/lmr/m/it/12 Multi-
 Agent and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3091--3095
+Underfull \hbox (badness 10000) in paragraph at lines 3098--3102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3096--3099
+Underfull \hbox (badness 10000) in paragraph at lines 3103--3106
 
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 3103--3103
+Underfull \hbox (badness 7722) in paragraph at lines 3110--3110
 []\TU/lmr/m/n/12 Modeling Effects of Local Extinctions on Culture Change
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 3103--3103
+Underfull \hbox (badness 2717) in paragraph at lines 3110--3110
 \TU/lmr/m/n/12 and Diversity in the Paleolithic. \TU/lmr/m/it/12 PLOS ONE \TU/l
 mr/m/n/12 5(12):e15582.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3100--3104
+Underfull \hbox (badness 10000) in paragraph at lines 3107--3111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3105--3109
+Underfull \hbox (badness 10000) in paragraph at lines 3112--3116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3110--3113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3114--3118
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3119--3123
+Underfull \hbox (badness 10000) in paragraph at lines 3117--3120
 
  []
 
@@ -5867,79 +5858,79 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [163]
-Underfull \hbox (badness 10000) in paragraph at lines 3124--3127
+Underfull \hbox (badness 10000) in paragraph at lines 3121--3125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3128--3132
+Underfull \hbox (badness 10000) in paragraph at lines 3126--3130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3133--3137
+Underfull \hbox (badness 10000) in paragraph at lines 3131--3134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3138--3142
+Underfull \hbox (badness 10000) in paragraph at lines 3135--3139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3143--3147
+Underfull \hbox (badness 10000) in paragraph at lines 3140--3144
 
  []
 
 
-Underfull \hbox (badness 2680) in paragraph at lines 3151--3151
+Underfull \hbox (badness 10000) in paragraph at lines 3145--3149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3150--3154
+
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 3158--3158
 []\TU/lmr/m/n/12 Middle-Range Theory in Archaeology: A Critical Review of
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 3151--3151
+Underfull \hbox (badness 2452) in paragraph at lines 3158--3158
 \TU/lmr/m/n/12 Origins and Applications. \TU/lmr/m/it/12 American Antiquity \TU
 /lmr/m/n/12 49(2):255–268.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3148--3152
+Underfull \hbox (badness 10000) in paragraph at lines 3155--3159
 
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 3156--3156
+Underfull \hbox (badness 1975) in paragraph at lines 3163--3163
 []\TU/lmr/m/n/12 A stratigraphic framework for abrupt climatic changes during
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 3156--3156
+Underfull \hbox (badness 3118) in paragraph at lines 3163--3163
 \TU/lmr/m/n/12 the Last Glacial period based on three synchronized Green-
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 3156--3156
+Underfull \hbox (badness 1688) in paragraph at lines 3163--3163
 \TU/lmr/m/n/12 land ice-core records: refining and extending the INTIMATE
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 3156--3156
+Underfull \hbox (badness 5147) in paragraph at lines 3163--3163
 \TU/lmr/m/n/12 event stratigraphy. \TU/lmr/m/it/12 Quaternary Science Reviews \
 TU/lmr/m/n/12 106:14–28.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3153--3157
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3158--3162
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3163--3167
+Underfull \hbox (badness 10000) in paragraph at lines 3160--3164
 
  []
 
@@ -5953,58 +5944,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [164]
-Underfull \hbox (badness 10000) in paragraph at lines 3168--3172
+Underfull \hbox (badness 10000) in paragraph at lines 3165--3169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3173--3177
+Underfull \hbox (badness 10000) in paragraph at lines 3170--3174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3178--3181
+Underfull \hbox (badness 10000) in paragraph at lines 3175--3179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3182--3186
+Underfull \hbox (badness 10000) in paragraph at lines 3180--3184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3187--3191
+Underfull \hbox (badness 10000) in paragraph at lines 3185--3188
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3192--3196
+Underfull \hbox (badness 10000) in paragraph at lines 3189--3193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3197--3201
+Underfull \hbox (badness 10000) in paragraph at lines 3194--3198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3202--3206
-
- []
-
-
-Underfull \hbox (badness 3989) in paragraph at lines 3210--3210
-[]\TU/lmr/m/n/12 House of cards: cultural taxonomy and the study of the
- []
-
-
-Underfull \hbox (badness 7379) in paragraph at lines 3210--3210
-\TU/lmr/m/n/12 European Upper Palaeolithic. \TU/lmr/m/it/12 Antiquity \TU/lmr/m
-/n/12 93(371):1350–1358.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3207--3211
+Underfull \hbox (badness 10000) in paragraph at lines 3199--3203
 
  []
 
@@ -6018,85 +5993,84 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [165]
-Underfull \hbox (badness 10000) in paragraph at lines 3212--3216
+Underfull \hbox (badness 10000) in paragraph at lines 3204--3208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3217--3221
+Underfull \hbox (badness 10000) in paragraph at lines 3209--3213
 
  []
 
 
-Underfull \hbox (badness 2261) in paragraph at lines 3224--3224
+Underfull \hbox (badness 3989) in paragraph at lines 3217--3217
+[]\TU/lmr/m/n/12 House of cards: cultural taxonomy and the study of the
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 3217--3217
+\TU/lmr/m/n/12 European Upper Palaeolithic. \TU/lmr/m/it/12 Antiquity \TU/lmr/m
+/n/12 93(371):1350–1358.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3214--3218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3219--3223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3224--3228
+
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 3231--3231
 []\TU/lmr/m/n/12 Success and failure during the Lateglacial pioneer human re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3222--3225
+Underfull \hbox (badness 10000) in paragraph at lines 3229--3232
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3226--3230
+Underfull \hbox (badness 10000) in paragraph at lines 3233--3237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3231--3235
+Underfull \hbox (badness 10000) in paragraph at lines 3238--3242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3236--3240
+Underfull \hbox (badness 10000) in paragraph at lines 3243--3247
 
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 3244--3244
+Underfull \hbox (badness 1755) in paragraph at lines 3251--3251
 []\TU/lmr/m/n/12 Standing at the gates of Europe: Human behavior and bio-
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 3244--3244
+Underfull \hbox (badness 1242) in paragraph at lines 3251--3251
 \TU/lmr/m/n/12 geography in the Southern Carpathians during the Late Pleis-
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 3244--3244
+Underfull \hbox (badness 1810) in paragraph at lines 3251--3251
 \TU/lmr/m/n/12 tocene. \TU/lmr/m/it/12 Journal of Anthropological Archaeology \
 TU/lmr/m/n/12 27(4):399–417.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3241--3245
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3246--3250
-
- []
-
-
-Underfull \hbox (badness 3058) in paragraph at lines 3254--3254
-\TU/lmr/m/n/12 tlement patterns in Mesolithic south-eastern Norway. \TU/lmr/m/i
-t/12 Jour-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3254--3254
-\TU/lmr/m/it/12 nal of Computer Applications in Archaeology \TU/lmr/m/n/12 3(1)
-:288–307.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3251--3255
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3256--3259
+Underfull \hbox (badness 10000) in paragraph at lines 3248--3252
 
  []
 
@@ -6110,102 +6084,108 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [166]
-Underfull \hbox (badness 2818) in paragraph at lines 3262--3262
+Underfull \hbox (badness 10000) in paragraph at lines 3253--3257
+
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 3261--3261
+\TU/lmr/m/n/12 tlement patterns in Mesolithic south-eastern Norway. \TU/lmr/m/i
+t/12 Jour-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3261--3261
+\TU/lmr/m/it/12 nal of Computer Applications in Archaeology \TU/lmr/m/n/12 3(1)
+:288–307.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3258--3262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3263--3266
+
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 3269--3269
 []\TU/lmr/m/n/12 A simulation-based assessment of the relation between Stone
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 3262--3262
+Underfull \hbox (badness 3019) in paragraph at lines 3269--3269
 \TU/lmr/m/n/12 Age sites and relative sea-level change along the Norwegian
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 3262--3262
+Underfull \hbox (badness 7099) in paragraph at lines 3269--3269
 \TU/lmr/m/n/12 Skagerrak coast. \TU/lmr/m/it/12 Quaternary Science Reviews \TU/
 lmr/m/n/12 299:107880.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3260--3263
+Underfull \hbox (badness 10000) in paragraph at lines 3267--3270
 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 3266--3266
+Underfull \hbox (badness 2119) in paragraph at lines 3273--3273
 []\TU/lmr/m/n/12 shoredate: An R package for shoreline dating coastal Stone
  []
 
 
-Underfull \hbox (badness 6284) in paragraph at lines 3266--3266
+Underfull \hbox (badness 6284) in paragraph at lines 3273--3273
 \TU/lmr/m/n/12 Age sites. \TU/lmr/m/it/12 Journal of Open Source Software \TU/l
 mr/m/n/12 8(85):5337.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3264--3267
+Underfull \hbox (badness 10000) in paragraph at lines 3271--3274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3268--3272
+Underfull \hbox (badness 10000) in paragraph at lines 3275--3279
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3273--3277
+Underfull \hbox (badness 10000) in paragraph at lines 3280--3284
 
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 3281--3281
+Underfull \hbox (badness 2913) in paragraph at lines 3288--3288
 []\TU/lmr/m/n/12 Thinking Clearly About Correlations and Causation: Graph-
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 3281--3281
+Underfull \hbox (badness 4967) in paragraph at lines 3288--3288
 \TU/lmr/m/n/12 ical Causal Models for Observational Data. \TU/lmr/m/it/12 Advan
 ces in
  []
 
 
-Underfull \hbox (badness 7814) in paragraph at lines 3281--3281
+Underfull \hbox (badness 7814) in paragraph at lines 3288--3288
 \TU/lmr/m/it/12 Methods and Practices in Psychological Science \TU/lmr/m/n/12 1
 (1):27–42.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3278--3282
+Underfull \hbox (badness 10000) in paragraph at lines 3285--3289
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3283--3287
+Underfull \hbox (badness 10000) in paragraph at lines 3290--3294
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3288--3292
-
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 3296--3296
-\TU/lmr/m/n/12 ern Norway. \TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/m
-/n/12 30(19-20):2398–2421.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3293--3297
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3298--3302
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3303--3307
+Underfull \hbox (badness 10000) in paragraph at lines 3295--3299
 
  []
 
@@ -6219,58 +6199,58 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [167]
-Underfull \hbox (badness 10000) in paragraph at lines 3308--3311
+Underfull \hbox (badness 1215) in paragraph at lines 3303--3303
+\TU/lmr/m/n/12 ern Norway. \TU/lmr/m/it/12 Quaternary Science Reviews \TU/lmr/m
+/n/12 30(19-20):2398–2421.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3300--3304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3312--3316
+Underfull \hbox (badness 10000) in paragraph at lines 3305--3309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3317--3321
+Underfull \hbox (badness 10000) in paragraph at lines 3310--3314
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3322--3326
+Underfull \hbox (badness 10000) in paragraph at lines 3315--3318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3327--3331
+Underfull \hbox (badness 10000) in paragraph at lines 3319--3323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3332--3336
+Underfull \hbox (badness 10000) in paragraph at lines 3324--3328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3337--3341
+Underfull \hbox (badness 10000) in paragraph at lines 3329--3333
 
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 3345--3345
-[]\TU/lmr/m/n/12 Last nine-thousand years of temperature variability in North-
- []
-
-
-Underfull \hbox (badness 8170) in paragraph at lines 3345--3345
-\TU/lmr/m/n/12 ern Europe. \TU/lmr/m/it/12 Boreas \TU/lmr/m/n/12 31(3):523–535.
- DOI:[]10.1111/j.1502-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3342--3346
+Underfull \hbox (badness 10000) in paragraph at lines 3334--3338
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3347--3351
+Underfull \hbox (badness 10000) in paragraph at lines 3339--3343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3344--3348
 
  []
 
@@ -6284,47 +6264,58 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [168]
-Underfull \hbox (badness 10000) in paragraph at lines 3352--3356
+Underfull \hbox (badness 2302) in paragraph at lines 3352--3352
+[]\TU/lmr/m/n/12 Last nine-thousand years of temperature variability in North-
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 3352--3352
+\TU/lmr/m/n/12 ern Europe. \TU/lmr/m/it/12 Boreas \TU/lmr/m/n/12 31(3):523–535.
+ DOI:[]10.1111/j.1502-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3349--3353
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3357--3361
+Underfull \hbox (badness 10000) in paragraph at lines 3354--3358
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3362--3366
+Underfull \hbox (badness 10000) in paragraph at lines 3359--3363
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3367--3371
+Underfull \hbox (badness 10000) in paragraph at lines 3364--3368
 
  []
 
 
-Underfull \hbox (badness 2846) in paragraph at lines 3374--3374
+Underfull \hbox (badness 10000) in paragraph at lines 3369--3373
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3374--3378
+
+ []
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 3381--3381
 []\TU/lmr/m/n/12 From Coastal Sites to Elevated Hinterland Locations in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3372--3375
+Underfull \hbox (badness 10000) in paragraph at lines 3379--3382
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3376--3380
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3381--3385
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3386--3390
+Underfull \hbox (badness 10000) in paragraph at lines 3383--3387
 
  []
 
@@ -6338,70 +6329,69 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [169]
-Underfull \hbox (badness 10000) in paragraph at lines 3391--3395
+Underfull \hbox (badness 10000) in paragraph at lines 3388--3392
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3396--3399
+Underfull \hbox (badness 10000) in paragraph at lines 3393--3397
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3400--3404
+Underfull \hbox (badness 10000) in paragraph at lines 3398--3402
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3405--3409
+Underfull \hbox (badness 10000) in paragraph at lines 3403--3406
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3410--3414
+Underfull \hbox (badness 10000) in paragraph at lines 3407--3411
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3415--3419
+Underfull \hbox (badness 10000) in paragraph at lines 3412--3416
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3420--3423
+Underfull \hbox (badness 10000) in paragraph at lines 3417--3421
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3424--3428
+Underfull \hbox (badness 10000) in paragraph at lines 3422--3426
 
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 3432--3432
+Underfull \hbox (badness 10000) in paragraph at lines 3427--3430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3431--3435
+
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 3439--3439
 []\TU/lmr/m/n/12 Regional population collapse followed initial agriculture boom
 s
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 3432--3432
+Underfull \hbox (badness 3128) in paragraph at lines 3439--3439
 \TU/lmr/m/n/12 in mid-Holocene Europe. \TU/lmr/m/it/12 Nature Communications \T
 U/lmr/m/n/12 4(1):2486.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3429--3433
-
- []
-
-
-Underfull \hbox (badness 2990) in paragraph at lines 3437--3437
-\TU/lmr/m/n/12 and Geometric Morphometrics. \TU/lmr/m/it/12 Lithic Technology \
-TU/lmr/m/n/12 2:195–220.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3434--3438
+Underfull \hbox (badness 10000) in paragraph at lines 3436--3440
 
  []
 
@@ -6415,53 +6405,48 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [170]
-Underfull \hbox (badness 10000) in paragraph at lines 3439--3443
+Underfull \hbox (badness 2990) in paragraph at lines 3444--3444
+\TU/lmr/m/n/12 and Geometric Morphometrics. \TU/lmr/m/it/12 Lithic Technology \
+TU/lmr/m/n/12 2:195–220.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3441--3445
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3444--3448
+Underfull \hbox (badness 10000) in paragraph at lines 3446--3450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3449--3453
+Underfull \hbox (badness 10000) in paragraph at lines 3451--3455
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3454--3457
+Underfull \hbox (badness 10000) in paragraph at lines 3456--3460
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3458--3462
+Underfull \hbox (badness 10000) in paragraph at lines 3461--3464
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3463--3467
+Underfull \hbox (badness 10000) in paragraph at lines 3465--3469
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3468--3472
+Underfull \hbox (badness 10000) in paragraph at lines 3470--3474
 
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 3476--3476
-[]\TU/lmr/m/n/12 Ecological variation and institutionalized inequality in hunte
-r-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3473--3477
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3478--3482
+Underfull \hbox (badness 10000) in paragraph at lines 3475--3479
 
  []
 
@@ -6475,57 +6460,63 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [171]
-Underfull \hbox (badness 10000) in paragraph at lines 3483--3486
+Underfull \hbox (badness 2837) in paragraph at lines 3483--3483
+[]\TU/lmr/m/n/12 Ecological variation and institutionalized inequality in hunte
+r-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3480--3484
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3487--3490
+Underfull \hbox (badness 10000) in paragraph at lines 3485--3489
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3491--3494
+Underfull \hbox (badness 10000) in paragraph at lines 3490--3493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3495--3499
+Underfull \hbox (badness 10000) in paragraph at lines 3494--3497
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3500--3504
+Underfull \hbox (badness 10000) in paragraph at lines 3498--3501
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3505--3509
+Underfull \hbox (badness 10000) in paragraph at lines 3502--3506
 
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 3512--3512
+Underfull \hbox (badness 10000) in paragraph at lines 3507--3511
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3512--3516
+
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 3519--3519
 \TU/lmr/m/it/12 Rugtvedt-Dørdal. Arkeologiske undersøkelser av lokaliteter fra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3510--3513
+Underfull \hbox (badness 10000) in paragraph at lines 3517--3520
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3514--3518
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3519--3522
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3523--3526
+Underfull \hbox (badness 10000) in paragraph at lines 3521--3525
 
  []
 
@@ -6539,52 +6530,47 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [172]
-Underfull \hbox (badness 10000) in paragraph at lines 3527--3531
+Underfull \hbox (badness 10000) in paragraph at lines 3526--3529
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3532--3536
+Underfull \hbox (badness 10000) in paragraph at lines 3530--3533
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3537--3541
+Underfull \hbox (badness 10000) in paragraph at lines 3534--3538
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3542--3546
+Underfull \hbox (badness 10000) in paragraph at lines 3539--3543
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3547--3550
+Underfull \hbox (badness 10000) in paragraph at lines 3544--3548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3551--3555
+Underfull \hbox (badness 10000) in paragraph at lines 3549--3553
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3556--3560
+Underfull \hbox (badness 10000) in paragraph at lines 3554--3557
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3561--3565
+Underfull \hbox (badness 10000) in paragraph at lines 3558--3562
 
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 3569--3569
-\TU/lmr/m/n/12 dinavia: Evidence from Studies of Mesolithic Technology, 9th-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3566--3570
+Underfull \hbox (badness 10000) in paragraph at lines 3563--3567
 
  []
 
@@ -6598,53 +6584,47 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [173]
-Underfull \hbox (badness 10000) in paragraph at lines 3571--3575
+Underfull \hbox (badness 10000) in paragraph at lines 3568--3572
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3576--3580
+Underfull \hbox (badness 1152) in paragraph at lines 3576--3576
+\TU/lmr/m/n/12 dinavia: Evidence from Studies of Mesolithic Technology, 9th-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3573--3577
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3581--3585
+Underfull \hbox (badness 10000) in paragraph at lines 3578--3582
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3586--3590
+Underfull \hbox (badness 10000) in paragraph at lines 3583--3587
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3591--3595
+Underfull \hbox (badness 10000) in paragraph at lines 3588--3592
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3596--3600
+Underfull \hbox (badness 10000) in paragraph at lines 3593--3597
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3601--3605
+Underfull \hbox (badness 10000) in paragraph at lines 3598--3602
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3609--3609
-[]\TU/lmr/m/n/12 Glacial isostatic adjustment in Fennoscandia–A review of
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 3609--3609
-\TU/lmr/m/n/12 data and modeling. \TU/lmr/m/it/12 Journal of Geodynamics \TU/lm
-r/m/n/12 52(3):169–204.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3606--3610
+Underfull \hbox (badness 10000) in paragraph at lines 3603--3607
 
  []
 
@@ -6658,69 +6638,85 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [174]
-Underfull \hbox (badness 10000) in paragraph at lines 3611--3615
+Underfull \hbox (badness 10000) in paragraph at lines 3608--3612
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3616--3620
+Underfull \hbox (badness 10000) in paragraph at lines 3616--3616
+[]\TU/lmr/m/n/12 Glacial isostatic adjustment in Fennoscandia–A review of
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 3616--3616
+\TU/lmr/m/n/12 data and modeling. \TU/lmr/m/it/12 Journal of Geodynamics \TU/lm
+r/m/n/12 52(3):169–204.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3613--3617
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3621--3625
+Underfull \hbox (badness 10000) in paragraph at lines 3618--3622
 
  []
 
 
-Underfull \hbox (badness 5637) in paragraph at lines 3629--3629
+Underfull \hbox (badness 10000) in paragraph at lines 3623--3627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3628--3632
+
+ []
+
+
+Underfull \hbox (badness 5637) in paragraph at lines 3636--3636
 []\TU/lmr/m/n/12 Credible worlds: the status of theoretical models in eco-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3629--3629
+Underfull \hbox (badness 10000) in paragraph at lines 3636--3636
 \TU/lmr/m/n/12 nomics. \TU/lmr/m/it/12 Journal of Economic Methodology \TU/lmr/
 m/n/12 7(1):1–31.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3626--3630
+Underfull \hbox (badness 10000) in paragraph at lines 3633--3637
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3631--3634
+Underfull \hbox (badness 10000) in paragraph at lines 3638--3641
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3638--3638
+Underfull \hbox (badness 10000) in paragraph at lines 3645--3645
 []\TU/lmr/m/n/12 Correcting temporal frequency distributions for taphonomic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3638--3638
+Underfull \hbox (badness 10000) in paragraph at lines 3645--3645
 \TU/lmr/m/n/12 bias. \TU/lmr/m/it/12 Journal of Archaeological Science \TU/lmr/
 m/n/12 36(8):1715–1724.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3635--3639
+Underfull \hbox (badness 10000) in paragraph at lines 3642--3646
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3640--3644
+Underfull \hbox (badness 10000) in paragraph at lines 3647--3651
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3645--3648
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3649--3653
+Underfull \hbox (badness 10000) in paragraph at lines 3652--3655
 
  []
 
@@ -6734,81 +6730,76 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [175]
-Underfull \hbox (badness 3333) in paragraph at lines 3657--3657
+Underfull \hbox (badness 10000) in paragraph at lines 3656--3660
+
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 3664--3664
 \TU/lmr/m/n/12 hunter–gatherers so different? \TU/lmr/m/it/12 Philosophical Tra
 nsactions of
  []
 
 
-Underfull \hbox (badness 4647) in paragraph at lines 3657--3657
+Underfull \hbox (badness 4647) in paragraph at lines 3664--3664
 \TU/lmr/m/it/12 the Royal Society B: Biological Sciences \TU/lmr/m/n/12 376(181
 6):20190708.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3654--3658
+Underfull \hbox (badness 10000) in paragraph at lines 3661--3665
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3662--3662
+Underfull \hbox (badness 10000) in paragraph at lines 3669--3669
 []\TU/lmr/m/n/12 Human ecodynamics in the north-west coast of Finland
  []
 
 
-Underfull \hbox (badness 3780) in paragraph at lines 3662--3662
+Underfull \hbox (badness 3780) in paragraph at lines 3669--3669
 \TU/lmr/m/n/12 10,000–2000 years ago. \TU/lmr/m/it/12 Quaternary International 
 \TU/lmr/m/n/12 549:26–35.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3659--3663
+Underfull \hbox (badness 10000) in paragraph at lines 3666--3670
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3664--3668
+Underfull \hbox (badness 10000) in paragraph at lines 3671--3675
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3669--3673
+Underfull \hbox (badness 10000) in paragraph at lines 3676--3680
 
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 3677--3677
+Underfull \hbox (badness 2961) in paragraph at lines 3684--3684
 []\TU/lmr/m/n/12 Directly modelling population dynamics in the South Ameri-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3674--3678
+Underfull \hbox (badness 10000) in paragraph at lines 3681--3685
 
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 3682--3682
+Underfull \hbox (badness 1158) in paragraph at lines 3689--3689
 \TU/lmr/m/n/12 proved method. \TU/lmr/m/it/12 Journal of Archaeological Science
  \TU/lmr/m/n/12 52:549–557.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3679--3683
+Underfull \hbox (badness 10000) in paragraph at lines 3686--3690
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3684--3688
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3689--3693
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3694--3698
+Underfull \hbox (badness 10000) in paragraph at lines 3691--3695
 
  []
 
@@ -6822,69 +6813,69 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [176]
-Underfull \hbox (badness 2707) in paragraph at lines 3702--3702
+Underfull \hbox (badness 10000) in paragraph at lines 3696--3700
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3701--3705
+
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 3709--3709
 []\TU/lmr/m/n/12 Demographic explanations of neanderthal extinction: a reply
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 3702--3702
+Underfull \hbox (badness 3713) in paragraph at lines 3709--3709
 \TU/lmr/m/n/12 to Currie and Meneganzin. \TU/lmr/m/it/12 Biology & Philosophy \
 TU/lmr/m/n/12 2(9):38.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3699--3703
+Underfull \hbox (badness 10000) in paragraph at lines 3706--3710
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3707--3707
+Underfull \hbox (badness 10000) in paragraph at lines 3714--3714
 []\TU/lmr/m/n/12 Why Model? \TU/lmr/m/it/12 Cybernetics and Systems \TU/lmr/m/n
 /12 35(2–3):117–128.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3704--3708
+Underfull \hbox (badness 10000) in paragraph at lines 3711--3715
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3709--3713
+Underfull \hbox (badness 10000) in paragraph at lines 3716--3720
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3714--3718
+Underfull \hbox (badness 10000) in paragraph at lines 3721--3725
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3719--3723
+Underfull \hbox (badness 10000) in paragraph at lines 3726--3730
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3724--3728
+Underfull \hbox (badness 10000) in paragraph at lines 3731--3735
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3729--3733
+Underfull \hbox (badness 10000) in paragraph at lines 3736--3740
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3734--3738
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3739--3743
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3744--3747
+Underfull \hbox (badness 10000) in paragraph at lines 3741--3745
 
  []
 
@@ -6898,90 +6889,90 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [177]
-Underfull \hbox (badness 10000) in paragraph at lines 3751--3751
+Underfull \hbox (badness 10000) in paragraph at lines 3746--3750
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3751--3754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3758--3758
 []\TU/lmr/m/n/12 The ASA Statement on p-Values: Context, Process,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3751--3751
+Underfull \hbox (badness 10000) in paragraph at lines 3758--3758
 \TU/lmr/m/n/12 and Purpose. \TU/lmr/m/it/12 The American Statistician \TU/lmr/m
 /n/12 70(2):129–133.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3748--3752
+Underfull \hbox (badness 10000) in paragraph at lines 3755--3759
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3753--3757
+Underfull \hbox (badness 10000) in paragraph at lines 3760--3764
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3758--3762
+Underfull \hbox (badness 10000) in paragraph at lines 3765--3769
 
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 3766--3766
+Underfull \hbox (badness 2913) in paragraph at lines 3773--3773
 []\TU/lmr/m/n/12 Holocene history of landscape development in the catchment
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 3766--3766
+Underfull \hbox (badness 3590) in paragraph at lines 3773--3773
 \TU/lmr/m/n/12 of Lake Skogstjern, southeastern Norway, based on a high-
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 3766--3766
+Underfull \hbox (badness 1248) in paragraph at lines 3773--3773
 \TU/lmr/m/n/12 resolution multi-proxy record. \TU/lmr/m/it/12 The Holocene \TU/
 lmr/m/n/12 27(12):1928–1947.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3763--3767
+Underfull \hbox (badness 10000) in paragraph at lines 3770--3774
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3768--3772
+Underfull \hbox (badness 10000) in paragraph at lines 3775--3779
 
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 3776--3776
+Underfull \hbox (badness 7047) in paragraph at lines 3783--3783
 []\TU/lmr/m/n/12 Model–data comparison for the 8.2kaBP event: Confirma-
  []
 
 
-Underfull \hbox (badness 7925) in paragraph at lines 3776--3776
+Underfull \hbox (badness 7925) in paragraph at lines 3783--3783
 \TU/lmr/m/n/12 tion of a forcing mechanism by catastrophic drainage of
  []
 
 
-Underfull \hbox (badness 6284) in paragraph at lines 3776--3776
+Underfull \hbox (badness 6284) in paragraph at lines 3783--3783
 \TU/lmr/m/n/12 laurentide lakes. \TU/lmr/m/it/12 Quaternary Science Reviews \TU
 /lmr/m/n/12 25(1):63–88.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3773--3777
+Underfull \hbox (badness 10000) in paragraph at lines 3780--3784
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3778--3782
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3783--3787
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3788--3792
+Underfull \hbox (badness 10000) in paragraph at lines 3785--3789
 
  []
 
@@ -6995,53 +6986,72 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [178]
-Underfull \hbox (badness 10000) in paragraph at lines 3793--3797
+Underfull \hbox (badness 10000) in paragraph at lines 3790--3794
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3798--3802
+Underfull \hbox (badness 10000) in paragraph at lines 3795--3799
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3803--3806
+Underfull \hbox (badness 10000) in paragraph at lines 3800--3804
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3807--3811
+Underfull \hbox (badness 10000) in paragraph at lines 3805--3809
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3812--3816
+Underfull \hbox (badness 10000) in paragraph at lines 3810--3813
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3817--3821
+Underfull \hbox (badness 10000) in paragraph at lines 3814--3818
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3825--3825
+Underfull \hbox (badness 10000) in paragraph at lines 3819--3823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3824--3828
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3832--3832
 []\TU/lmr/m/n/12 Maritime Hunter-Gatherers: Ecology and Prehistory [and
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 3825--3825
+Underfull \hbox (badness 3343) in paragraph at lines 3832--3832
 \TU/lmr/m/n/12 Comments and Reply]. \TU/lmr/m/it/12 Current Anthropology \TU/lm
 r/m/n/12 21(6):727–750.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3822--3826
+Underfull \hbox (badness 10000) in paragraph at lines 3829--3833
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3827--3831
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[179]
+Underfull \hbox (badness 10000) in paragraph at lines 3834--3838
 
  []
 
@@ -7051,12 +7061,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[179]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3834.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3834.
+[180]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3841.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3841.
 (./thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3834.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3834.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3841.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3841.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
@@ -7064,10 +7074,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  44988 strings out of 493007
  849937 string characters out of 6136720
- 1420658 words of memory out of 5000000
+ 1419674 words of memory out of 5000000
  48314 multiletter control sequences out of 15000+600000
  537675 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  66i,12n,117p,10401b,741s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (193 pages).
+Output written on thesis.pdf (194 pages).
