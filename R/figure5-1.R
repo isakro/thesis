@@ -6,7 +6,6 @@ library(patchwork)
 load(here::here("R/simulated_distances.rda"))
 load(here::here("R/curation_data.rda"))
 load(here::here("R/logmodel_rcarbon.rda"))
-load(here::here("R/chain_result.RData"))
 
 # Load plot of exponential model and simulation results for summed 
 # shorline dates
@@ -68,20 +67,57 @@ names(mean_loess) <- c("id", "x", "y", "ymin", "ymax")
 p2 <- ggplot() +
   geom_point() +
   geom_smooth(aes_auto(mean_loess), data = mean_loess,
+              fill = "grey60", alpha = 0.6,
               stat = "identity", col = "red", linewidth = 0.5) +
   labs(x = "BCE", y = "Curation index") +
   # scale_x_continuous(limits = c(-10000, -2500),
   #                    breaks = seq(-10000, -00, 1000)) +
   theme_bw()
 
-# 
+
+# Store results e
+save(results, file = here::here("../external_data/chain_result.RData"))
+load(here::here("../external_data/chain_result.RData"))
+
+
 dfres <- as.data.frame(t(results[1:1000,]))
-dfres$year <- as.numeric(rownames(dfres)) + 3900
+dfres$year <- as.numeric(rownames(dfres))
 dfres <- reshape2::melt(dfres,  id.vars = 'year', variable.name = 'series')
 
-ggplot() + 
+# q = c(0.25, 0.75, # 50%
+#       0.125, 0.875, # 75%
+#       0.025, 0.975) # 95 %
+# 
+# #calculate quantiles by grouping variable
+# res_ci <- dfres %>%
+#   group_by(year) %>%
+#   summarize(quant50l = quantile(value, probs = q[1]),
+#             quant50u = quantile(value, probs = q[2]),
+#             quant75l = quantile(value, probs = q[3]),
+#             quant75u = quantile(value, probs = q[4]),
+#             quant95l = quantile(value, probs = q[5]),
+#             quant95u = quantile(value, probs = q[6]))
+# 
+# 
+# p3 <- ggplot(data = res_ci, aes(x = year)) + 
+#   geom_ribbon(data = res_ci, aes(ymin = quant95l, ymax = quant95u),
+#               fill = "grey80") +
+#   geom_ribbon(data = res_ci, aes(ymin = quant75l, ymax = quant75u),
+#               fill = "grey60") +
+#   geom_ribbon(data = res_ci, aes(ymin = quant50l, ymax = quant50u),
+#               fill = "grey40") +
+#   geom_line(data = LOG, aes(year, pdf), col = "red") +
+#   scale_x_reverse(limits = c(11950, 4450),
+#                   breaks = seq(11950, 4450, -1000),
+#                   expand = expansion(mult = c(0, 0)),
+#                   labels = function(x)(x-1950)*-1) +
+#   scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +
+#   labs(x = "BCE", y = "Probability density") +
+#   theme_bw()
+
+p3 <- ggplot() + 
   geom_line(data = dfres, aes(year, value, group = series),
-            col = "grey80", alpha = 0.6) +
+            col = "grey60", alpha = 0.1) +
   geom_line(data = LOG, aes(year, pdf), col = "red") +
   scale_x_reverse(limits = c(11950, 4450),
                   breaks = seq(11950, 4450, -1000),
@@ -91,14 +127,6 @@ ggplot() +
   labs(x = "BCE", y = "Probability density") +
   theme_bw()
 
-p3 <- ggplot(data = LOG) + geom_line(aes(year, pdf), col = "red") +
-  scale_x_reverse(limits = c(11950, 4450),
-                  breaks = seq(11950, 4450, -1000),
-                  expand = expansion(mult = c(0, 0)),
-                  labels = function(x)(x-1950)*-1) +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +
-  labs(x = "BCE", y = "Probability density") +
-  theme_bw()
 
 (p1 + p3) /
 (p2 + expplts) +

@@ -1,37 +1,92 @@
+\pagestyle{plain}
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
 # Papers {-}
+\restoregeometry
+
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
 ## Paper 1 {-}
-**A simulation-based assessment of the relation between Stone Age sites and relative sea-level change along the Norwegian Skagerrak coast**
+\textbf{{\large A simulation-based assessment of the relation between Stone Age sites and relative sea-level change along the Norwegian Skagerrak coast}}
+\restoregeometry
+
 \includepdf[pages={-}]{papers/paper1.pdf}
 \includepdf[pages={-}]{papers/paper1_corrigendum.pdf}
 
+
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
 ## Paper 2 {-}
-**shoredate: An R package for shoreline dating coastal Stone Age sites**
+\textbf{{\large shoredate: An R package for shoreline dating coastal Stone Age sites}}
+\restoregeometry
+
 \includepdf[pages={-}]{papers/paper2.pdf}
 
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
 ## Paper 3 {-}
-**Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway**
+\textbf{{\large Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway}}
+\restoregeometry
+
 \includepdf[pages={-}]{papers/paper3.pdf}
 
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
+## Paper 4 {-}
+\textbf{{\large Comparing summed probability distributions of shoreline and radiocarbon dates from the Mesolithic Skagerrak coast of Norway}}
+\restoregeometry
+
+\includepdf[pages={-}]{papers/paper4.pdf}
+
+\pagestyle{plain}
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
 # Appendix {-}
+The following sections holds supplementary material published with the papers. Note that all data, code, text and figures underlying the papers, this synopsis and the supplementary material is available through the online repositories listed in Section \@ref(open).
+\restoregeometry
 \newpage
 
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
 ## Supplementary material, Paper 1 {-}
+\restoregeometry
+
 \includepdf[pages={-}]{appendix/supplementary_paper1.pdf}
 
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
 ## Supplementary material, Paper 2 {-}
-The supplementary material for Paper 2 is PDF versions of HTML documents providing documentation for the R-package *shoredate*. These can be viewed in their original interactive form on either the GitHub page for the package at https://github.com/isakro/shoredate, on the website of the package at https://isakro.github.io/shoredate/ or through the landing page for the package on CRAN: https://cran.r-project.org/package=shoredate.
+The supplementary material for Paper 2 is PDF versions of HTML documents providing documentation for the R package *shoredate*. These can be viewed in their original interactive form on either the GitHub page for the package at https://github.com/isakro/shoredate, on the website of the package at https://isakro.github.io/shoredate/ or through the landing page for the package on CRAN: https://cran.r-project.org/package=shoredate.
+\restoregeometry
+\newpage
 
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
 ### Introduction to shoredate (README.rmd) {-}
+\restoregeometry
 \includepdf[pages={-}]{appendix/supplementary_paper2_1.pdf}
 
-### Introductory vignette (shoredate.rmd) {-}
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
+### Vignette 1: Guide to using shoredate (shoredate.rmd) {-}
+\restoregeometry
 \includepdf[pages={-}]{appendix/supplementary_paper2_2.pdf}
 
-### Second vignette (extending-shoredate.rmd) {-}
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
+### Vignette 2: Extending shoredate (extending-shoredate.rmd) {-}
+\restoregeometry
 \includepdf[pages={-}]{appendix/supplementary_paper2_3.pdf}
 
-### Reference manual (shoredate.pdf) {-}
+
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
+### Reference manual for shoredate (shoredate.pdf) {-}
+\restoregeometry
 \includepdf[pages={-}]{appendix/supplementary_paper2_4.pdf}
 
+\newgeometry{top=0.4\paperheight}
+\setlength{\parindent}{0cm}
 ## Supplementary material, Paper 3 {-}
+\restoregeometry
 \includepdf[pages={-}]{appendix/supplementary_paper3.pdf}
