@@ -119,29 +119,3 @@
 \contentsline {section}{\numberline {5.6}Chapter summary}{110}{section.5.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}Concluding remarks}{113}{chapter.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Papers}{171}{chapter*.25}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Paper 1}{172}{section*.26}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Paper 2}{194}{section*.27}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Paper 3}{201}{section*.28}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Paper 4}{218}{section*.29}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix}{241}{chapter*.30}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Supplementary material, Paper 1}{242}{section*.31}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Supplementary material, Paper 2}{330}{section*.32}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Introduction to shoredate (README.rmd)}{331}{section*.33}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Vignette 1: Guide to using shoredate (shoredate.rmd)}{341}{section*.34}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Vignette 2: Extending shoredate (extending-shoredate.rmd)}{365}{section*.35}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Reference manual for shoredate (shoredate.pdf)}{375}{section*.36}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Supplementary material, Paper 3}{393}{section*.37}
