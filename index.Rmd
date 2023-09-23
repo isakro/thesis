@@ -18,7 +18,7 @@ output:
 bookdown::epub_book:
   pandoc_args: ["--csl", "saa.csl"]
 link-citations: yes
-classoption: twoside
+classoption: oneside #twoside
 # header-includes:
 #   - \usepackage{titling}
 #   - \pretitle{\begin{center}

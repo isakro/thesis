@@ -2,7 +2,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{List of Figures}{x}{chapter*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of Tables}{xii}{chapter*.4}
+\contentsline {chapter}{List of Tables}{xi}{chapter*.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
@@ -118,4 +118,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.6}Chapter summary}{110}{section.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Concluding remarks}{113}{chapter.6}
+\contentsline {chapter}{\numberline {6}Concluding remarks}{112}{chapter.6}

@@ -105,11 +105,12 @@
   \vskip 2em
 }
 
+% ,xshift=0.25in
 \renewcommand{\maketitlehookd}{%
   \null\vfill
   \begin{center}
   \begin{tikzpicture}[remember picture,overlay]
-    \node at ([yshift=1.5in,xshift=0.25in]current page.south) {\includegraphics[width=2in,height=2in]{figures/uio_logo_eng.jpg}};
+    \node at ([yshift=1.5in]current page.south) {\includegraphics[width=2in,height=2in]{figures/uio_logo_eng.jpg}}; 
   \end{tikzpicture}
   \end{center}
   \vfill
