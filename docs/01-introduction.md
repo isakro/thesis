@@ -83,7 +83,7 @@ Introductory text & NA & thesis & 10.17605/osf.io/h3jdf\\
 Paper 1 & osf.io/3x7ju & assessing.sealevel.dating & 10.17605/osf.io/7f9su\\
 Paper 2 & NA & shoredate & 10.5281/zenodo.7971859\\
 Paper 3 & osf.io/cqaps & exploring-assemblages-se-norway & 10.17605/osf.io/ehjfc\\
-Paper 4 &  & se.norway.shoredate.14c & 10.17605/osf.io/fqwt5\\
+Paper 4 &  & se.norway.shoredate.14c & 10.5281/zenodo.8373857\\
 \bottomrule
 \end{tabular}
 \end{table}
