@@ -72,18 +72,18 @@ To this end, this thesis has been written in its entirety using the R programmin
 
 \begin{table}
 
-\caption[Overview of repositories and pre-prints]{(\#tab:op)Overview of repositories and pre-prints. GitHub repositories can be accessed by adding the name of the repository after https://github.com/isakro/, and the archived repositories by adding the DOI after https://doi.org/ in a web browser.}
+\caption[Overview of repositories and pre-prints]{(\#tab:op)Overview of repositories and pre-prints. GitHub repositories can be accessed by adding the name of the repository after https://github.com/isakro/ in a web browser. Pre/post-prints and archived repositories can be accessed by adding https://doi.org/ before the provided DOIs.}
 \centering
 \fontsize{10}{12}\selectfont
 \begin{tabular}[t]{llll}
 \toprule
-Text & Pre/post-print & GitHub repository & Repository DOI\\
+Text & Pre/post-print & GitHub repository & Archive\\
 \midrule
-Introductory text & NA & thesis & 10.17605/osf.io/h3jdf\\
-Paper 1 & osf.io/3x7ju & assessing.sealevel.dating & 10.17605/osf.io/7f9su\\
+Intro text & NA & thesis & 10.17605/osf.io/h3jdf\\
+Paper 1 & 10.31235/osf.io/3x7ju & assessing.sealevel.dating & 10.17605/osf.io/7f9su\\
 Paper 2 & NA & shoredate & 10.5281/zenodo.7971859\\
-Paper 3 & osf.io/cqaps & exploring-assemblages-se-norway & 10.17605/osf.io/ehjfc\\
-Paper 4 &  & se.norway.shoredate.14c & 10.5281/zenodo.8373857\\
+Paper 3 & 10.31235/osf.io/cqaps & exploring-assemblages-se-norway & 10.17605/osf.io/ehjfc\\
+Paper 4 & 10.31235/osf.io/2f8ph & se.norway.shoredate.14c & 10.5281/zenodo.8373857\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -101,7 +101,9 @@ The second part of the thesis is aimed more squarely at elucidating past cultura
 ### Paper 4: *Comparing summed probability distributions of shoreline and radiocarbon dates from the Mesolithic Skagerrak coast of Norway*
 Unpacking the complex interplay between environmental conditions, settlement patterns and population density has been deemed of fundamental importance to archaeological inquiry [e.g. @french2016; @shennan2000]. The fourth and final paper of the thesis, written in collaboration with Steinar Solheim, is aimed at combining findings from the previous papers to evaluate the interplay between some empirical indicators suggested in the literature to be related to these dimensions. Concretely, the paper begins the task of elucidating the complex relationship between variation in relative population size as potentially reflected in the frequency of shoreline dated sites and the intensity of radiocarbon dates over time. 
 
-The main substantive findings of the paper were that the frequency of shoreline dated sites is relatively high from the start of the Mesolithic, from around c. 9500 BCE, and then undergoes some process of decline. The frequency of radiocarbon dates, on the other hand, only starts from around 8500 BCE and quickly increases along the trajectory of a model of logistic growth. This increase has plateaued by the first centuries after 8000 BCE, and then remains stable for the duration of the Mesolithic. In the paper, we suggest that the different behaviour of the proxies reflect that the frequency of shoreline dated sites is more heavily influenced by variation in mobility patterns, compared to that of radiocarbon dates, which we suggest is more heavily determined by population density. Clarifying this relationship will, however, depend on drawing on other measures that track the developments of factors such as mobility patterns that we suggest cause the discrepancy between the proxies.  
+The main substantive findings of the paper were that the frequency of shoreline dated sites is relatively high from the start of the Mesolithic, from around c. 9500 BCE, and then undergoes some process of decline. The frequency of radiocarbon dates, on the other hand, only starts from around 8500 BCE and quickly increases along the trajectory of a model of logistic growth. This increase has plateaued by the first centuries after 8000 BCE, and then remains stable for the duration of the Mesolithic. In the paper, we suggest that the different behaviour of the proxies reflect that the frequency of shoreline dated sites is more heavily influenced by variation in mobility patterns, compared to that of radiocarbon dates, which we suggest is more heavily determined by population density. Clarifying this relationship will, however, depend on drawing on other measures that track the developments of factors such as mobility patterns that we suggest cause the discrepancy between the proxies. 
+
+The paper has been released as a pre-print (see Table \@ref(tab:op)) and been submitted for open peer review at Peer Community in Archaeology (see https://archaeo.peercommunityin.org/PCIArchaeology for more information).
 
 ## Structure of the thesis
 

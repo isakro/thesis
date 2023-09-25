@@ -24,7 +24,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.5.4}Paper 4: \emph {Comparing summed probability distributions of shoreline and radiocarbon dates from the Mesolithic Skagerrak coast of Norway}}{9}{subsection.1.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.6}Structure of the thesis}{9}{section.1.6}
+\contentsline {section}{\numberline {1.6}Structure of the thesis}{10}{section.1.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}The Mesolithic in south-eastern Norway}{11}{chapter.2}
 \defcounter {refsection}{0}\relax 
