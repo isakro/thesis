@@ -77,7 +77,7 @@ To this end, this thesis has been written in its entirety using the R programmin
 \fontsize{10}{12}\selectfont
 \begin{tabular}[t]{llll}
 \toprule
-Text & Pre/post-print & GitHub repository & Archive\\
+Text & Pre/post-print & GitHub repository & Archived repository\\
 \midrule
 Intro text & NA & thesis & 10.17605/osf.io/h3jdf\\
 Paper 1 & 10.31235/osf.io/3x7ju & assessing.sealevel.dating & 10.17605/osf.io/7f9su\\

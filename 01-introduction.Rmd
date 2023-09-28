@@ -95,7 +95,7 @@ knitr::kable(
   dat, booktabs = TRUE,  linesep = c(""), escape = FALSE, format = "latex",
   caption.short = "Overview of repositories and pre-prints",
   caption = "Overview of repositories and pre-prints. GitHub repositories can be accessed by adding the name of the repository after https://github.com/isakro/ in a web browser. Pre/post-prints and archived repositories can be accessed by adding https://doi.org/ before the provided DOIs.",
-  col.names = c("Text", "Pre/post-print", "GitHub repository", "Archive")
+  col.names = c("Text", "Pre/post-print", "GitHub repository", "Archived repository")
 ) %>% kableExtra::kable_styling(position = "center", font_size = 10)
 ```
 
