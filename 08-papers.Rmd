@@ -7,7 +7,7 @@
 \newgeometry{top=0.4\paperheight}
 \setlength{\parindent}{0cm}
 ## Paper 1 {-}
-\textbf{{\large A simulation-based assessment of the relation between Stone Age sites and relative sea-level change along the Norwegian Skagerrak coast}}
+\large Roalkvam, I. 2023. A simulation-based assessment of the relation between Stone Age sites and relative sea-level change along the Norwegian Skagerrak coast. \textit{Quaternary Science Reviews}, 266:107880. DOI: \url{https://doi.org/10.1016/j.quascirev.2022.107880}
 \restoregeometry
 
 \includepdf[pages={-}]{papers/paper1.pdf}
@@ -17,7 +17,7 @@
 \newgeometry{top=0.4\paperheight}
 \setlength{\parindent}{0cm}
 ## Paper 2 {-}
-\textbf{{\large shoredate: An R package for shoreline dating coastal Stone Age sites}}
+\large Roalkvam, I. 2023. shoredate: An R package for shoreline dating coastal Stone Age sites. \textit{Journal of Open Source Software}, 8(85):5337. DOI: \url{https://doi.org/10.21105/joss.05337}
 \restoregeometry
 
 \includepdf[pages={-}]{papers/paper2.pdf}
@@ -25,7 +25,7 @@
 \newgeometry{top=0.4\paperheight}
 \setlength{\parindent}{0cm}
 ## Paper 3 {-}
-\textbf{{\large Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway}}
+\large Roalkvam, I. 2022. Exploring the composition of lithic assemblages in Mesolithic south-eastern Norway. \textit{Journal of Archaeological Science: Reports}, 42:103371. DOI: \url{https://doi.org/10.1016/j.jasrep.2022.103371}
 \restoregeometry
 
 \includepdf[pages={-}]{papers/paper3.pdf}
@@ -33,16 +33,16 @@
 \newgeometry{top=0.4\paperheight}
 \setlength{\parindent}{0cm}
 ## Paper 4 {-}
-\textbf{{\large Comparing summed probability distributions of shoreline and radiocarbon dates from the Mesolithic Skagerrak coast of Norway}}
+\large Roalkvam, I. and Solheim, S. 2023. Comparing summed probability distributions of shoreline and radiocarbon dates from the Mesolithic Skagerrak coast of Norway. \textit{SocArXiv} pre-print, version 2. DOI: \url{https://doi.org/10.31235/osf.io/2f8ph}
 \restoregeometry
 
 \includepdf[pages={-}]{papers/paper4.pdf}
 
 \pagestyle{plain}
-\newgeometry{top=0.4\paperheight}
+\newgeometry{top=0.32\paperheight}
 \setlength{\parindent}{0cm}
 # Appendix {-}
-The following sections holds supplementary material published with the papers. Note that all data, code, text and figures underlying the papers, this synopsis and the supplementary material is available through the online repositories listed in Section \@ref(open).
+The following sections holds supplementary material published with the papers. Note that all data, code, text and figures underlying the papers, the introductory text and all supplementary material is available through the online repositories listed in Section \@ref(open).
 \restoregeometry
 \newpage
 
