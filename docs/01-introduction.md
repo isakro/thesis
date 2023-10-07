@@ -79,7 +79,7 @@ To this end, this thesis has been written in its entirety using the R programmin
 \toprule
 Text & Pre/post-print & GitHub repository & Archived repository\\
 \midrule
-Intro text & NA & thesis & 10.17605/osf.io/h3jdf\\
+Intro text & NA & thesis & 10.17605/osf.io/h3jfd\\
 Paper 1 & 10.31235/osf.io/3x7ju & assessing.sealevel.dating & 10.17605/osf.io/7f9su\\
 Paper 2 & NA & shoredate & 10.5281/zenodo.7971859\\
 Paper 3 & 10.31235/osf.io/cqaps & exploring-assemblages-se-norway & 10.17605/osf.io/ehjfc\\

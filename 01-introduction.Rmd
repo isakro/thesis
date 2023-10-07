@@ -85,7 +85,7 @@ dat <- data.frame(titles = c(
                            "shoredate",
                            "exploring-assemblages-se-norway",
                            "se.norway.shoredate.14c"),
-         repositorydoi = c("10.17605/osf.io/h3jdf",
+         repositorydoi = c("10.17605/osf.io/h3jfd",
                            "10.17605/osf.io/7f9su", 
                            "10.5281/zenodo.7971859",
                            "10.17605/osf.io/ehjfc",
